@@ -1,0 +1,1 @@
+#TODO: change sim_info for extra time to ET variable as in binomial-detailed

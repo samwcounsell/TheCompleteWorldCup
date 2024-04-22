@@ -1,0 +1,21 @@
+.rc-slider-track {
+  background-color: tan;
+}
+
+.rc-slider-dot-active {
+  border-color: tan;
+  border: solid 2px tan;
+}
+
+.rc-slider-handle {
+  background-color: white;
+  border-color: tan;
+}
+
+.rc-slider-handle:hover {
+  border-color: tan;
+}
+
+.rc-slider-handle-active:active {
+  border-color: tan;
+}
