@@ -1,7 +1,7 @@
 import pandas as pd
 from scipy.stats import bernoulli
 from functions.match_day_functions import match_data_collection, detailed_sim_goal, commentary
-from functions. worldcup_functions import stadium_info
+from functions. worldcup_functions_old import stadium_info
 import time, os, json
 
 
@@ -23,8 +23,8 @@ def detailed_binomial_match(data, participants, WC, settings, stage, leg, ET):
         data, participants)
 
     # Running binomial simulation with size 90
-    if WC > 0:
-        stadium_info()
+    #if WC > 0:
+    #    stadium_info()
 
     if ET == 0:
 
@@ -97,6 +97,7 @@ def detailed_sim_nation_events(nation_df, home, away, score_home, score_away, WC
         nation_df.loc[nation_df['Country'] == home, 'CS'] += 1
 
     if WC > 0:
+        # TODO: Split these back into individual lines so it works, try later to combine back into one line
         nation_df.loc[nation_df['Country'] == home, ['WC_P', 'WC_GF', 'WC_GA']] += [1, score_home, score_away]
         if away == 0:
             nation_df.loc[nation_df['Country'] == home, 'WC_CS'] += 1

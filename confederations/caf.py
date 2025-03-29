@@ -29,6 +29,7 @@ def caf(data, settings):
     settings.stage = 'round2'
     # sim_data, teams, legs, sim, WC, group number, group size
     qualified_c = knockout(data, qualified_b, 1, settings, 0)
+    print(qualified_c)
     qualified_icp = knockout(data, qualified_c, 1, settings, 0)
     print(f"\nQualified for the Inter-Continental Playoff: {', '.join(qualified_icp)}")
 

@@ -11,20 +11,20 @@ from scipy.stats import binom, bernoulli
 import numpy as np
 
 P = np.array([
-    [0.1, 0, 0.1, 0.5, 0.2, 0, 0, 0.1, 0],  # HC
-    [0, 0, 1, 0, 0, 0, 0, 0, 0],  # HK
-    [0.15, 0, 0.5, 0.2, 0.1, 0, 0, 0.05, 0],  # HP
-    [0, 0, 0.4, 0.2, 0.4, 0, 0, 0, 0],  # C
-    [0, 0, 0.1, 0.2, 0.5, 0, 0.15, 0, 0.05],  # AP
-    [0, 0, 0, 0, 1, 0, 0, 0, 0],  # AK
-    [0, 0, 0.2, 0.5, 0.1, 0, 0.1, 0, 0.1],  # AC
     [0, 0, 0, 0, 0, 1, 0, 0, 0],  # HG
-    [0, 1, 0, 0, 0, 0, 0, 0, 0]  # AG
+    [0.1, 0.1, 0.1, 0, 0.5, 0, 0.2, 0, 0],  # HC
+    [0.05, 0.15, 0.5, 0, 0.2, 0, 0.1, 0, 0],  # HP
+    [0, 0, 1, 0, 0, 0, 0, 0, 0],  # HK
+    [0, 0, 0.4, 0, 0.2, 0, 0.4, 0, 0],  # C
+    [0, 0, 0, 0, 0, 0, 1, 0, 0],  # AK
+    [0, 0, 0.1, 0, 0.2, 0, 0.5, 0.15, 0.05],  # AP
+    [0, 0, 0.2, 0, 0.5, 0, 0.1, 0.1, 0.1],  # AC
+    [0, 0, 0, 1, 0, 0, 0, 0, 0]  # AG
 ])
 
 Pn = P
 
-u = np.array([0, 1, 0, 0, 0, 0, 0, 0, 0])
+u = np.array([0, 0, 0, 1, 0, 0, 0, 0, 0])
 ui = u
 
 expected_visits = np.array([0, 0, 0, 0, 0, 0, 0, 0, 0])
@@ -58,20 +58,22 @@ expected_transitions = P * y[:, np.newaxis]
 ## Creating the figures
 P_fig = px.imshow(P, text_auto=True, color_continuous_scale='ylorbr',
                   labels=dict(x='Transition State', y="Starting State", color="P"),
-                  x=['Home Corner', 'Home Kickoff', 'Home Possesion', 'Contested Ball',
-                     'Away Possesion', 'Away Kickoff', 'Away Corner', 'Home Goal', 'Away Goal'],
-                  y=['Home Corner', 'Home Kickoff', 'Home Possesion', 'Contested Ball',
-                     'Away Possesion', 'Away Kickoff', 'Away Corner', 'Home Goal', 'Away Goal'])
+                  x=['Home Goal', 'Home Corner', 'Home Possession', 'Home Kickoff', 'Contested Ball', 'Away Kickoff',
+                     'Away Possession', 'Away Corner', 'Away Goal'],
+                  y=['Home Goal', 'Home Corner', 'Home Possession', 'Home Kickoff', 'Contested Ball', 'Away Kickoff',
+                     'Away Possession', 'Away Corner', 'Away Goal'])
 P_fig.update_xaxes(side="top")
 
 expected_transitions_fig = px.imshow(np.round(expected_transitions, 2),
                                      text_auto=True,
                                      color_continuous_scale='ylorbr',
                                      labels=dict(x='Transition State', y="Starting State", color="Expected Occurrence"),
-                                     x=['Home Corner', 'Home Kickoff', 'Home Possesion', 'Contested Ball',
-                                        'Away Possesion', 'Away Kickoff', 'Away Corner', 'Home Goal', 'Away Goal'],
-                                     y=['Home Corner', 'Home Kickoff', 'Home Possesion', 'Contested Ball',
-                                        'Away Possesion', 'Away Kickoff', 'Away Corner', 'Home Goal', 'Away Goal'])
+                                     x=['Home Goal', 'Home Corner', 'Home Possession', 'Home Kickoff', 'Contested Ball',
+                                        'Away Kickoff',
+                                        'Away Possession', 'Away Corner', 'Away Goal'],
+                                     y=['Home Goal', 'Home Corner', 'Home Possession', 'Home Kickoff', 'Contested Ball',
+                                        'Away Kickoff',
+                                        'Away Possession', 'Away Corner', 'Away Goal'])
 expected_transitions_fig.update_xaxes(side="top", tickangle=45)
 expected_transitions_fig.update_traces(textfont_size=10)
 expected_transitions_fig.update_layout(

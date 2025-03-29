@@ -1,0 +1,2322 @@
+Name,Country,Confederation,Position,Attack,Passing,P,Goals,Assists,WC_P,WC_Goals,WC_Assists
+Eiji Kawashima,Japan,AFC,GK,0,0,0,0,0,0,0,0
+Yugo Nagtomo,Japan,AFC,DEF,2,2,0,0,0,0,0,0
+Hiroki Sakai,Japan,AFC,DEF,3,2,0,0,0,0,0,0
+Maya Yoshida,Japan,AFC,DEF,3,5,0,0,0,0,0,0
+Takehiro Tomiyasu,Japan,AFC,DEF,1,5,0,0,0,0,0,0
+Wataru Endo,Japan,AFC,MID,2,4,0,0,0,0,0,0
+Makoto Hasebe,Japan,AFC,MID,3,4,0,0,0,0,0,0
+Takumi Minamino,Japan,AFC,MID,7,10,0,0,0,0,0,0
+Takefusi Kubo,Japan,AFC,MID,7,10,0,0,0,0,0,0
+Musashi Suzuki,Japan,AFC,ATK,8,8,0,0,0,0,0,0
+Takuma Asano,Japan,AFC,ATK,9,8,0,0,0,0,0,0
+Alireza Beiranvand,Iran,AFC,GK,0,0,0,0,0,0,0,0
+Hossein Kanaanizadegan,Iran,AFC,DEF,2,2,0,0,0,0,0,0
+Sadegh Moharrami,Iran,AFC,DEF,3,2,0,0,0,0,0,0
+Milad Mohammadi,Iran,AFC,DEF,2,5,0,0,0,0,0,0
+Morteza Pouraliganji,Iran,AFC,DEF,2,5,0,0,0,0,0,0
+Valid Amiri,Iran,AFC,MID,4,4,0,0,0,0,0,0
+Ehsan Hajsafi,Iran,AFC,MID,5,4,0,0,0,0,0,0
+Medhi Torabi,Iran,AFC,MID,5,10,0,0,0,0,0,0
+Alireza Jahanbakhsh,Iran,AFC,MID,8,10,0,0,0,0,0,0
+Medhi Taremi,Iran,AFC,ATK,9,8,0,0,0,0,0,0
+Sardar Azmoun,Iran,AFC,ATK,10,8,0,0,0,0,0,0
+Jo Hyeon-Woo,South Korea,AFC,GK,0,0,0,0,0,0,0,0
+Kim Jin-su,South Korea,AFC,DEF,2,2,0,0,0,0,0,0
+Kwon Kyung-won,South Korea,AFC,DEF,3,2,0,0,0,0,0,0
+Kim Min-jae,South Korea,AFC,DEF,1,5,0,0,0,0,0,0
+Hong Chul,South Korea,AFC,DEF,1,5,0,0,0,0,0,0
+Lee Chung-yong,South Korea,AFC,MID,3,4,0,0,0,0,0,0
+Nam Tae-hee,South Korea,AFC,MID,3,4,0,0,0,0,0,0
+Lee Jae-sung,South Korea,AFC,MID,5,10,0,0,0,0,0,0
+Hwang Hee-chan,South Korea,AFC,ATK,9,10,0,0,0,0,0,0
+Hwang Ui-jo,South Korea,AFC,ATK,8,8,0,0,0,0,0,0
+Son Heuing-min,South Korea,AFC,ATK,15,8,0,0,0,0,0,0
+Matthew Ryan,Australia,AFC,GK,0,0,0,0,0,0,0,0
+Milos Degenek,Australia,AFC,DEF,1,2,0,0,0,0,0,0
+Bailey Wright,Australia,AFC,DEF,1,2,0,0,0,0,0,0
+Aziz Behich,Australia,AFC,DEF,1,5,0,0,0,0,0,0
+Harry Soutar,Australia,AFC,DEF,2,5,0,0,0,0,0,0
+Trent Salisbury,Australia,AFC,DEF,2,4,0,0,0,0,0,0
+Jackson Irvine,Australia,AFC,MID,5,4,0,0,0,0,0,0
+Aaron Mooy,Australia,AFC,MID,5,10,0,0,0,0,0,0
+Tom Rogic,Australia,AFC,MID,6,10,0,0,0,0,0,0
+Awer Mabil,Australia,AFC,ATK,7,8,0,0,0,0,0,0
+Adam Taggart,Australia,AFC,ATK,9,8,0,0,0,0,0,0
+Saad Al Sheeb,Qatar,AFC,GK,0,0,0,0,0,0,0,0
+Ro-Ro,Qatar,AFC,DEF,1,2,0,0,0,0,0,0
+Abdelkarim Hassan ,Qatar,AFC,DEF,3,2,0,0,0,0,0,0
+Boualem Khoukhi,Qatar,AFC,DEF,4,5,0,0,0,0,0,0
+Al-Madhi Al Mukhtar,Qatar,AFC,DEF,2,5,0,0,0,0,0,0
+Karim Boudaif,Qatar,AFC,MID,4,4,0,0,0,0,0,0
+Abdulaziz Hatem,Qatar,AFC,MID,3,4,0,0,0,0,0,0
+Mohamed Waad,Qatar,AFC,MID,3,10,0,0,0,0,0,0
+Hassan Al-Haydos,Qatar,AFC,ATK,7,10,0,0,0,0,0,0
+Akram Afif,Qatar,AFC,ATK,10,8,0,0,0,0,0,0
+Almoez Azi,Qatar,AFC,ATK,10,8,0,0,0,0,0,0
+Mohammed Al-Rubaie,Saudi Arabia,AFC,GK,0,0,0,0,0,0,0,0
+Ali Al-Bulaihi,Saudi Arabia,AFC,DEF,1,2,0,0,0,0,0,0
+Mohammed Al-Breik,Saudi Arabia,AFC,DEF,1,2,0,0,0,0,0,0
+Mohammed Al-Khabrani,Saudi Arabia,AFC,DEF,2,5,0,0,0,0,0,0
+Yasser Al-Shahrani,Saudi Arabia,AFC,DEF,2,5,0,0,0,0,0,0
+Hattan Bahberi,Saudi Arabia,AFC,MID,4,4,0,0,0,0,0,0
+Nawaf Al-Abed,Saudi Arabia,AFC,MID,4,4,0,0,0,0,0,0
+Salman Al-Faraj,Saudi Arabia,AFC,MID,6,10,0,0,0,0,0,0
+Salem Al-Dawsari,Saudi Arabia,AFC,MID,6,10,0,0,0,0,0,0
+Abdullah Al-Hamdan,Saudi Arabia,AFC,ATK,10,8,0,0,0,0,0,0
+Firas al-Buraikan,Saudi Arabia,AFC,ATK,10,8,0,0,0,0,0,0
+Jalal Hassan,Iraq,AFC,GK,0,0,0,0,0,0,0,0
+Ahmed Ibrahim,Iraq,AFC,DEF,1,2,0,0,0,0,0,0
+Ali Faez,Iraq,AFC,DEF,1,2,0,0,0,0,0,0
+Rebin Sulaka,Iraq,AFC,DEF,2,5,0,0,0,0,0,0
+Ali Adnan,Iraq,AFC,DEF,2,5,0,0,0,0,0,0
+Bashae Resan,Iraq,AFC,MID,4,4,0,0,0,0,0,0
+Mohammed Qasim,Iraq,AFC,MID,4,4,0,0,0,0,0,0
+Humam Tariq,Iraq,AFC,MID,6,10,0,0,0,0,0,0
+Hussein Ali,Iraq,AFC,MID,6,10,0,0,0,0,0,0
+Alaa Abdul-Zahra,Iraq,AFC,ATK,10,8,0,0,0,0,0,0
+Mohanad Ali,Iraq,AFC,ATK,14,8,0,0,0,0,0,0
+Khalid Eisa,UAE,AFC,GK,0,0,0,0,0,0,0,0
+Walid Abbas,UAE,AFC,DEF,1,2,0,0,0,0,0,0
+Fares Juma,UAE,AFC,DEF,1,2,0,0,0,0,0,0
+Yousif Jaber,UAE,AFC,DEF,2,5,0,0,0,0,0,0
+Abdulaziz Haikal,UAE,AFC,DEF,2,5,0,0,0,0,0,0
+Ali Salmeen,UAE,AFC,MID,4,4,0,0,0,0,0,0
+Majed Hassan,UAE,AFC,MID,4,4,0,0,0,0,0,0
+Habib Al Fardan,UAE,AFC,MID,6,10,0,0,0,0,0,0
+Khalil Ibrahim,UAE,AFC,MID,6,10,0,0,0,0,0,0
+Ali Mabkhout,UAE,AFC,ATK,15,8,0,0,0,0,0,0
+Khalfan Mubarak,UAE,AFC,ATK,10,8,0,0,0,0,0,0
+Zeng Cheng,China,AFC,GK,0,0,0,0,0,0,0,0
+Zheng Zheng,China,AFC,DEF,1,2,0,0,0,0,0,0
+Mei Fang,China,AFC,DEF,1,2,0,0,0,0,0,0
+Yu Dabao,China,AFC,DEF,4,5,0,0,0,0,0,0
+Zhang Linpeng,China,AFC,DEF,2,5,0,0,0,0,0,0
+Cai Huikang,China,AFC,MID,4,4,0,0,0,0,0,0
+Zhang Xizhe,China,AFC,MID,4,4,0,0,0,0,0,0
+Wu Xi,China,AFC,MID,6,10,0,0,0,0,0,0
+Hao Junmin,China,AFC,MID,6,10,0,0,0,0,0,0
+Yang Xu,China,AFC,ATK,10,8,0,0,0,0,0,0
+Wu Lei,China,AFC,ATK,10,8,0,0,0,0,0,0
+Ibrahim Alma,Syria,AFC,GK,0,0,0,0,0,0,0,0
+Moayad Ajan,Syria,AFC,DEF,1,2,0,0,0,0,0,0
+Amro Jenyat,Syria,AFC,DEF,1,2,0,0,0,0,0,0
+Omar Midani,Syria,AFC,DEF,2,5,0,0,0,0,0,0
+Hussein Jwayed,Syria,AFC,DEF,2,5,0,0,0,0,0,0
+Ward Al Salama,Syria,AFC,MID,4,4,0,0,0,0,0,0
+Mohammed Osman,Syria,AFC,MID,4,4,0,0,0,0,0,0
+Mahmoud Al-Mawas,Syria,AFC,MID,6,10,0,0,0,0,0,0
+Mohammad Marmour,Syria,AFC,MID,6,10,0,0,0,0,0,0
+Omar Kharbin,Syria,AFC,ATK,10,8,0,0,0,0,0,0
+Omar Al Somah,Syria,AFC,ATK,10,8,0,0,0,0,0,0
+Faiz Al-Rushaidi,Oman,AFC,GK,0,0,0,0,0,0,0,0
+Ali Al-Busaidi,Oman,AFC,DEF,1,2,0,0,0,0,0,0
+Saad Al-Mukhaini,Oman,AFC,DEF,1,2,0,0,0,0,0,0
+Mohammed Al-Balushi,Oman,AFC,DEF,2,5,0,0,0,0,0,0
+Mohammed Al-Musalami,Oman,AFC,DEF,2,5,0,0,0,0,0,0
+Salaah Al-Yahyaei,Oman,AFC,MID,4,4,0,0,0,0,0,0
+Mohsin Al-Khaldi,Oman,AFC,MID,4,4,0,0,0,0,0,0
+Ahmed Mubrarak Al-Mahaijri,Oman,AFC,MID,6,10,0,0,0,0,0,0
+Raed Ibrahim Saleh,Oman,AFC,MID,6,10,0,0,0,0,0,0
+Abdulaziz Al-Muqbali,Oman,AFC,ATK,10,8,0,0,0,0,0,0
+Khalid Al-Hajri,Oman,AFC,ATK,10,8,0,0,0,0,0,0
+Eldorbek Suyunov,Uzbekistan,AFC,GK,0,0,0,0,0,0,0,0
+Islom Tukhtakhujaev,Uzbekistan,AFC,DEF,1,2,0,0,0,0,0,0
+Oleg Zoteev,Uzbekistan,AFC,DEF,1,2,0,0,0,0,0,0
+Murod Kholmukhademov,Uzbekistan,AFC,DEF,2,5,0,0,0,0,0,0
+Rustam Ashurmatov,Uzbekistan,AFC,DEF,2,5,0,0,0,0,0,0
+Ikromjon Alibaev,Uzbekistan,AFC,MID,4,4,0,0,0,0,0,0
+Egor Krimets,Uzbekistan,AFC,MID,4,4,0,0,0,0,0,0
+Otabek Shukurov,Uzbekistan,AFC,MID,6,10,0,0,0,0,0,0
+Sanjar Kodirkulov,Uzbekistan,AFC,MID,6,10,0,0,0,0,0,0
+Igot Sergeev,Uzbekistan,AFC,ATK,10,8,0,0,0,0,0,0
+Eldor Shomurodov,Uzbekistan,AFC,ATK,10,8,0,0,0,0,0,0
+Medhi Khalil,Lebanon,AFC,GK,0,0,0,0,0,0,0,0
+Mohamed Zein Tahan,Lebanon,AFC,DEF,1,2,0,0,0,0,0,0
+Mootaz Jounaidi,Lebanon,AFC,DEF,1,2,0,0,0,0,0,0
+Joan Oumari,Lebanon,AFC,DEF,2,5,0,0,0,0,0,0
+Nour Mansour,Lebanon,AFC,DEF,2,5,0,0,0,0,0,0
+Adnan Haidar,Lebanon,AFC,MID,4,4,0,0,0,0,0,0
+Nadar Matar,Lebanon,AFC,MID,4,4,0,0,0,0,0,0
+"Hassan ""Moni"" Chaito",Lebanon,AFC,MID,6,10,0,0,0,0,0,0
+Moahamed Haidar,Lebanon,AFC,MID,6,10,0,0,0,0,0,0
+Rabih Ataya,Lebanon,AFC,ATK,10,8,0,0,0,0,0,0
+Hilal El-Helwe,Lebanon,AFC,ATK,10,8,0,0,0,0,0,0
+Tran Nguyen Manh,Vietnam,AFC,GK,0,0,0,0,0,0,0,0
+Bui Tien Dung,Vietnam,AFC,DEF,1,2,0,0,0,0,0,0
+Doan Van Hau,Vietnam,AFC,DEF,1,2,0,0,0,0,0,0
+Do Duy Manh,Vietnam,AFC,DEF,2,5,0,0,0,0,0,0
+Que Ngoc Hai,Vietnam,AFC,DEF,2,5,0,0,0,0,0,0
+Nguyen Huy Heng,Vietnam,AFC,MID,4,4,0,0,0,0,0,0
+Luong Xuan Truong,Vietnam,AFC,MID,4,4,0,0,0,0,0,0
+Nguyen Quang Hai,Vietnam,AFC,MID,6,10,0,0,0,0,0,0
+Nguyen Trong Hoang,Vietnam,AFC,MID,6,10,0,0,0,0,0,0
+Nguyen Anh Duc,Vietnam,AFC,ATK,10,8,0,0,0,0,0,0
+Nguyen Van Quyet,Vietnam,AFC,ATK,10,8,0,0,0,0,0,0
+Amer Shafi,Jordan,AFC,GK,0,0,0,0,0,0,0,0
+Fares Shelbaieh,Jordan,AFC,DEF,1,2,0,0,0,0,0,0
+Ihsan Haddad,Jordan,AFC,DEF,1,2,0,0,0,0,0,0
+Tareq Khattab,Jordan,AFC,DEF,2,5,0,0,0,0,0,0
+Mohammad Al-Dmeiri,Jordan,AFC,DEF,2,5,0,0,0,0,0,0
+Anas Al-Awadat,Jordan,AFC,MID,4,4,0,0,0,0,0,0
+Mohammad Abu Zrayq,Jordan,AFC,MID,4,4,0,0,0,0,0,0
+Nour Al-Rawabdeh,Jordan,AFC,MID,6,10,0,0,0,0,0,0
+Saleh Rateb,Jordan,AFC,MID,6,10,0,0,0,0,0,0
+Mahmoud Al-Mardi,Jordan,AFC,MID,10,8,0,0,0,0,0,0
+Ali Olwan,Jordan,AFC,ATK,10,8,0,0,0,0,0,0
+Pavel Matyash,Kyrgyzstan,AFC,GK,0,0,0,0,0,0,0,0
+Mustafa Iusupov,Kyrgyzstan,AFC,DEF,1,2,0,0,0,0,0,0
+Tamirlan Kozubaev,Kyrgyzstan,AFC,DEF,1,2,0,0,0,0,0,0
+Valery Kichin,Kyrgyzstan,AFC,DEF,2,5,0,0,0,0,0,0
+Azamat Baimatov,Kyrgyzstan,AFC,DEF,2,5,0,0,0,0,0,0
+Bekzhan Sagynbaev,Kyrgyzstan,AFC,MID,4,4,0,0,0,0,0,0
+Kairat Zhyrgalbek Uulu,Kyrgyzstan,AFC,MID,4,4,0,0,0,0,0,0
+Akhlidin Shukurov,Kyrgyzstan,AFC,MID,6,10,0,0,0,0,0,0
+Edgar Bernhardt,Kyrgyzstan,AFC,MID,6,10,0,0,0,0,0,0
+Vitalij Lux,Kyrgyzstan,AFC,ATK,10,8,0,0,0,0,0,0
+Mirlan Murzaev,Kyrgyzstan,AFC,ATK,10,8,0,0,0,0,0,0
+Sayed Jaffer,Bahrain,AFC,GK,0,0,0,0,0,0,0,0
+Waleed Al Hayam,Bahrain,AFC,DEF,1,2,0,0,0,0,0,0
+Abdulla Al-Haza'a,Bahrain,AFC,DEF,1,2,0,0,0,0,0,0
+Ahmed Abdulla,Bahrain,AFC,DEF,2,5,0,0,0,0,0,0
+Sayed Redha Isa,Bahrain,AFC,DEF,2,5,0,0,0,0,0,0
+Sayed Dhiya Saeed,Bahrain,AFC,MID,4,4,0,0,0,0,0,0
+Kamil Al Aswad,Bahrain,AFC,MID,4,4,0,0,0,0,0,0
+Abdulwahab Al-Malood,Bahrain,AFC,MID,6,10,0,0,0,0,0,0
+Ali Madan,Bahrain,AFC,MID,6,10,0,0,0,0,0,0
+Ismail Abdullatif,Bahrain,AFC,ATK,10,8,0,0,0,0,0,0
+Sami Al-Husaini,Bahrain,AFC,ATK,10,8,0,0,0,0,0,0
+Tawfiq Ali,Palestine,AFC,GK,0,0,0,0,0,0,0,0
+Musab Al-Battat,Palestine,AFC,DEF,1,2,0,0,0,0,0,0
+Mahommad Abu Malayah,Palestine,AFC,DEF,1,2,0,0,0,0,0,0
+Musa Farawi,Palestine,AFC,DEF,2,5,0,0,0,0,0,0
+Musa Saleem,Palestine,AFC,DEF,2,5,0,0,0,0,0,0
+Mohamed Darwish,Palestine,AFC,MID,4,4,0,0,0,0,0,0
+Mohammed Yameen,Palestine,AFC,MID,4,4,0,0,0,0,0,0
+Tamar Seyam,Palestine,AFC,MID,6,10,0,0,0,0,0,0
+Sameh Maraaba,Palestine,AFC,MID,6,10,0,0,0,0,0,0
+Khaled Salem,Palestine,AFC,ATK,10,8,0,0,0,0,0,0
+Shehab Qumbor,Palestine,AFC,ATK,10,8,0,0,0,0,0,0
+Gurpreet Singh Sandhu,India,AFC,GK,0,0,0,0,0,0,0,0
+Anas Edathodika,India,AFC,DEF,1,2,0,0,0,0,0,0
+Pritam Kotal,India,AFC,DEF,1,2,0,0,0,0,0,0
+Subhasish Bose,India,AFC,DEF,2,5,0,0,0,0,0,0
+Sandesh Jhingan,India,AFC,DEF,2,5,0,0,0,0,0,0
+Udanta Singh,India,AFC,MID,4,4,0,0,0,0,0,0
+Rowlin Borges,India,AFC,MID,4,4,0,0,0,0,0,0
+Anirudh Thapa,India,AFC,MID,6,10,0,0,0,0,0,0
+Lallianzuala Chhangte,India,AFC,MID,6,10,0,0,0,0,0,0
+Manvir Singh,India,AFC,ATK,10,8,0,0,0,0,0,0
+Sunil Chettri,India,AFC,ATK,25,8,0,0,0,0,0,0
+Chatchai Budprom,Thailand,AFC,GK,0,0,0,0,0,0,0,0
+Manuel Bihr,Thailand,AFC,DEF,1,2,0,0,0,0,0,0
+Tristan Do,Thailand,AFC,DEF,1,2,0,0,0,0,0,0
+Philip Roller,Thailand,AFC,DEF,2,5,0,0,0,0,0,0
+Suriya Singmui,Thailand,AFC,DEF,2,5,0,0,0,0,0,0
+Phitiwat Sukjitthammakul,Thailand,AFC,MID,4,4,0,0,0,0,0,0
+Ekanit Panya,Thailand,AFC,MID,4,4,0,0,0,0,0,0
+Sarach Yooyen,Thailand,AFC,MID,6,10,0,0,0,0,0,0
+Thitiphan Puangjan,Thailand,AFC,MID,6,10,0,0,0,0,0,0
+Adisak Kraisorn,Thailand,AFC,ATK,10,8,0,0,0,0,0,0
+Chenrop Samphaodi,Thailand,AFC,ATK,10,8,0,0,0,0,0,0
+Ri Kwang-il,North Korea,AFC,GK,0,0,0,0,0,0,0,0
+Kim Chol-bom,North Korea,AFC,DEF,1,2,0,0,0,0,0,0
+Pak Myong-song,North Korea,AFC,DEF,1,2,0,0,0,0,0,0
+Sim Hyon-jin,North Korea,AFC,DEF,2,5,0,0,0,0,0,0
+Jang Kuk-chol,North Korea,AFC,DEF,2,5,0,0,0,0,0,0
+Han Thae-hyok,North Korea,AFC,MID,4,4,0,0,0,0,0,0
+Ri Yong-jik,North Korea,AFC,MID,4,4,0,0,0,0,0,0
+Ri Un-chol,North Korea,AFC,MID,6,10,0,0,0,0,0,0
+Jong Il-gwan,North Korea,AFC,MID,10,10,0,0,0,0,0,0
+Pak Hyon-il,North Korea,AFC,ATK,10,8,0,0,0,0,0,0
+Pak Kwang-ryong,North Korea,AFC,ATK,15,8,0,0,0,0,0,0
+Rustam Yatimov,Tajikistan,AFC,GK,0,0,0,0,0,0,0,0
+Iskandar Dzhalilov,Tajikistan,AFC,DEF,1,2,0,0,0,0,0,0
+Tabrezi Davlatmir,Tajikistan,AFC,DEF,1,2,0,0,0,0,0,0
+Akhtam Nazarov,Tajikistan,AFC,DEF,2,5,0,0,0,0,0,0
+Davron Ergashev,Tajikistan,AFC,DEF,2,5,0,0,0,0,0,0
+Amirbek Juraboev,Tajikistan,AFC,MID,4,4,0,0,0,0,0,0
+Ehson Panjshanbe,Tajikistan,AFC,MID,4,4,0,0,0,0,0,0
+Alisher Dzhalilov,Tajikistan,AFC,MID,6,10,0,0,0,0,0,0
+Prarvizdzhon Umarbayev,Tajikistan,AFC,MID,6,10,0,0,0,0,0,0
+Manuchekhr Dzhalilov,Tajikistan,AFC,ATK,10,8,0,0,0,0,0,0
+Jahongir Ergashev,Tajikistan,AFC,ATK,10,8,0,0,0,0,0,0
+Neil Etheridge,Philippines,AFC,GK,0,0,0,0,0,0,0,0
+Alvaro Silva,Philippines,AFC,DEF,1,2,0,0,0,0,0,0
+Luke Woodland,Philippines,AFC,DEF,1,2,0,0,0,0,0,0
+Daisuke Sato,Philippines,AFC,DEF,2,5,0,0,0,0,0,0
+Carli de Murga,Philippines,AFC,DEF,2,5,0,0,0,0,0,0
+John-Patrick Strauss,Philippines,AFC,MID,4,4,0,0,0,0,0,0
+Mike Ott,Philippines,AFC,MID,4,4,0,0,0,0,0,0
+Stephan Schrock,Philippines,AFC,MID,6,10,0,0,0,0,0,0
+Iain Ramsay,Philippines,AFC,MID,6,10,0,0,0,0,0,0
+Angel Guirado,Philippines,AFC,ATK,10,8,0,0,0,0,0,0
+Patrick Reichelt,Philippines,AFC,ATK,10,8,0,0,0,0,0,0
+Mammet Orazmuhammedow,Turkmenistan,AFC,GK,0,0,0,0,0,0,0,0
+Sohrat Soyunow,Turkmenistan,AFC,DEF,1,2,0,0,0,0,0,0
+Serdar Annaorazow,Turkmenistan,AFC,DEF,1,2,0,0,0,0,0,0
+Mekan Saparow,Turkmenistan,AFC,DEF,2,5,0,0,0,0,0,0
+Abdy Basimow,Turkmenistan,AFC,DEF,2,5,0,0,0,0,0,0
+Serdar Geldiyew,Turkmenistan,AFC,MID,4,4,0,0,0,0,0,0
+Altymyrat Annadurdyyew,Turkmenistan,AFC,MID,4,4,0,0,0,0,0,0
+Arlsanmyrat Amanow,Turkmenistan,AFC,MID,6,10,0,0,0,0,0,0
+Ruslan Mingasow,Turkmenistan,AFC,MID,6,10,0,0,0,0,0,0
+Didar Durdyyew,Turkmenistan,AFC,ATK,10,8,0,0,0,0,0,0
+Wahyt Orazsahedow,Turkmenistan,AFC,ATK,10,8,0,0,0,0,0,0
+Kyaw Zin Htet,Myanmar,AFC,GK,0,0,0,0,0,0,0,0
+Kyaw Zin Lwin,Myanmar,AFC,DEF,1,2,0,0,0,0,0,0
+Nanda Kyaw,Myanmar,AFC,DEF,1,2,0,0,0,0,0,0
+Zaw Min Tun,Myanmar,AFC,DEF,2,5,0,0,0,0,0,0
+David Htan,Myanmar,AFC,DEF,2,5,0,0,0,0,0,0
+Yan Niang Oo,Myanmar,AFC,MID,4,4,0,0,0,0,0,0
+Myo Ko Tun,Myanmar,AFC,MID,4,4,0,0,0,0,0,0
+Maung Maung Lwin,Myanmar,AFC,MID,6,10,0,0,0,0,0,0
+Hlaing Bo Bo,Myanmar,AFC,MID,6,10,0,0,0,0,0,0
+Kyaw Ko Ko,Myanmar,AFC,ATK,10,8,0,0,0,0,0,0
+Aung Thu,Myanmar,AFC,ATK,10,8,0,0,0,0,0,0
+Pan Wen-chieh,Taipei,AFC,GK,0,0,0,0,0,0,0,0
+Hung Tzu-kuei,Taipei,AFC,DEF,1,2,0,0,0,0,0,0
+Wang Ruei,Taipei,AFC,DEF,1,2,0,0,0,0,0,0
+Lin Cheng-yi,Taipei,AFC,DEF,2,5,0,0,0,0,0,0
+Chen Ting-yang,Taipei,AFC,DEF,2,5,0,0,0,0,0,0
+Chen Ye-wei,Taipei,AFC,MID,4,4,0,0,0,0,0,0
+Wu Chun-ching,Taipei,AFC,MID,6,4,0,0,0,0,0,0
+Wen Chih-hao,Taipei,AFC,MID,6,10,0,0,0,0,0,0
+Chen Po-liang,Taipei,AFC,MID,9,10,0,0,0,0,0,0
+Chen Hao-wei,Taipei,AFC,ATK,10,8,0,0,0,0,0,0
+Chu En-le,Taipei,AFC,ATK,10,8,0,0,0,0,0,0
+Yapp Hung Fai,Hong Kong,AFC,GK,0,0,0,0,0,0,0,0
+Tsui Wang Kit,Hong Kong,AFC,DEF,1,2,0,0,0,0,0,0
+Helio,Hong Kong,AFC,DEF,1,2,0,0,0,0,0,0
+Roberto,Hong Kong,AFC,DEF,2,5,0,0,0,0,0,0
+Festus Baise,Hong Kong,AFC,DEF,2,5,0,0,0,0,0,0
+Wong Wai,Hong Kong,AFC,MID,4,4,0,0,0,0,0,0
+Tan Chun Lok,Hong Kong,AFC,MID,4,4,0,0,0,0,0,0
+Huang Yang,Hong Kong,AFC,MID,6,10,0,0,0,0,0,0
+Xu Deshuai,Hong Kong,AFC,MID,6,10,0,0,0,0,0,0
+Alex Akande,Hong Kong,AFC,ATK,10,8,0,0,0,0,0,0
+Sandro,Hong Kong,AFC,ATK,10,8,0,0,0,0,0,0
+Mohammed Ayash,Yemen,AFC,GK,0,0,0,0,0,0,0,0
+Mohammed Boqshan,Yemen,AFC,DEF,1,2,0,0,0,0,0,0
+Mudir Al-Radaei,Yemen,AFC,DEF,1,2,0,0,0,0,0,0
+Mohammed Ba Rowis,Yemen,AFC,DEF,2,5,0,0,0,0,0,0
+Mohammed Fuad Omar,Yemen,AFC,DEF,2,5,0,0,0,0,0,0
+Hussein Al-Ghazi,Yemen,AFC,MID,4,4,0,0,0,0,0,0
+Ahmed Al-Haifi,Yemen,AFC,MID,4,4,0,0,0,0,0,0
+Alaa Al-Sasi,Yemen,AFC,MID,6,10,0,0,0,0,0,0
+Abdulwasea Al-Matari,Yemen,AFC,MID,6,10,0,0,0,0,0,0
+Emad Mansoor,Yemen,AFC,ATK,10,8,0,0,0,0,0,0
+Ahmed Alos,Yemen,AFC,ATK,10,8,0,0,0,0,0,0
+Hameed Al-Qallaf,Kuwait,AFC,GK,0,0,0,0,0,0,0,0
+Amer Al-Fadhel,Kuwait,AFC,DEF,1,2,0,0,0,0,0,0
+Dhari Said,Kuwait,AFC,DEF,1,2,0,0,0,0,0,0
+Fahad Humood Al-Rashadi,Kuwait,AFC,DEF,2,5,0,0,0,0,0,0
+Fahed Al Hajri,Kuwait,AFC,DEF,2,5,0,0,0,0,0,0
+Fahad Al Ansari,Kuwait,AFC,MID,4,4,0,0,0,0,0,0
+Sultan Al Enezi,Kuwait,AFC,MID,4,4,0,0,0,0,0,0
+Adbullah Al Buraiki,Kuwait,AFC,MID,6,10,0,0,0,0,0,0
+Faisal Zaid,Kuwait,AFC,MID,6,10,0,0,0,0,0,0
+Bader Al Mutawa,Kuwait,AFC,ATK,10,8,0,0,0,0,0,0
+Yousef Nasser,Kuwait,AFC,ATK,10,8,0,0,0,0,0,0
+Ovays Azizi,Afghanistan,AFC,GK,0,0,0,0,0,0,0,0
+Shafif Mukhammad,Afghanistan,AFC,DEF,1,2,0,0,0,0,0,0
+Farzid Ataie,Afghanistan,AFC,DEF,1,2,0,0,0,0,0,0
+Hassan Amin,Afghanistan,AFC,DEF,2,5,0,0,0,0,0,0
+Zohib Islam Amiri,Afghanistan,AFC,DEF,2,5,0,0,0,0,0,0
+Milad Intezar,Afghanistan,AFC,MID,4,4,0,0,0,0,0,0
+Adam Najem,Afghanistan,AFC,MID,4,4,0,0,0,0,0,0
+Farshad Noor,Afghanistan,AFC,MID,6,10,0,0,0,0,0,0
+Faysal Shayesteh,Afghanistan,AFC,MID,6,10,0,0,0,0,0,0
+Norlla Amiri,Afghanistan,AFC,ATK,10,8,0,0,0,0,0,0
+Khaibar Amani,Afghanistan,AFC,ATK,10,8,0,0,0,0,0,0
+Farizal Marlias,Malaysia,AFC,GK,0,0,0,0,0,0,0,0
+Matthew Davies,Malaysia,AFC,DEF,1,2,0,0,0,0,0,0
+Syahmi Safari,Malaysia,AFC,DEF,1,2,0,0,0,0,0,0
+Aidil Zafuan Radzak,Malaysia,AFC,DEF,2,5,0,0,0,0,0,0
+Sharul Saad,Malaysia,AFC,DEF,2,5,0,0,0,0,0,0
+Danial Amier Norhisham,Malaysia,AFC,MID,4,4,0,0,0,0,0,0
+Brendan Gan Seng Ling,Malaysia,AFC,MID,4,4,0,0,0,0,0,0
+Baddrol Bakhtiar,Malaysia,AFC,MID,6,10,0,0,0,0,0,0
+Syamer Kutty Abba,Malaysia,AFC,MID,6,10,0,0,0,0,0,0
+Norshahrul Idlan Tahala,Malaysia,AFC,ATK,10,8,0,0,0,0,0,0
+Safawi Rasid,Malaysia,AFC,ATK,10,8,0,0,0,0,0,0
+Mohamed Faisal,Maldives,AFC,GK,0,0,0,0,0,0,0,0
+Samdhooh Mohamed ,Maldives,AFC,DEF,1,2,0,0,0,0,0,0
+Hussain Sifaau,Maldives,AFC,DEF,1,2,0,0,0,0,0,0
+Haisham Hassan,Maldives,AFC,DEF,2,5,0,0,0,0,0,0
+Mujuthaaz Mohamed,Maldives,AFC,DEF,2,5,0,0,0,0,0,0
+Akram Abdul Ghanee,Maldives,AFC,MID,4,4,0,0,0,0,0,0
+Mohamed Arif,Maldives,AFC,MID,4,4,0,0,0,0,0,0
+Hamza Mohamed,Maldives,AFC,MID,6,10,0,0,0,0,0,0
+Ahmed Imaz,Maldives,AFC,MID,6,10,0,0,0,0,0,0
+Ali Ashfaq,Maldives,AFC,ATK,10,8,0,0,0,0,0,0
+Asadhulla Abdulla,Maldives,AFC,ATK,10,8,0,0,0,0,0,0
+Hassan Sunny,Singapore,AFC,GK,0,0,0,0,0,0,0,0
+Nazrul Nazari,Singapore,AFC,DEF,1,2,0,0,0,0,0,0
+Zulqarnaen Suzliman,Singapore,AFC,DEF,1,2,0,0,0,0,0,0
+FadilKamis,Singapore,AFC,DEF,2,5,0,0,0,0,0,0
+Anders Aplin,Singapore,AFC,DEF,2,5,0,0,0,0,0,0
+Anumanthan Kumar,Singapore,AFC,MID,4,4,0,0,0,0,0,0
+Firadus Kasman,Singapore,AFC,MID,4,4,0,0,0,0,0,0
+Gabriel Quak,Singapore,AFC,MID,6,10,0,0,0,0,0,0
+Shahdan Sulaiman ,Singapore,AFC,MID,6,10,0,0,0,0,0,0
+Sahil Suhaimi,Singapore,AFC,ATK,10,8,0,0,0,0,0,0
+Shawal Anuar,Singapore,AFC,ATK,10,8,0,0,0,0,0,0
+Kiran Chemjong,Nepal,AFC,GK,0,0,0,0,0,0,0,0
+Suman Aryal,Nepal,AFC,DEF,1,2,0,0,0,0,0,0
+Rajin Dhimal,Nepal,AFC,DEF,1,2,0,0,0,0,0,0
+Ajit Bhandari,Nepal,AFC,DEF,2,5,0,0,0,0,0,0
+Anata Tamang,Nepal,AFC,DEF,2,5,0,0,0,0,0,0
+Rohit Chand,Nepal,AFC,MID,4,4,0,0,0,0,0,0
+Sunil Bal,Nepal,AFC,MID,4,4,0,0,0,0,0,0
+Sujal Shrestha,Nepal,AFC,MID,6,10,0,0,0,0,0,0
+Anjan Bista,Nepal,AFC,MID,6,10,0,0,0,0,0,0
+Bharat Khawas,Nepal,AFC,ATK,10,8,0,0,0,0,0,0
+Nawayug Shreshta,Nepal,AFC,ATK,10,8,0,0,0,0,0,0
+Sou Yaty,Cambodia,AFC,GK,0,0,0,0,0,0,0,0
+Cheng Meng,Cambodia,AFC,DEF,1,2,0,0,0,0,0,0
+Sath Rosib,Cambodia,AFC,DEF,1,2,0,0,0,0,0,0
+Sareth Krya,Cambodia,AFC,DEF,2,5,0,0,0,0,0,0
+Soeuy Visal,Cambodia,AFC,DEF,2,5,0,0,0,0,0,0
+Sos Suhana,Cambodia,AFC,MID,4,4,0,0,0,0,0,0
+Thierry Chantha Bin,Cambodia,AFC,MID,4,4,0,0,0,0,0,0
+Kouch Sokumpheak,Cambodia,AFC,MID,6,10,0,0,0,0,0,0
+Yeu Muslim,Cambodia,AFC,MID,6,10,0,0,0,0,0,0
+Prak Mony Udom,Cambodia,AFC,ATK,10,8,0,0,0,0,0,0
+Keo Sokpheng,Cambodia,AFC,ATK,10,8,0,0,0,0,0,0
+Nadeo Argawinata,Indonesia,AFC,GK,0,0,0,0,0,0,0,0
+Bagas Adi,Indonesia,AFC,DEF,1,2,0,0,0,0,0,0
+Johan Alfarizi,Indonesia,AFC,DEF,1,2,0,0,0,0,0,0
+Asnawi Mangkualam,Indonesia,AFC,DEF,2,5,0,0,0,0,0,0
+Fachrudin Aryanto,Indonesia,AFC,DEF,2,5,0,0,0,0,0,0
+Febri Hariyadi,Indonesia,AFC,MID,4,4,0,0,0,0,0,0
+Hendro Siswanto,Indonesia,AFC,MID,4,4,0,0,0,0,0,0
+Zulfiandi,Indonesia,AFC,MID,6,10,0,0,0,0,0,0
+Evan Dimas,Indonesia,AFC,MID,6,10,0,0,0,0,0,0
+Irfan Bachdim,Indonesia,AFC,ATK,10,8,0,0,0,0,0,0
+Ilija Spasojevic,Indonesia,AFC,ATK,10,8,0,0,0,0,0,0
+Ho Man Fai,Macau,AFC,GK,0,0,0,0,0,0,0,0
+Filipe Duarte,Macau,AFC,DEF,1,2,0,0,0,0,0,0
+Lei Ka Him,Macau,AFC,DEF,1,2,0,0,0,0,0,0
+Chan Man,Macau,AFC,DEF,2,5,0,0,0,0,0,0
+Pang Chi Hang,Macau,AFC,MID,4,5,0,0,0,0,0,0
+Kong Cheng Hou,Macau,AFC,MID,4,4,0,0,0,0,0,0
+Ho Chi Fung,Macau,AFC,MID,4,4,0,0,0,0,0,0
+Lam Ka Seng,Macau,AFC,MID,6,10,0,0,0,0,0,0
+Leong Ka Hang,Macau,AFC,ATK,10,10,0,0,0,0,0,0
+Ho Man Hou,Macau,AFC,ATK,10,8,0,0,0,0,0,0
+Niki Torrao,Macau,AFC,ATK,10,8,0,0,0,0,0,0
+Ashraful Islam Rana,Bangladesh,AFC,GK,0,0,0,0,0,0,0,0
+Biswanath Ghosh,Bangladesh,AFC,DEF,1,2,0,0,0,0,0,0
+Raphat Mia,Bangladesh,AFC,DEF,1,2,0,0,0,0,0,0
+Yeasin Khan,Bangladesh,AFC,DEF,2,5,0,0,0,0,0,0
+Topu Barman,Bangladesh,AFC,DEF,2,5,0,0,0,0,0,0
+Jamal Bhuyan,Bangladesh,AFC,MID,4,4,0,0,0,0,0,0
+Biplu Ahmed,Bangladesh,AFC,MID,4,4,0,0,0,0,0,0
+Robiul Hasan,Bangladesh,AFC,MID,6,10,0,0,0,0,0,0
+Manumul Islam,Bangladesh,AFC,MID,6,10,0,0,0,0,0,0
+Nabib Newaj Jibon,Bangladesh,AFC,ATK,10,8,0,0,0,0,0,0
+Motin Mia,Bangladesh,AFC,ATK,10,8,0,0,0,0,0,0
+Outthilath Nammakoth,Laos,AFC,GK,0,0,0,0,0,0,0,0
+Thinnakone Vongsa,Laos,AFC,DEF,1,2,0,0,0,0,0,0
+Kaharn Phetsivilay,Laos,AFC,DEF,1,2,0,0,0,0,0,0
+Vanna Bounlovongsa,Laos,AFC,DEF,1,5,0,0,0,0,0,0
+Lathasay Lounlasy,Laos,AFC,DEF,1,5,0,0,0,0,0,0
+Phoutdvy Phommasane,Laos,AFC,MID,2,4,0,0,0,0,0,0
+Phoutthasay Khochalern,Laos,AFC,MID,2,4,0,0,0,0,0,0
+Phouthone Innalay,Laos,AFC,MID,2,10,0,0,0,0,0,0
+Soukaphone Vongchiengkham,Laos,AFC,MID,10,10,0,0,0,0,0,0
+Somxay Keohanam,Laos,AFC,ATK,6,8,0,0,0,0,0,0
+Vannasone Douangmaity,Laos,AFC,ATK,6,8,0,0,0,0,0,0
+Tshering Dendup,Bhutan,AFC,GK,0,0,0,0,0,0,0,0
+Tenzin Dorji,Bhutan,AFC,DEF,1,2,0,0,0,0,0,0
+Phuntsho Jigme,Bhutan,AFC,DEF,1,2,0,0,0,0,0,0
+Mipham Jigme,Bhutan,AFC,DEF,1,5,0,0,0,0,0,0
+Choki Wangchuk,Bhutan,AFC,DEF,3,5,0,0,0,0,0,0
+Nima Wangdi,Bhutan,AFC,MID,2,4,0,0,0,0,0,0
+Chimi Dorji,Bhutan,AFC,MID,2,4,0,0,0,0,0,0
+Karma Shedrup Thsering,Bhutan,AFC,MID,5,10,0,0,0,0,0,0
+Tsering Dorji,Bhutan,AFC,MID,9,10,0,0,0,0,0,0
+Kabile Nadoem,Bhutan,AFC,ATK,6,8,0,0,0,0,0,0
+Chencho Gyeltshen,Bhutan,AFC,ATK,10,8,0,0,0,0,0,0
+Arinubold Batsaikhan,Mongolia,AFC,GK,0,0,0,0,0,0,0,0
+Torbat Daginaa,Mongolia,AFC,DEF,1,2,0,0,0,0,0,0
+Bilguun Ganbold,Mongolia,AFC,DEF,1,2,0,0,0,0,0,0
+Tsedenbal Norjmoo,Mongolia,AFC,DEF,4,5,0,0,0,0,0,0
+Bayasgalan Garidmagnai,Mongolia,AFC,DEF,2,5,0,0,0,0,0,0
+Jansyerik Maratkhan,Mongolia,AFC,MID,4,4,0,0,0,0,0,0
+Sundorj Janchiv,Mongolia,AFC,MID,4,4,0,0,0,0,0,0
+Monkh-Erdeniin Togoldor,Mongolia,AFC,MID,6,10,0,0,0,0,0,0
+Baljinnyam Batbold,Mongolia,AFC,MID,6,10,0,0,0,0,0,0
+Ganbaataryn Togsbayar,Mongolia,AFC,ATK,10,8,0,0,0,0,0,0
+Nyam-Osor Naranbold,Mongolia,AFC,ATK,10,8,0,0,0,0,0,0
+Wardun Yussof,Brunei,AFC,GK,0,0,0,0,0,0,0,0
+Afi Aminuddin,Brunei,AFC,DEF,1,2,0,0,0,0,0,0
+Sairol Sahari,Brunei,AFC,DEF,1,2,0,0,0,0,0,0
+Helmi Zambin,Brunei,AFC,DEF,2,5,0,0,0,0,0,0
+Abdul Mu'iz Sisa,Brunei,AFC,DEF,2,5,0,0,0,0,0,0
+Hendra Azam Idris,Brunei,AFC,MID,4,4,0,0,0,0,0,0
+Nurikhwan Othman,Brunei,AFC,MID,4,4,0,0,0,0,0,0
+Azwan Saleh,Brunei,AFC,MID,6,10,0,0,0,0,0,0
+Amin Sisa,Brunei,AFC,MID,6,10,0,0,0,0,0,0
+Azwan Ali Rahman,Brunei,AFC,ATK,10,8,0,0,0,0,0,0
+Razimie Ramili,Brunei,AFC,ATK,10,8,0,0,0,0,0,0
+Aderito,Timor-Leste,AFC,GK,0,0,0,0,0,0,0,0
+Candido,Timor-Leste,AFC,DEF,1,2,0,0,0,0,0,0
+Victor,Timor-Leste,AFC,DEF,1,2,0,0,0,0,0,0
+Ade,Timor-Leste,AFC,DEF,4,5,0,0,0,0,0,0
+Avigmas,Timor-Leste,AFC,DEF,2,5,0,0,0,0,0,0
+Osvaldo,Timor-Leste,AFC,MID,2,4,0,0,0,0,0,0
+Paulo Gali,Timor-Leste,AFC,MID,2,4,0,0,0,0,0,0
+Gelvanio,Timor-Leste,AFC,MID,2,10,0,0,0,0,0,0
+Elias,Timor-Leste,AFC,MID,2,10,0,0,0,0,0,0
+Rufinho Gama,Timor-Leste,AFC,ATK,10,8,0,0,0,0,0,0
+Joao Pedro,Timor-Leste,AFC,ATK,8,8,0,0,0,0,0,0
+Doug Herrick,Guam,AFC,GK,0,0,0,0,0,0,0,0
+Micah Paulino,Guam,AFC,DEF,1,2,0,0,0,0,0,0
+Scott Leon Guerrero,Guam,AFC,DEF,1,2,0,0,0,0,0,0
+Shawn Nicklaw,Guam,AFC,DEF,2,5,0,0,0,0,0,0
+A.J. De La Garza,Guam,AFC,DEF,2,5,0,0,0,0,0,0
+Travis Nicklaw,Guam,AFC,MID,4,4,0,0,0,0,0,0
+Mark Chargualaf,Guam,AFC,MID,4,4,0,0,0,0,0,0
+Ryan Guy,Guam,AFC,MID,6,10,0,0,0,0,0,0
+Jason Cuncliffe,Guam,AFC,MID,6,10,0,0,0,0,0,0
+Jason Garrido,Guam,AFC,ATK,10,8,0,0,0,0,0,0
+Marcus Lopez,Guam,AFC,ATK,10,8,0,0,0,0,0,0
+Yousuf Butt,Pakistan,AFC,GK,0,0,0,0,0,0,0,0
+Waqar Ihtisham,Pakistan,AFC,DEF,1,2,0,0,0,0,0,0
+Umer Hayat,Pakistan,AFC,DEF,1,2,0,0,0,0,0,0
+Abdullah Qazi,Pakistan,AFC,DEF,2,5,0,0,0,0,0,0
+Ali Uzair,Pakistan,AFC,DEF,2,5,0,0,0,0,0,0
+Muhammad Adil,Pakistan,AFC,MID,4,4,0,0,0,0,0,0
+Samir Nabi,Pakistan,AFC,MID,4,4,0,0,0,0,0,0
+Rahis Nabi,Pakistan,AFC,MID,6,10,0,0,0,0,0,0
+Muhammad Ali,Pakistan,AFC,ATK,6,10,0,0,0,0,0,0
+Kaleemullah Khan,Pakistan,AFC,ATK,10,8,0,0,0,0,0,0
+Hassan Bashir,Pakistan,AFC,ATK,10,8,0,0,0,0,0,0
+Sujan Perera,Sri Lanka,AFC,GK,0,0,0,0,0,0,0,0
+Jude Supan,Sri Lanka,AFC,DEF,1,2,0,0,0,0,0,0
+Subash Madushan,Sri Lanka,AFC,DEF,1,2,0,0,0,0,0,0
+Bandaa Warakagoda,Sri Lanka,AFC,DEF,2,5,0,0,0,0,0,0
+Charitha Mudiyanselage,Sri Lanka,AFC,DEF,2,5,0,0,0,0,0,0
+Kavindu Ishan,Sri Lanka,AFC,MID,4,4,0,0,0,0,0,0
+Mohamed Rifnas,Sri Lanka,AFC,MID,4,4,0,0,0,0,0,0
+Waseem Ahmed Razeek,Sri Lanka,AFC,MID,6,10,0,0,0,0,0,0
+Chameera Sajith,Sri Lanka,AFC,MID,6,10,0,0,0,0,0,0
+Mohamed Fazal,Sri Lanka,AFC,ATK,10,8,0,0,0,0,0,0
+Zohar Mohamed Zarwan,Sri Lanka,AFC,ATK,10,8,0,0,0,0,0,0
+Edouard Mendy,Senegal,CAF,GK,0,0,0,0,0,0,0,0
+Youssouf Sabaly,Senegal,CAF,DEF,1,2,0,0,0,0,0,0
+Moussa Wague,Senegal,CAF,DEF,2,2,0,0,0,0,0,0
+Salif Sane,Senegal,CAF,DEF,3,5,0,0,0,0,0,0
+Kalidou Koulibaly,Senegal,CAF,DEF,4,5,0,0,0,0,0,0
+Cheikou Kouyate,Senegal,CAF,MID,5,4,0,0,0,0,0,0
+Badou Ndaiye,Senegal,CAF,MID,6,4,0,0,0,0,0,0
+Idrissa Gueye,Senegal,CAF,MID,7,10,0,0,0,0,0,0
+Ismalia Sarr,Senegal,CAF,MID,8,10,0,0,0,0,0,0
+Opa Nguette,Senegal,CAF,ATK,9,8,0,0,0,0,0,0
+Sadio Mane,Senegal,CAF,ATK,10,8,0,0,0,0,0,0
+Farouk Ben Mustapha,Tunisia,CAF,GK,0,0,0,0,0,0,0,0
+Ali Maaloul,Tunisia,CAF,DEF,1,2,0,0,0,0,0,0
+Dylan Bronn,Tunisia,CAF,DEF,2,2,0,0,0,0,0,0
+Yassine Meriah,Tunisia,CAF,DEF,3,5,0,0,0,0,0,0
+Mohammed Drager,Tunisia,CAF,DEF,4,5,0,0,0,0,0,0
+Ferjani Sassi,Tunisia,CAF,MID,5,4,0,0,0,0,0,0
+Mohamed Amine Ben Amor,Tunisia,CAF,MID,6,4,0,0,0,0,0,0
+Saad Bguir,Tunisia,CAF,MID,7,10,0,0,0,0,0,0
+Naim Sliti,Tunisia,CAF,MID,8,10,0,0,0,0,0,0
+Youssef Msakni,Tunisia,CAF,ATK,9,8,0,0,0,0,0,0
+Wabhi Khazri,Tunisia,CAF,ATK,10,8,0,0,0,0,0,0
+Rais M'Bolhi,Algeria,CAF,GK,0,0,0,0,0,0,0,0
+Mehdi Tahrat,Algeria,CAF,DEF,1,2,0,0,0,0,0,0
+Aissa Mandi,Algeria,CAF,DEF,2,2,0,0,0,0,0,0
+Ramy Bensebaini,Algeria,CAF,DEF,3,5,0,0,0,0,0,0
+Djamel Benlamri,Algeria,CAF,DEF,4,5,0,0,0,0,0,0
+Adlene Guedioura,Algeria,CAF,MID,5,4,0,0,0,0,0,0
+Yacine Brahimi,Algeria,CAF,MID,6,4,0,0,0,0,0,0
+Sofiane Feghouli,Algeria,CAF,MID,7,10,0,0,0,0,0,0
+Said Benrahma,Algeria,CAF,MID,8,10,0,0,0,0,0,0
+Riyad Mahrez,Algeria,CAF,ATK,9,8,0,0,0,0,0,0
+Baghdad Bounedjah,Algeria,CAF,ATK,10,8,0,0,0,0,0,0
+Munir Mohamedi,Morocco,CAF,GK,0,0,0,0,0,0,0,0
+Hamza Mendyl,Morocco,CAF,DEF,1,2,0,0,0,0,0,0
+Romain Saiss,Morocco,CAF,DEF,2,2,0,0,0,0,0,0
+Noussair Mazrouri,Morocco,CAF,DEF,3,5,0,0,0,0,0,0
+Achraf Hakimi,Morocco,CAF,DEF,4,5,0,0,0,0,0,0
+Omar El Kaddouri ,Morocco,CAF,MID,5,4,0,0,0,0,0,0
+Faycal Fajr,Morocco,CAF,MID,6,4,0,0,0,0,0,0
+Adil Taarabt,Morocco,CAF,MID,7,10,0,0,0,0,0,0
+Hakim Ziyech,Morocco,CAF,MID,8,10,0,0,0,0,0,0
+Youssef En-Nesyri,Morocco,CAF,ATK,9,8,0,0,0,0,0,0
+Youssef El-Arabi,Morocco,CAF,ATK,10,8,0,0,0,0,0,0
+Daniel Akpeyi,Nigeria,CAF,GK,0,0,0,0,0,0,0,0
+Leon Balogun,Nigeria,CAF,DEF,1,2,0,0,0,0,0,0
+Ola Aina,Nigeria,CAF,DEF,2,2,0,0,0,0,0,0
+Kenneth Omeru,Nigeria,CAF,DEF,3,5,0,0,0,0,0,0
+William Troost-Ekong,Nigeria,CAF,DEF,4,5,0,0,0,0,0,0
+Peter Etebo,Nigeria,CAF,MID,5,4,0,0,0,0,0,0
+Alex Iwobi,Nigeria,CAF,MID,6,4,0,0,0,0,0,0
+Samuel Chukwueze,Nigeria,CAF,ATK,7,10,0,0,0,0,0,0
+Victor Osimhen,Nigeria,CAF,ATK,8,10,0,0,0,0,0,0
+Kelechi Iheanacho,Nigeria,CAF,ATK,9,8,0,0,0,0,0,0
+Ahmed Musa,Nigeria,CAF,ATK,10,8,0,0,0,0,0,0
+Mohamed El Shenawy,Egypt,CAF,GK,0,0,0,0,0,0,0,0
+Mohamed Hany,Egypt,CAF,DEF,1,2,0,0,0,0,0,0
+Ali Gabr,Egypt,CAF,DEF,2,2,0,0,0,0,0,0
+Ayman Ashraf,Egypt,CAF,DEF,3,5,0,0,0,0,0,0
+Ahmed Hegazi,Egypt,CAF,DEF,4,5,0,0,0,0,0,0
+Tarek Hamed,Egypt,CAF,MID,5,4,0,0,0,0,0,0
+Mohamed Elneny,Egypt,CAF,MID,6,4,0,0,0,0,0,0
+Abdallah El Said,Egypt,CAF,MID,7,10,0,0,0,0,0,0
+Trezeguet,Egypt,CAF,ATK,8,10,0,0,0,0,0,0
+Kouka,Egypt,CAF,ATK,9,8,0,0,0,0,0,0
+Mohamed Salah,Egypt,CAF,ATK,25,8,0,0,0,0,0,0
+Andre Onana,Cameroon,CAF,GK,0,0,0,0,0,0,0,0
+Ambroise Oyongo,Cameroon,CAF,DEF,1,2,0,0,0,0,0,0
+Collins Fai,Cameroon,CAF,DEF,2,2,0,0,0,0,0,0
+Nicolas Nkoulou,Cameroon,CAF,DEF,3,5,0,0,0,0,0,0
+Michael Ngadeu-Ngadjui,Cameroon,CAF,DEF,4,5,0,0,0,0,0,0
+Arnaud Djoum ,Cameroon,CAF,MID,5,4,0,0,0,0,0,0
+Christian Bassogog,Cameroon,CAF,MID,6,4,0,0,0,0,0,0
+Andre-Frank Zambo Anguissa,Cameroon,CAF,MID,7,10,0,0,0,0,0,0
+Clinton N'Jie,Cameroon,CAF,ATK,8,10,0,0,0,0,0,0
+Eric Maxim Choupo-Moting,Cameroon,CAF,ATK,9,8,0,0,0,0,0,0
+Vincent Aboubakar,Cameroon,CAF,ATK,10,8,0,0,0,0,0,0
+Richard Ofori,Ghana,CAF,GK,0,0,0,0,0,0,0,0
+Nicholas Opoku,Ghana,CAF,DEF,1,2,0,0,0,0,0,0
+Baba Rahman,Ghana,CAF,DEF,2,2,0,0,0,0,0,0
+John Boye,Ghana,CAF,DEF,3,5,0,0,0,0,0,0
+Mohamed Salisu,Ghana,CAF,DEF,4,5,0,0,0,0,0,0
+Thomas Partey,Ghana,CAF,MID,5,4,0,0,0,0,0,0
+Bernard Mensah,Ghana,CAF,MID,6,4,0,0,0,0,0,0
+Mubarak Wakaso,Ghana,CAF,MID,7,10,0,0,0,0,0,0
+Andre Ayew,Ghana,CAF,MID,8,10,0,0,0,0,0,0
+Mohamed Kudus,Ghana,CAF,ATK,9,8,0,0,0,0,0,0
+Jordan Ayew,Ghana,CAF,ATK,10,8,0,0,0,0,0,0
+Djigui Diarra,Mali,CAF,GK,0,0,0,0,0,0,0,0
+Mamadou Fofana,Mali,CAF,DEF,1,2,0,0,0,0,0,0
+Falaye Sacko,Mali,CAF,DEF,2,2,0,0,0,0,0,0
+Hamari Traore,Mali,CAF,DEF,3,5,0,0,0,0,0,0
+Molla Wague,Mali,CAF,DEF,4,5,0,0,0,0,0,0
+Yves Bissouma,Mali,CAF,MID,5,4,0,0,0,0,0,0
+Lassana Coulibaly,Mali,CAF,MID,6,4,0,0,0,0,0,0
+Adama Traore,Mali,CAF,MID,7,10,0,0,0,0,0,0
+Moussa Djenepo,Mali,CAF,MID,8,10,0,0,0,0,0,0
+Kalifa Coulibaly,Mali,CAF,ATK,9,8,0,0,0,0,0,0
+Sekou Coita,Mali,CAF,ATK,10,8,0,0,0,0,0,0
+Aboubacar Sawadogo,Burkina Faso,CAF,GK,0,0,0,0,0,0,0,0
+Steeve Yago,Burkina Faso,CAF,DEF,1,2,0,0,0,0,0,0
+Yacouba Coulibaly,Burkina Faso,CAF,DEF,2,2,0,0,0,0,0,0
+Edmond Tapsoba,Burkina Faso,CAF,DEF,3,5,0,0,0,0,0,0
+Issoufou Dayo,Burkina Faso,CAF,DEF,4,5,0,0,0,0,0,0
+Charles Kabore,Burkina Faso,CAF,MID,5,4,0,0,0,0,0,0
+Cyrille Bayala,Burkina Faso,CAF,MID,6,4,0,0,0,0,0,0
+Bryan Dabo,Burkina Faso,CAF,MID,7,10,0,0,0,0,0,0
+Alain Traore,Burkina Faso,CAF,ATK,8,10,0,0,0,0,0,0
+Bertrand Traore,Burkina Faso,CAF,ATK,9,8,0,0,0,0,0,0
+Lassina Traore,Burkina Faso,CAF,ATK,10,8,0,0,0,0,0,0
+Joel Kiassumbua,Congo DR,CAF,GK,0,0,0,0,0,0,0,0
+Issama Mpeko,Congo DR,CAF,DEF,1,2,0,0,0,0,0,0
+Marcel Tisserand,Congo DR,CAF,DEF,2,2,0,0,0,0,0,0
+Ngonda Muzinga,Congo DR,CAF,DEF,3,5,0,0,0,0,0,0
+Merveille Bokadi,Congo DR,CAF,DEF,4,5,0,0,0,0,0,0
+Chancel Mbemba,Congo DR,CAF,MID,5,4,0,0,0,0,0,0
+Yannick Bangala Litombo,Congo DR,CAF,MID,6,4,0,0,0,0,0,0
+Paul-Jose M'Poku,Congo DR,CAF,MID,7,10,0,0,0,0,0,0
+Neeskens Kabano,Congo DR,CAF,MID,8,10,0,0,0,0,0,0
+Yannick Bolasie,Congo DR,CAF,ATK,9,8,0,0,0,0,0,0
+Cedric Bakumbu,Congo DR,CAF,ATK,10,8,0,0,0,0,0,0
+Sylvain Gbohouo,Ivory Coast,CAF,GK,0,0,0,0,0,0,0,0
+Serge Aurier,Ivory Coast,CAF,DEF,1,2,0,0,0,0,0,0
+Wilfried Kanon,Ivory Coast,CAF,DEF,2,2,0,0,0,0,0,0
+Eric Bailly,Ivory Coast,CAF,DEF,3,5,0,0,0,0,0,0
+Kalpi Ouattara,Ivory Coast,CAF,DEF,4,5,0,0,0,0,0,0
+Serey Die,Ivory Coast,CAF,MID,5,4,0,0,0,0,0,0
+Franck Kessie,Ivory Coast,CAF,MID,6,4,0,0,0,0,0,0
+Jean-Daniel Akpa Akpro ,Ivory Coast,CAF,MID,7,10,0,0,0,0,0,0
+Sebestian Haller,Ivory Coast,CAF,ATK,10,10,0,0,0,0,0,0
+Gervinho,Ivory Coast,CAF,ATK,9,8,0,0,0,0,0,0
+Wilfried Zaha,Ivory Coast,CAF,ATK,8,8,0,0,0,0,0,0
+Darren Keet,South Africa,CAF,GK,0,0,0,0,0,0,0,0
+Sifiso Hlanti,South Africa,CAF,DEF,1,2,0,0,0,0,0,0
+Thulani Hlatshwayo,South Africa,CAF,DEF,2,2,0,0,0,0,0,0
+Thlapelo Moreno,South Africa,CAF,DEF,3,5,0,0,0,0,0,0
+Mosa Lebesu,South Africa,CAF,DEF,4,5,0,0,0,0,0,0
+Teboho Mokoena,South Africa,CAF,MID,5,4,0,0,0,0,0,0
+Keagen Dolly,South Africa,CAF,MID,6,4,0,0,0,0,0,0
+Bongani Zungu,South Africa,CAF,MID,7,10,0,0,0,0,0,0
+Percy Tau,South Africa,CAF,MID,8,10,0,0,0,0,0,0
+Kermit Erasmus,South Africa,CAF,ATK,9,8,0,0,0,0,0,0
+Luther Singh,South Africa,CAF,ATK,10,8,0,0,0,0,0,0
+Aly Keita,Guinea,CAF,GK,0,0,0,0,0,0,0,0
+Saidou Sow,Guinea,CAF,DEF,1,2,0,0,0,0,0,0
+Issiaga Sylla,Guinea,CAF,DEF,2,2,0,0,0,0,0,0
+Simon Falette,Guinea,CAF,DEF,3,5,0,0,0,0,0,0
+Florentin Pogba,Guinea,CAF,DEF,4,5,0,0,0,0,0,0
+Ibrahima Sory Conte,Guinea,CAF,MID,5,4,0,0,0,0,0,0
+Morlaye Sylla,Guinea,CAF,MID,6,4,0,0,0,0,0,0
+Naby Keita,Guinea,CAF,MID,7,10,0,0,0,0,0,0
+Demba Camara,Guinea,CAF,MID,8,10,0,0,0,0,0,0
+Francois Kamara,Guinea,CAF,ATK,9,8,0,0,0,0,0,0
+Daouda Camara,Guinea,CAF,ATK,10,8,0,0,0,0,0,0
+Denis Onyango,Uganda,CAF,GK,0,0,0,0,0,0,0,0
+Bevis Mugabi,Uganda,CAF,DEF,1,2,0,0,0,0,0,0
+Timothy Awany,Uganda,CAF,DEF,2,2,0,0,0,0,0,0
+Joseph Ochaya,Uganda,CAF,DEF,3,5,0,0,0,0,0,0
+Nichola Wadada,Uganda,CAF,DEF,4,5,0,0,0,0,0,0
+Khalid Aucho,Uganda,CAF,MID,5,4,0,0,0,0,0,0
+Moses Waiswa,Uganda,CAF,MID,6,4,0,0,0,0,0,0
+Taddeo Lwanga,Uganda,CAF,MID,7,10,0,0,0,0,0,0
+Farouk Miya,Uganda,CAF,MID,8,10,0,0,0,0,0,0
+Fahad Bayo,Uganda,CAF,ATK,9,8,0,0,0,0,0,0
+Emmenuel Okwi,Uganda,CAF,ATK,10,8,0,0,0,0,0,0
+Vozinha,Cabo Verde,CAF,GK,0,0,0,0,0,0,0,0
+Stopira,Cabo Verde,CAF,DEF,1,2,0,0,0,0,0,0
+Steven Fortes,Cabo Verde,CAF,DEF,2,2,0,0,0,0,0,0
+Ponck,Cabo Verde,CAF,DEF,3,5,0,0,0,0,0,0
+Jeffry Fortes,Cabo Verde,CAF,DEF,4,5,0,0,0,0,0,0
+Marco Soares,Cabo Verde,CAF,MID,5,4,0,0,0,0,0,0
+Bruno Leite,Cabo Verde,CAF,MID,6,4,0,0,0,0,0,0
+Helder Tavares,Cabo Verde,CAF,MID,7,10,0,0,0,0,0,0
+Jamiro,Cabo Verde,CAF,MID,9,10,0,0,0,0,0,0
+Gilson Taveres,Cabo Verde,CAF,ATK,8,8,0,0,0,0,0,0
+Ryan Mendes,Cabo Verde,CAF,ATK,10,8,0,0,0,0,0,0
+Fabian Farnolle,Benin,CAF,GK,0,0,0,0,0,0,0,0
+David Kiki,Benin,CAF,DEF,1,2,0,0,0,0,0,0
+Olivier Verdon,Benin,CAF,DEF,2,2,0,0,0,0,0,0
+Emmenuel Imorou,Benin,CAF,DEF,3,5,0,0,0,0,0,0
+Nabil Yarou,Benin,CAF,DEF,4,5,0,0,0,0,0,0
+Jordan Adeoti,Benin,CAF,MID,5,4,0,0,0,0,0,0
+Seibou Mama,Benin,CAF,MID,6,4,0,0,0,0,0,0
+Sessi D'Almeida,Benin,CAF,MID,7,10,0,0,0,0,0,0
+Stephane Sessegnon,Benin,CAF,MID,8,10,0,0,0,0,0,0
+Steve Mounie,Benin,CAF,ATK,9,8,0,0,0,0,0,0
+Mickael Pote,Benin,CAF,ATK,10,8,0,0,0,0,0,0
+Mfa Mezui,Gabon,CAF,GK,0,0,0,0,0,0,0,0
+Ecuele Manga,Gabon,CAF,DEF,1,2,0,0,0,0,0,0
+Lloyd Palun,Gabon,CAF,DEF,2,2,0,0,0,0,0,0
+Johann Obiang,Gabon,CAF,DEF,3,5,0,0,0,0,0,0
+Yoann Wachter,Gabon,CAF,DEF,4,5,0,0,0,0,0,0
+Andre Biyogo Poko,Gabon,CAF,MID,5,4,0,0,0,0,0,0
+Levy Madinda,Gabon,CAF,MID,6,4,0,0,0,0,0,0
+Guelor Kaku,Gabon,CAF,MID,7,10,0,0,0,0,0,0
+Didier Ndong,Gabon,CAF,MID,8,10,0,0,0,0,0,0
+Denis Bouanga,Gabon,CAF,ATK,9,8,0,0,0,0,0,0
+Pierre-Emerick Aubameyang,Gabon,CAF,ATK,25,8,0,0,0,0,0,0
+Sebastian Mwange,Zambia,CAF,GK,0,0,0,0,0,0,0,0
+Kaboso Chongo,Zambia,CAF,DEF,1,2,0,0,0,0,0,0
+Tandi Mwape,Zambia,CAF,DEF,2,2,0,0,0,0,0,0
+Luka Banda,Zambia,CAF,DEF,3,5,0,0,0,0,0,0
+Zakaria Chilongoshi,Zambia,CAF,DEF,4,5,0,0,0,0,0,0
+Lubambo Musonda,Zambia,CAF,MID,5,4,0,0,0,0,0,0
+Enock Mwepu,Zambia,CAF,MID,6,4,0,0,0,0,0,0
+Kings Kangwa,Zambia,CAF,MID,7,10,0,0,0,0,0,0
+Benson Sakala,Zambia,CAF,MID,8,10,0,0,0,0,0,0
+Fashion Sakala,Zambia,CAF,ATK,9,8,0,0,0,0,0,0
+Justin Shonga,Zambia,CAF,ATK,10,8,0,0,0,0,0,0
+Christoffer Mafoumbi,Congo,CAF,GK,0,0,0,0,0,0,0,0
+Dimitri Bissiki,Congo,CAF,DEF,1,2,0,0,0,0,0,0
+Carof Bakou,Congo,CAF,DEF,2,2,0,0,0,0,0,0
+Fernard Mayembo,Congo,CAF,DEF,3,5,0,0,0,0,0,0
+Beranger Itoua,Congo,CAF,DEF,4,5,0,0,0,0,0,0
+Amour Loussoukou,Congo,CAF,MID,5,4,0,0,0,0,0,0
+Durel Avounou,Congo,CAF,MID,6,4,0,0,0,0,0,0
+Gaius Makouta,Congo,CAF,MID,7,10,0,0,0,0,0,0
+Harvy Ossete,Congo,CAF,MID,8,10,0,0,0,0,0,0
+Prince Ibara,Congo,CAF,ATK,9,8,0,0,0,0,0,0
+Thievy Bifouma,Congo,CAF,ATK,10,8,0,0,0,0,0,0
+Melvin Adrien,Madagascar,CAF,GK,0,0,0,0,0,0,0,0
+Pascal Razakanantenaina,Madagascar,CAF,DEF,1,2,0,0,0,0,0,0
+Thomas Fontaine,Madagascar,CAF,DEF,2,2,0,0,0,0,0,0
+J??r??me Mombris,Madagascar,CAF,DEF,3,5,0,0,0,0,0,0
+Romain M??tanire,Madagascar,CAF,DEF,4,5,0,0,0,0,0,0
+Ibrahim Amada,Madagascar,CAF,MID,5,4,0,0,0,0,0,0
+Arohasina Andrianarimanana,Madagascar,CAF,MID,6,4,0,0,0,0,0,0
+Zotsara Randriambololona,Madagascar,CAF,MID,7,10,0,0,0,0,0,0
+Anicet Abel,Madagascar,CAF,MID,8,10,0,0,0,0,0,0
+Lala??na Nomenjanahary,Madagascar,CAF,ATK,9,8,0,0,0,0,0,0
+Paulin Voavy,Madagascar,CAF,ATK,10,8,0,0,0,0,0,0
+Namori Diaw,Mauritania,CAF,GK,0,0,0,0,0,0,0,0
+Abdoul Ba,Mauritania,CAF,DEF,1,2,0,0,0,0,0,0
+Moustapha Diow,Mauritania,CAF,DEF,2,2,0,0,0,0,0,0
+Bakary N'Daiye,Mauritania,CAF,DEF,3,5,0,0,0,0,0,0
+Diade Diarra,Mauritania,CAF,DEF,4,5,0,0,0,0,0,0
+Hacen El Ide,Mauritania,CAF,MID,5,4,0,0,0,0,0,0
+Mohamed Yali,Mauritania,CAF,MID,6,4,0,0,0,0,0,0
+Alassane Diop ,Mauritania,CAF,MID,7,10,0,0,0,0,0,0
+Abdallahi Mahmoud,Mauritania,CAF,MID,8,10,0,0,0,0,0,0
+Ndioko Niassa,Mauritania,CAF,ATK,9,8,0,0,0,0,0,0
+Cheikh Ahmed,Mauritania,CAF,ATK,10,8,0,0,0,0,0,0
+James Saruni,Kenya,CAF,GK,0,0,0,0,0,0,0,0
+Joash Onyango,Kenya,CAF,DEF,1,2,0,0,0,0,0,0
+Johnstone Omurwa,Kenya,CAF,DEF,2,2,0,0,0,0,0,0
+Joseph Okumu,Kenya,CAF,DEF,3,5,0,0,0,0,0,0
+Eric Ouma,Kenya,CAF,DEF,4,5,0,0,0,0,0,0
+Victor Wanyama,Kenya,CAF,MID,5,4,0,0,0,0,0,0
+Kenneth Muguna,Kenya,CAF,MID,6,4,0,0,0,0,0,0
+Teddy Akumu,Kenya,CAF,MID,7,10,0,0,0,0,0,0
+Hassan Abdallah,Kenya,CAF,MID,8,10,0,0,0,0,0,0
+Masoud Juma,Kenya,CAF,ATK,9,8,0,0,0,0,0,0
+Michael Olunga,Kenya,CAF,ATK,10,8,0,0,0,0,0,0
+Victor Guambe,Mozambique,CAF,GK,0,0,0,0,0,0,0,0
+Nanani,Mozambique,CAF,DEF,1,2,0,0,0,0,0,0
+Zainadine Junior,Mozambique,CAF,DEF,2,2,0,0,0,0,0,0
+Mexer,Mozambique,CAF,DEF,3,5,0,0,0,0,0,0
+Jeitoso,Mozambique,CAF,DEF,4,5,0,0,0,0,0,0
+Manuel Kambala,Mozambique,CAF,MID,5,4,0,0,0,0,0,0
+Kito,Mozambique,CAF,MID,6,4,0,0,0,0,0,0
+Salomao Mondlane,Mozambique,CAF,MID,7,10,0,0,0,0,0,0
+Domingues,Mozambique,CAF,MID,8,10,0,0,0,0,0,0
+Luis Miquissone,Mozambique,CAF,ATK,9,8,0,0,0,0,0,0
+Geny Catamo,Mozambique,CAF,ATK,10,8,0,0,0,0,0,0
+Tatenda Mkuruva,Zimbabwe,CAF,GK,0,0,0,0,0,0,0,0
+Brendan Galloway,Zimbabwe,CAF,DEF,1,2,0,0,0,0,0,0
+Divine Lunga,Zimbabwe,CAF,DEF,2,2,0,0,0,0,0,0
+Alec Mudimu,Zimbabwe,CAF,DEF,3,5,0,0,0,0,0,0
+Teenage Hadebe,Zimbabwe,CAF,DEF,4,5,0,0,0,0,0,0
+Kudakwashe Mahachi,Zimbabwe,CAF,MID,5,4,0,0,0,0,0,0
+Ovidy Karuru,Zimbabwe,CAF,MID,6,4,0,0,0,0,0,0
+Khama Billiat,Zimbabwe,CAF,MID,7,10,0,0,0,0,0,0
+Knowledge Musona,Zimbabwe,CAF,MID,8,10,0,0,0,0,0,0
+Tino Kadawere,Zimbabwe,CAF,ATK,9,8,0,0,0,0,0,0
+Prince Dube,Zimbabwe,CAF,ATK,10,8,0,0,0,0,0,0
+Murad Al-Wuheeshi,Libya,CAF,GK,0,0,0,0,0,0,0,0
+Rabea Al Laafi,Libya,CAF,DEF,1,2,0,0,0,0,0,0
+Ahmed Al-Maghasi,Libya,CAF,DEF,2,2,0,0,0,0,0,0
+Mohamed Al-Tarhuni,Libya,CAF,DEF,3,5,0,0,0,0,0,0
+Motasem Sabbou,Libya,CAF,DEF,4,5,0,0,0,0,0,0
+Rabia Al-Shadi,Libya,CAF,MID,5,4,0,0,0,0,0,0
+Salem Ablo,Libya,CAF,MID,6,4,0,0,0,0,0,0
+Ali Elmustrati,Libya,CAF,MID,7,10,0,0,0,0,0,0
+Faisal Al Badri,Libya,CAF,MID,8,10,0,0,0,0,0,0
+Ibrahim Bodbous,Libya,CAF,ATK,9,8,0,0,0,0,0,0
+Moataz Al-Mehdi,Libya,CAF,ATK,10,8,0,0,0,0,0,0
+Daouda Kassaly,Niger,CAF,GK,0,0,0,0,0,0,0,0
+Abdoul Garba,Niger,CAF,DEF,1,2,0,0,0,0,0,0
+Herve Lybohy,Niger,CAF,DEF,2,2,0,0,0,0,0,0
+Yacouba Diori,Niger,CAF,DEF,3,5,0,0,0,0,0,0
+Abdoul Razak Seyni,Niger,CAF,DEF,4,5,0,0,0,0,0,0
+Boubacar Moumouni,Niger,CAF,MID,5,4,0,0,0,0,0,0
+Boubacar Talatou,Niger,CAF,MID,6,4,0,0,0,0,0,0
+Youssouf Oumarou,Niger,CAF,MID,7,10,0,0,0,0,0,0
+Victorien Adebayor,Niger,CAF,MID,8,10,0,0,0,0,0,0
+Amadou Moutari,Niger,CAF,ATK,9,8,0,0,0,0,0,0
+Issa Djibrilla,Niger,CAF,ATK,10,8,0,0,0,0,0,0
+Levant Gbawito,Central African Republic,CAF,GK,0,0,0,0,0,0,0,0
+Marc Yapende,Central African Republic,CAF,DEF,1,2,0,0,0,0,0,0
+Cedric Yambere,Central African Republic,CAF,DEF,2,2,0,0,0,0,0,0
+Flory Yangao,Central African Republic,CAF,DEF,3,5,0,0,0,0,0,0
+Foxi Kethevoama,Central African Republic,CAF,MID,4,5,0,0,0,0,0,0
+Issac Ngoma,Central African Republic,CAF,MID,5,4,0,0,0,0,0,0
+Geoffrey Kondogbia,Central African Republic,CAF,MID,6,4,0,0,0,0,0,0
+Wlifried Zahibo,Central African Republic,CAF,MID,7,10,0,0,0,0,0,0
+Jospin Gaopandia,Central African Republic,CAF,MID,8,10,0,0,0,0,0,0
+Alfred Toussaint Gombe-Fei,Central African Republic,CAF,ATK,9,8,0,0,0,0,0,0
+Louis Mafouta,Central African Republic,CAF,ATK,10,8,0,0,0,0,0,0
+Mohamed Kamara,Sierra Leone,CAF,GK,0,0,0,0,0,0,0,0
+Osman Kakay,Sierra Leone,CAF,DEF,1,2,0,0,0,0,0,0
+Mustapha Dumbuya,Sierra Leone,CAF,DEF,2,2,0,0,0,0,0,0
+Yeami Dunia,Sierra Leone,CAF,DEF,3,5,0,0,0,0,0,0
+Umaru Bangura,Sierra Leone,CAF,DEF,4,5,0,0,0,0,0,0
+John Kamara,Sierra Leone,CAF,MID,5,4,0,0,0,0,0,0
+Medo,Sierra Leone,CAF,MID,6,4,0,0,0,0,0,0
+Kwame Quee,Sierra Leone,CAF,MID,7,10,0,0,0,0,0,0
+Mohamed Buya Turay,Sierra Leone,CAF,ATK,8,10,0,0,0,0,0,0
+Kei Kamara,Sierra Leone,CAF,ATK,9,8,0,0,0,0,0,0
+Alhaji Kamara,Sierra Leone,CAF,ATK,10,8,0,0,0,0,0,0
+Ndisiro Kamaijanda,Namibia,CAF,GK,0,0,0,0,0,0,0,0
+Ryan Nyambe,Namibia,CAF,DEF,1,2,0,0,0,0,0,0
+Riaan Hanamub,Namibia,CAF,DEF,2,2,0,0,0,0,0,0
+Emilio Martin,Namibia,CAF,DEF,3,5,0,0,0,0,0,0
+Ananias Gebhardt,Namibia,CAF,DEF,4,5,0,0,0,0,0,0
+Dynamo Fredericks,Namibia,CAF,MID,5,4,0,0,0,0,0,0
+Willy Stephanus,Namibia,CAF,MID,6,4,0,0,0,0,0,0
+Absalom Limbondi,Namibia,CAF,MID,7,10,0,0,0,0,0,0
+Deon Hotto,Namibia,CAF,MID,8,10,0,0,0,0,0,0
+Joslin Kamatuka,Namibia,CAF,ATK,9,8,0,0,0,0,0,0
+Peter Shalulile,Namibia,CAF,ATK,10,8,0,0,0,0,0,0
+Jonas Mendes,Guinea-Bissau,CAF,GK,0,0,0,0,0,0,0,0
+Nanu,Guinea-Bissau,CAF,DEF,1,2,0,0,0,0,0,0
+Leonel Ucha,Guinea-Bissau,CAF,DEF,2,2,0,0,0,0,0,0
+Rudinilson,Guinea-Bissau,CAF,DEF,3,5,0,0,0,0,0,0
+Juary Soares,Guinea-Bissau,CAF,DEF,4,5,0,0,0,0,0,0
+Bura Nogueira,Guinea-Bissau,CAF,MID,5,4,0,0,0,0,0,0
+Joao Jaquite,Guinea-Bissau,CAF,MID,6,4,0,0,0,0,0,0
+Alfa Semedo,Guinea-Bissau,CAF,MID,7,10,0,0,0,0,0,0
+Pele,Guinea-Bissau,CAF,MID,8,10,0,0,0,0,0,0
+Joseph Mendes,Guinea-Bissau,CAF,ATK,9,8,0,0,0,0,0,0
+Piqueti,Guinea-Bissau,CAF,ATK,10,8,0,0,0,0,0,0
+Brighton Munthali,Malawi,CAF,GK,0,0,0,0,0,0,0,0
+Stanley Sanudi,Malawi,CAF,DEF,1,2,0,0,0,0,0,0
+Peter Cholopi,Malawi,CAF,DEF,2,2,0,0,0,0,0,0
+Limbikani Mzava,Malawi,CAF,DEF,3,5,0,0,0,0,0,0
+Charles Petro,Malawi,CAF,DEF,4,5,0,0,0,0,0,0
+Chimango Kayira,Malawi,CAF,MID,5,4,0,0,0,0,0,0
+Peter Banda,Malawi,CAF,MID,6,4,0,0,0,0,0,0
+John Banda,Malawi,CAF,MID,7,10,0,0,0,0,0,0
+Gerald Phiri Jr.,Malawi,CAF,MID,8,10,0,0,0,0,0,0
+Richard Mbulu,Malawi,CAF,ATK,9,8,0,0,0,0,0,0
+Gabadinho Mhango,Malawi,CAF,ATK,10,8,0,0,0,0,0,0
+Antonio,Angola,CAF,GK,0,0,0,0,0,0,0,0
+Paizo,Angola,CAF,DEF,1,2,0,0,0,0,0,0
+Jonathan Buatu,Angola,CAF,DEF,2,2,0,0,0,0,0,0
+Clinton Mata,Angola,CAF,DEF,3,5,0,0,0,0,0,0
+Bastos,Angola,CAF,DEF,4,5,0,0,0,0,0,0
+Herenilson,Angola,CAF,MID,5,4,0,0,0,0,0,0
+Estrela,Angola,CAF,MID,6,4,0,0,0,0,0,0
+Show,Angola,CAF,MID,7,10,0,0,0,0,0,0
+Fredy,Angola,CAF,MID,8,10,0,0,0,0,0,0
+Ary Papel,Angola,CAF,ATK,9,8,0,0,0,0,0,0
+Gelson Dala,Angola,CAF,ATK,10,8,0,0,0,0,0,0
+Akram El Hadi Salim,Sudan,CAF,GK,0,0,0,0,0,0,0,0
+Amir Kamal ,Sudan,CAF,DEF,1,2,0,0,0,0,0,0
+Faris Abdalla ,Sudan,CAF,DEF,2,2,0,0,0,0,0,0
+Ahmed Wadah,Sudan,CAF,DEF,3,5,0,0,0,0,0,0
+Athar El Tahir,Sudan,CAF,DEF,4,5,0,0,0,0,0,0
+Nasr Eldin El Shigail,Sudan,CAF,MID,5,4,0,0,0,0,0,0
+Walieldin Khidir,Sudan,CAF,MID,6,4,0,0,0,0,0,0
+Moaaz Adbelraheem,Sudan,CAF,MID,7,10,0,0,0,0,0,0
+Abuaagla Abdalla,Sudan,CAF,MID,8,10,0,0,0,0,0,0
+Seifeldin Malik,Sudan,CAF,ATK,9,8,0,0,0,0,0,0
+Mohamed Abdelrahman,Sudan,CAF,ATK,10,8,0,0,0,0,0,0
+Malcolm Barcola,Togo,CAF,GK,0,0,0,0,0,0,0,0
+Simon Gbegnon,Togo,CAF,DEF,1,2,0,0,0,0,0,0
+Steve Lawson,Togo,CAF,DEF,2,2,0,0,0,0,0,0
+Hakim Ouro-Sama,Togo,CAF,DEF,3,5,0,0,0,0,0,0
+Djene Dakonam,Togo,CAF,DEF,4,5,0,0,0,0,0,0
+Lalawele Atakora,Togo,CAF,MID,5,4,0,0,0,0,0,0
+Flloyd Ayite,Togo,CAF,MID,6,4,0,0,0,0,0,0
+Mathieu Dossevi,Togo,CAF,MID,7,10,0,0,0,0,0,0
+Franco Atchou,Togo,CAF,MID,8,10,0,0,0,0,0,0
+Kevin Denkey,Togo,CAF,ATK,9,8,0,0,0,0,0,0
+Kodjo Fo-Doh,Togo,CAF,ATK,10,8,0,0,0,0,0,0
+Ali Ahamada,Comoros,CAF,GK,0,0,0,0,0,0,0,0
+Nadjim Abdou,Comoros,CAF,DEF,1,2,0,0,0,0,0,0
+Said Bakari,Comoros,CAF,DEF,2,2,0,0,0,0,0,0
+Benjaloud Youssouf,Comoros,CAF,DEF,3,5,0,0,0,0,0,0
+Kassim M'Dahoma,Comoros,CAF,DEF,4,5,0,0,0,0,0,0
+Rafidine Abdullah,Comoros,CAF,MID,5,4,0,0,0,0,0,0
+Faouz Faidine ,Comoros,CAF,MID,6,4,0,0,0,0,0,0
+Fauad Bachirou,Comoros,CAF,MID,7,10,0,0,0,0,0,0
+Youssouf M'Changama,Comoros,CAF,MID,8,10,0,0,0,0,0,0
+Ibroihim Youssouf,Comoros,CAF,ATK,9,8,0,0,0,0,0,0
+El Fardou Ben Nebouhane,Comoros,CAF,ATK,10,8,0,0,0,0,0,0
+Olivier Kwizera,Rwanda,CAF,GK,0,0,0,0,0,0,0,0
+Emmenuel Imanishimwe,Rwanda,CAF,DEF,1,2,0,0,0,0,0,0
+Thierry Manzi,Rwanda,CAF,DEF,2,2,0,0,0,0,0,0
+Emery Bayisenge,Rwanda,CAF,DEF,3,5,0,0,0,0,0,0
+Fitina Omborenga,Rwanda,CAF,DEF,4,5,0,0,0,0,0,0
+Kevin Muhire,Rwanda,CAF,MID,5,4,0,0,0,0,0,0
+Muhadjiri Hakizimana,Rwanda,CAF,MID,6,4,0,0,0,0,0,0
+Yannick Mukunzi,Rwanda,CAF,MID,7,10,0,0,0,0,0,0
+Haruna Niyonzima,Rwanda,CAF,MID,8,10,0,0,0,0,0,0
+Meddie Kagere,Rwanda,CAF,ATK,9,8,0,0,0,0,0,0
+Ernest Sugira,Rwanda,CAF,ATK,10,8,0,0,0,0,0,0
+Jesus Owono,Equatorial Guinea,CAF,GK,0,0,0,0,0,0,0,0
+Esteban Obiang,Equatorial Guinea,CAF,DEF,1,2,0,0,0,0,0,0
+Luis Meseguer,Equatorial Guinea,CAF,DEF,2,2,0,0,0,0,0,0
+Basilio Ndong,Equatorial Guinea,CAF,DEF,3,5,0,0,0,0,0,0
+Carlos Akpo,Equatorial Guinea,CAF,DEF,4,5,0,0,0,0,0,0
+Fede Bikoro,Equatorial Guinea,CAF,MID,5,4,0,0,0,0,0,0
+Ruben Belima,Equatorial Guinea,CAF,MID,6,4,0,0,0,0,0,0
+Jose Machin,Equatorial Guinea,CAF,MID,7,10,0,0,0,0,0,0
+Pedro Obiang,Equatorial Guinea,CAF,MID,8,10,0,0,0,0,0,0
+Jose Boacho,Equatorial Guinea,CAF,ATK,9,8,0,0,0,0,0,0
+Emilio Nsue,Equatorial Guinea,CAF,ATK,10,8,0,0,0,0,0,0
+Juma Kaseja,Tanzania,CAF,GK,0,0,0,0,0,0,0,0
+Bakari Nondo,Tanzania,CAF,DEF,1,2,0,0,0,0,0,0
+Kelvin Yondan,Tanzania,CAF,DEF,2,2,0,0,0,0,0,0
+Erasto Nyoni,Tanzania,CAF,DEF,3,5,0,0,0,0,0,0
+Shomari Kapombe,Tanzania,CAF,DEF,4,5,0,0,0,0,0,0
+Feisal Salum,Tanzania,CAF,MID,5,4,0,0,0,0,0,0
+Salum Abubakar,Tanzania,CAF,MID,6,4,0,0,0,0,0,0
+Himid Mao,Tanzania,CAF,MID,7,10,0,0,0,0,0,0
+Simon Msuva,Tanzania,CAF,MID,8,10,0,0,0,0,0,0
+Hassan Dilunga,Tanzania,CAF,ATK,9,8,0,0,0,0,0,0
+Raphael Bocco,Tanzania,CAF,ATK,10,8,0,0,0,0,0,0
+Jonathan Nahimana,Burundi,CAF,GK,0,0,0,0,0,0,0,0
+Emery Nimubona,Burundi,CAF,DEF,1,2,0,0,0,0,0,0
+Philip Oslev,Burundi,CAF,DEF,2,2,0,0,0,0,0,0
+Marco Weymans,Burundi,CAF,DEF,3,5,0,0,0,0,0,0
+Frederic Nsabiyumva,Burundi,CAF,DEF,4,5,0,0,0,0,0,0
+Gael Bigirimana,Burundi,CAF,MID,5,4,0,0,0,0,0,0
+Fiston Abdul Razak,Burundi,CAF,MID,6,4,0,0,0,0,0,0
+Saidi Ntibazonkiza,Burundi,CAF,MID,7,10,0,0,0,0,0,0
+Jospin Nshimirimana,Burundi,CAF,MID,8,10,0,0,0,0,0,0
+Cedric Amissi,Burundi,CAF,ATK,9,8,0,0,0,0,0,0
+Christophe Nduwarugira,Burundi,CAF,ATK,10,8,0,0,0,0,0,0
+Likano Mphuthing,Lesotho,CAF,GK,0,0,0,0,0,0,0,0
+Motlomelo Mkhwanazi,Lesotho,CAF,DEF,1,2,0,0,0,0,0,0
+Rethabile Rasethantsa,Lesotho,CAF,DEF,2,2,0,0,0,0,0,0
+Basia Makepe,Lesotho,CAF,DEF,3,5,0,0,0,0,0,0
+Nkau Lerotholi,Lesotho,CAF,DEF,4,5,0,0,0,0,0,0
+Tshwarelo Bereng,Lesotho,CAF,MID,5,4,0,0,0,0,0,0
+Lehlohonolo Fothoane,Lesotho,CAF,MID,6,4,0,0,0,0,0,0
+Hlompho Kalake,Lesotho,CAF,MID,7,10,0,0,0,0,0,0
+Tsoanelo Koetle,Lesotho,CAF,MID,8,10,0,0,0,0,0,0
+Sera Motebang,Lesotho,CAF,ATK,9,8,0,0,0,0,0,0
+Jane Thabantso,Lesotho,CAF,ATK,10,8,0,0,0,0,0,0
+Kabelo Dambe,Botswana,CAF,GK,0,0,0,0,0,0,0,0
+Mothusi Johnson,Botswana,CAF,DEF,1,2,0,0,0,0,0,0
+Oftense Nato,Botswana,CAF,DEF,2,2,0,0,0,0,0,0
+Mogakolodi Ngele,Botswana,CAF,DEF,3,5,0,0,0,0,0,0
+Segolame Boy,Botswana,CAF,DEF,4,5,0,0,0,0,0,0
+Galabgwe Moyana,Botswana,CAF,MID,5,4,0,0,0,0,0,0
+Tebogo Sembowa,Botswana,CAF,MID,6,4,0,0,0,0,0,0
+Kabelo Seakanyeng,Botswana,CAF,MID,7,10,0,0,0,0,0,0
+Joel Mogorosi,Botswana,CAF,MID,8,10,0,0,0,0,0,0
+Onkabetse Makgantai,Botswana,CAF,ATK,9,8,0,0,0,0,0,0
+Jerome Ramatlhakwane,Botswana,CAF,ATK,10,8,0,0,0,0,0,0
+Jemal Tassew,Ethiopia,CAF,GK,0,0,0,0,0,0,0,0
+Ramadan Yusef,Ethiopia,CAF,DEF,1,2,0,0,0,0,0,0
+Mujib Kassim,Ethiopia,CAF,DEF,2,2,0,0,0,0,0,0
+Yared Baye,Ethiopia,CAF,DEF,3,5,0,0,0,0,0,0
+Aschalew Tamene,Ethiopia,CAF,DEF,4,5,0,0,0,0,0,0
+Maider Sherefa,Ethiopia,CAF,MID,5,4,0,0,0,0,0,0
+Shimeket Gugesa,Ethiopia,CAF,MID,6,4,0,0,0,0,0,0
+Surafel Dagnachew,Ethiopia,CAF,MID,7,10,0,0,0,0,0,0
+Mesud Mohammed,Ethiopia,CAF,MID,8,10,0,0,0,0,0,0
+Amanuel Gebremichael,Ethiopia,CAF,ATK,9,8,0,0,0,0,0,0
+Getaneh Kebede ,Ethiopia,CAF,ATK,10,8,0,0,0,0,0,0
+Tommy Songo,Liberia,CAF,GK,0,0,0,0,0,0,0,0
+Jeremy Saygbe,Liberia,CAF,DEF,1,2,0,0,0,0,0,0
+Sampson Dweh,Liberia,CAF,DEF,2,2,0,0,0,0,0,0
+Daniel Paye,Liberia,CAF,DEF,3,5,0,0,0,0,0,0
+Prince Nagbo,Liberia,CAF,DEF,4,5,0,0,0,0,0,0
+Allen Njie,Liberia,CAF,MID,5,4,0,0,0,0,0,0
+Sam Jackson,Liberia,CAF,MID,6,4,0,0,0,0,0,0
+Oscar Dorley,Liberia,CAF,MID,7,10,0,0,0,0,0,0
+Marcus Macauley,Liberia,CAF,MID,8,10,0,0,0,0,0,0
+Peter Wilson ,Liberia,CAF,ATK,9,8,0,0,0,0,0,0
+Alloy Brown,Liberia,CAF,ATK,10,8,0,0,0,0,0,0
+Ncamiso Dlamini,Eswatini,CAF,GK,0,0,0,0,0,0,0,0
+Mlamuli Msibi,Eswatini,CAF,DEF,1,2,0,0,0,0,0,0
+Lindo Mkhonta,Eswatini,CAF,DEF,2,2,0,0,0,0,0,0
+Sanele Tshawuka,Eswatini,CAF,DEF,3,5,0,0,0,0,0,0
+Siboniso Mamba,Eswatini,CAF,DEF,4,5,0,0,0,0,0,0
+Wandile Shabangu,Eswatini,CAF,MID,5,4,0,0,0,0,0,0
+Sandile Gamedze,Eswatini,CAF,MID,6,4,0,0,0,0,0,0
+Sifiso Matse,Eswatini,CAF,MID,7,10,0,0,0,0,0,0
+Siboniso Ngwenya,Eswatini,CAF,MID,8,10,0,0,0,0,0,0
+Fanelo Mamba,Eswatini,CAF,ATK,9,8,0,0,0,0,0,0
+Sabelo Ndzinisa,Eswatini,CAF,ATK,10,8,0,0,0,0,0,0
+Modou Jobe,Gambia,CAF,GK,0,0,0,0,0,0,0,0
+Pa Modou Jagne,Gambia,CAF,DEF,1,2,0,0,0,0,0,0
+Omar Colley,Gambia,CAF,DEF,2,2,0,0,0,0,0,0
+Sulayman Marreh,Gambia,CAF,DEF,3,5,0,0,0,0,0,0
+Bubacarr Sanneh,Gambia,CAF,DEF,4,5,0,0,0,0,0,0
+Dawda Ngum,Gambia,CAF,MID,5,4,0,0,0,0,0,0
+Alasana Manneh,Gambia,CAF,MID,6,4,0,0,0,0,0,0
+Kalifa Manneh,Gambia,CAF,MID,7,10,0,0,0,0,0,0
+Ebrima Sohna,Gambia,CAF,MID,8,10,0,0,0,0,0,0
+Assan Ceesay,Gambia,CAF,ATK,9,8,0,0,0,0,0,0
+Musa Barrow,Gambia,CAF,ATK,10,8,0,0,0,0,0,0
+Majak Mawith,South Sudan,CAF,GK,0,0,0,0,0,0,0,0
+Peter Maker,South Sudan,CAF,DEF,1,2,0,0,0,0,0,0
+John Kuol Chol,South Sudan,CAF,DEF,2,2,0,0,0,0,0,0
+Mutwiakil Yom,South Sudan,CAF,DEF,3,5,0,0,0,0,0,0
+Rehan Angier,South Sudan,CAF,DEF,4,5,0,0,0,0,0,0
+Ivan Wani,South Sudan,CAF,MID,5,4,0,0,0,0,0,0
+Manyumow Achol,South Sudan,CAF,MID,6,4,0,0,0,0,0,0
+Jackson Morgan,South Sudan,CAF,MID,7,10,0,0,0,0,0,0
+Saad Musa,South Sudan,CAF,MID,8,10,0,0,0,0,0,0
+Aluck Akech,South Sudan,CAF,ATK,9,8,0,0,0,0,0,0
+Joseph Kuch Nyuar,South Sudan,CAF,ATK,10,8,0,0,0,0,0,0
+Kevin Jean-Louis,Mauritius,CAF,GK,0,0,0,0,0,0,0,0
+Lindsay Rose,Mauritius,CAF,DEF,1,2,0,0,0,0,0,0
+Jean-Fabrice Augustin,Mauritius,CAF,DEF,2,2,0,0,0,0,0,0
+Kerlson Agathe,Mauritius,CAF,DEF,3,5,0,0,0,0,0,0
+Francis Rasolofonirina,Mauritius,CAF,DEF,4,5,0,0,0,0,0,0
+Jeremy Villeneuve,Mauritius,CAF,MID,5,4,0,0,0,0,0,0
+Adel Langue,Mauritius,CAF,MID,6,4,0,0,0,0,0,0
+Samuel Brasse,Mauritius,CAF,MID,7,10,0,0,0,0,0,0
+Kevin Perticots,Mauritius,CAF,MID,8,10,0,0,0,0,0,0
+Gary Noel,Mauritius,CAF,ATK,9,8,0,0,0,0,0,0
+Andy Sophie,Mauritius,CAF,ATK,10,8,0,0,0,0,0,0
+Gabin Allambatnan,Chad,CAF,GK,0,0,0,0,0,0,0,0
+Morgan Betorangal,Chad,CAF,DEF,1,2,0,0,0,0,0,0
+Bechir Seid Djimet,Chad,CAF,DEF,2,2,0,0,0,0,0,0
+Ahmat Abderamane,Chad,CAF,DEF,3,5,0,0,0,0,0,0
+Constant Madtoingue,Chad,CAF,DEF,4,5,0,0,0,0,0,0
+Aboubakar Abderahim,Chad,CAF,MID,5,4,0,0,0,0,0,0
+Bakhit Djibrine,Chad,CAF,MID,6,4,0,0,0,0,0,0
+Mahamat Labbo,Chad,CAF,MID,7,10,0,0,0,0,0,0
+Eric Mbangossoum,Chad,CAF,MID,8,10,0,0,0,0,0,0
+Casimir Ninga,Chad,CAF,ATK,9,8,0,0,0,0,0,0
+Ezechiel N'Douassel,Chad,CAF,ATK,10,8,0,0,0,0,0,0
+Innocent Abonihakuye,Djibouti,CAF,GK,0,0,0,0,0,0,0,0
+Yabe Said,Djibouti,CAF,DEF,1,2,0,0,0,0,0,0
+Abass Fouad Abdourahman,Djibouti,CAF,DEF,2,2,0,0,0,0,0,0
+Fouad Moussa,Djibouti,CAF,DEF,3,5,0,0,0,0,0,0
+Daoud Wais,Djibouti,CAF,DEF,4,5,0,0,0,0,0,0
+Mohamed Salem Breik,Djibouti,CAF,MID,5,4,0,0,0,0,0,0
+Moussa Hirir,Djibouti,CAF,MID,6,4,0,0,0,0,0,0
+Mohamed Bourhan Mohamed,Djibouti,CAF,MID,7,10,0,0,0,0,0,0
+Madhi Houssein Mahabeh,Djibouti,CAF,MID,8,10,0,0,0,0,0,0
+Ahmed Omar,Djibouti,CAF,ATK,9,8,0,0,0,0,0,0
+Mohamed Fouad Mohamed,Djibouti,CAF,ATK,10,8,0,0,0,0,0,0
+Primo ,Sao Tome and Principe,CAF,GK,0,0,0,0,0,0,0,0
+Traure,Sao Tome and Principe,CAF,DEF,1,2,0,0,0,0,0,0
+Dilson,Sao Tome and Principe,CAF,DEF,2,2,0,0,0,0,0,0
+Ivonaldo,Sao Tome and Principe,CAF,DEF,3,5,0,0,0,0,0,0
+Jardel Nezare,Sao Tome and Principe,CAF,DEF,4,5,0,0,0,0,0,0
+Harramiz,Sao Tome and Principe,CAF,MID,5,4,0,0,0,0,0,0
+Tinho,Sao Tome and Principe,CAF,MID,6,4,0,0,0,0,0,0
+Iniesta,Sao Tome and Principe,CAF,MID,7,10,0,0,0,0,0,0
+Pogba,Sao Tome and Principe,CAF,MID,8,10,0,0,0,0,0,0
+Luis Leal,Sao Tome and Principe,CAF,ATK,9,8,0,0,0,0,0,0
+Ze,Sao Tome and Principe,CAF,ATK,10,8,0,0,0,0,0,0
+Said Aweys Ali,Somalia,CAF,GK,0,0,0,0,0,0,0,0
+Mohamud Ali Mohamed,Somalia,CAF,DEF,1,2,0,0,0,0,0,0
+Ahmed Said Ahmed,Somalia,CAF,DEF,2,2,0,0,0,0,0,0
+Omar Sharif Kale,Somalia,CAF,DEF,3,5,0,0,0,0,0,0
+Guled Abdiriziak,Somalia,CAF,DEF,4,5,0,0,0,0,0,0
+Abd-El-Aziz Yousef,Somalia,CAF,MID,5,4,0,0,0,0,0,0
+Abdulsamed Abdullahi,Somalia,CAF,MID,6,4,0,0,0,0,0,0
+Abdulkadir Said Ahmed,Somalia,CAF,MID,7,10,0,0,0,0,0,0
+Said Ali Hussein,Somalia,CAF,MID,8,10,0,0,0,0,0,0
+Hussein Mohamed,Somalia,CAF,ATK,9,8,0,0,0,0,0,0
+Hassan Abdinur Gesey,Somalia,CAF,ATK,10,8,0,0,0,0,0,0
+Gino Melanie,Seychelles,CAF,GK,0,0,0,0,0,0,0,0
+Travis Quatre,Seychelles,CAF,DEF,1,2,0,0,0,0,0,0
+Michel Souris,Seychelles,CAF,DEF,2,2,0,0,0,0,0,0
+Albert Rose,Seychelles,CAF,DEF,3,5,0,0,0,0,0,0
+Juninho Mathiot,Seychelles,CAF,DEF,4,5,0,0,0,0,0,0
+Senky Vidot,Seychelles,CAF,MID,5,4,0,0,0,0,0,0
+Leroy Chetty,Seychelles,CAF,MID,6,4,0,0,0,0,0,0
+Lucas Panayi,Seychelles,CAF,MID,7,10,0,0,0,0,0,0
+Dean Mothe,Seychelles,CAF,MID,8,10,0,0,0,0,0,0
+Hubert Jean,Seychelles,CAF,ATK,9,8,0,0,0,0,0,0
+Gervais Waye-Hive,Seychelles,CAF,ATK,10,8,0,0,0,0,0,0
+Kibrom Solomun,Eritrea,CAF,GK,0,0,0,0,0,0,0,0
+Robel Tekle Michael,Eritrea,CAF,DEF,1,2,0,0,0,0,0,0
+Herman Fessehaye,Eritrea,CAF,DEF,2,2,0,0,0,0,0,0
+Ablelom Teklsezgi,Eritrea,CAF,DEF,3,5,0,0,0,0,0,0
+Eyob Girmay,Eritrea,CAF,DEF,4,5,0,0,0,0,0,0
+Abel Okray,Eritrea,CAF,MID,5,4,0,0,0,0,0,0
+Yons Solomon,Eritrea,CAF,MID,6,4,0,0,0,0,0,0
+Samiyuma Alexander,Eritrea,CAF,MID,7,10,0,0,0,0,0,0
+Senai Hagos,Eritrea,CAF,MID,8,10,0,0,0,0,0,0
+Henok Goitom,Eritrea,CAF,ATK,9,0,0,0,0,0,0,0
+Ali Sulieman,Eritrea,CAF,ATK,10,0,0,0,0,0,0,0
+Guillermo Ochoa,Mexico,CONCACAF,GK,0,0,0,0,0,0,0,0
+Jesus Gallardo,Mexico,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Hector Moreno,Mexico,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Nestor Araujo,Mexico,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Miguel Layun,Mexico,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Hector Herrera,Mexico,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jonathan Dos Santos,Mexico,CONCACAF,MID,4,4,0,0,0,0,0,0
+Edson Alvarez,Mexico,CONCACAF,MID,4,10,0,0,0,0,0,0
+Andres Guardado,Mexico,CONCACAF,MID,6,10,0,0,0,0,0,0
+Raul Jimenez,Mexico,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Hirving Lozano,Mexico,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Zack Steffen,USA,CONCACAF,GK,0,0,0,0,0,0,0,0
+Matt Miazga,USA,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Tim Ream,USA,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Aaron Long,USA,CONCACAF,DEF,2,5,0,0,0,0,0,0
+John Brooks,USA,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kellyn Acosta,USA,CONCACAF,MID,4,4,0,0,0,0,0,0
+Tyler Adams,USA,CONCACAF,MID,4,4,0,0,0,0,0,0
+Weston McKennie,USA,CONCACAF,MID,6,10,0,0,0,0,0,0
+Giovanni Reyna,USA,CONCACAF,ATK,6,10,0,0,0,0,0,0
+Christian Pulisic,USA,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Jozy Altidore,USA,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Dwayne Miller,Jamaica,CONCACAF,GK,0,0,0,0,0,0,0,0
+Michael Hector,Jamaica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Adrian Mariappa,Jamaica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Alvas Powell,Jamaica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kemar Lawrence,Jamaica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kevon Lambert,Jamaica,CONCACAF,MID,4,4,0,0,0,0,0,0
+Fabian McCarthy,Jamaica,CONCACAF,MID,4,4,0,0,0,0,0,0
+Ricardo Morris (Jam),Jamaica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Peter-Lee Vassell,Jamaica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Shamar Nicholson,Jamaica,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Chavany Willis,Jamaica,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Keylor Navas,Costa Rica,CONCACAF,GK,0,0,0,0,0,0,0,0
+Giancarlo Gonzalez,Costa Rica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Oscar Duarte,Costa Rica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Francisco Calvo,Costa Rica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kendall Watson,Costa Rica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Yeltsin Tejeda,Costa Rica,CONCACAF,MID,4,4,0,0,0,0,0,0
+David Guzman,Costa Rica,CONCACAF,MID,4,4,0,0,0,0,0,0
+Celso Borges,Costa Rica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Johan Venegas,Costa Rica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Bryan Ruiz,Costa Rica,CONCACAF,MID,10,8,0,0,0,0,0,0
+Joel Campbell,Costa Rica,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Lui Lopez,Honduras,CONCACAF,GK,0,0,0,0,0,0,0,0
+Marcelo Periera,Honduras,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ever Alvarado,Honduras,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Emilio Izaguirre,Honduras,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Maynor Figueroa,Honduras,CONCACAF,DEF,4,5,0,0,0,0,0,0
+Boniek Garcia,Honduras,CONCACAF,MID,4,4,0,0,0,0,0,0
+Alexander Lopez,Honduras,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jorge Alvarez,Honduras,CONCACAF,MID,6,10,0,0,0,0,0,0
+Rubilio Castillo,Honduras,CONCACAF,ATK,6,10,0,0,0,0,0,0
+Anthony Lozano,Honduras,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Albert Elis,Honduras,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Henry Hernandez,El Salvador,CONCACAF,GK,0,0,0,0,0,0,0,0
+Juan Barahona,El Salvador,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ivan Marcia,El Salvador,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Alexander Mendoza,El Salvador,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Roberto Dominguez,El Salvador,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Bryan Tamacas,El Salvador,CONCACAF,DEF,4,4,0,0,0,0,0,0
+Narciso Orellana,El Salvador,CONCACAF,MID,4,4,0,0,0,0,0,0
+Darwin Ceren,El Salvador,CONCACAF,MID,6,10,0,0,0,0,0,0
+Denis Pineda,El Salvador,CONCACAF,MID,6,10,0,0,0,0,0,0
+Andres Flores,El Salvador,CONCACAF,MID,10,8,0,0,0,0,0,0
+Joaquin Rivas,El Salvador,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Maxime Crepeau,Canada,CONCACAF,GK,0,0,0,0,0,0,0,0
+Richie Laryea,Canada,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Derek Cornelius,Canada,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Sam Adekugbe,Canada,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Alphonso Davies,Canada,CONCACAF,DEF,6,5,0,0,0,0,0,0
+Samuel Piette,Canada,CONCACAF,MID,4,4,0,0,0,0,0,0
+Mark-Anthony Kaye,Canada,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jonathan Osorio,Canada,CONCACAF,MID,6,10,0,0,0,0,0,0
+Tesho Akindele,Canada,CONCACAF,MID,6,10,0,0,0,0,0,0
+Lucas Cavalini,Canada,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Jayden Nelson,Canada,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Eloy Room,Curacao,CONCACAF,GK,0,0,0,0,0,0,0,0
+Jurien Gaari,Curacao,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Daryl Lachman,Curacao,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Shanon Carmelia,Curacao,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Cuco Martina,Curacao,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Jeremy de Nooijer,Curacao,CONCACAF,MID,4,4,0,0,0,0,0,0
+Roly Nonevacia,Curacao,CONCACAF,MID,4,4,0,0,0,0,0,0
+Leandro Bacuna,Curacao,CONCACAF,MID,6,10,0,0,0,0,0,0
+Gevaro Nepomuceno,Curacao,CONCACAF,ATK,10,10,0,0,0,0,0,0
+Elson Hooi,Curacao,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Rangelo Janga,Curacao,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Luis Mejia,Panama,CONCACAF,GK,0,0,0,0,0,0,0,0
+Harold Cummings,Panama,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Eric Davis,Panama,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Fidel Escobar,Panama,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Michael Murillo,Panama,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Alberto Quintero,Panama,CONCACAF,MID,4,4,0,0,0,0,0,0
+Armando Cooper,Panama,CONCACAF,MID,4,4,0,0,0,0,0,0
+Anibal Godoy,Panama,CONCACAF,MID,3,10,0,0,0,0,0,0
+Abdiel Ayarza,Panama,CONCACAF,MID,6,10,0,0,0,0,0,0
+Gabriel Torres,Panama,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Edwin Aguilar,Panama,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Johny Placide,Haiti,CONCACAF,GK,0,0,0,0,0,0,0,0
+Alex Junior Christian,Haiti,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ricardo Ade,Haiti,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Andrew Jean-Baptiste,Haiti,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carlens Arcus,Haiti,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Bryan Alceus,Haiti,CONCACAF,MID,4,4,0,0,0,0,0,0
+Soni Mustivar,Haiti,CONCACAF,MID,4,4,0,0,0,0,0,0
+Duckens Nazon,Haiti,CONCACAF,MID,6,10,0,0,0,0,0,0
+Stephan Lambese,Haiti,CONCACAF,MID,6,10,0,0,0,0,0,0
+Derrick Etienne,Haiti,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Frantzdy Pierrot,Haiti,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Marvin Phillip,Trinidad and Tobago,CONCACAF,GK,0,0,0,0,0,0,0,0
+Neveal Hackshaw,Trinidad and Tobago,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Josiah Trimmingham,Trinidad and Tobago,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Jamal Jack,Trinidad and Tobago,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Alvin Jones,Trinidad and Tobago,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Dre Fortune,Trinidad and Tobago,CONCACAF,MID,4,4,0,0,0,0,0,0
+Michel Poon-Angeron,Trinidad and Tobago,CONCACAF,MID,4,4,0,0,0,0,0,0
+Matthew Woo Ling,Trinidad and Tobago,CONCACAF,MID,6,10,0,0,0,0,0,0
+Hashim Arica,Trinidad and Tobago,CONCACAF,MID,6,10,0,0,0,0,0,0
+Ryan Teffer,Trinidad and Tobago,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Gary Griffith III,Trinidad and Tobago,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Molvin James,Antigua and Barbuda,CONCACAF,GK,0,0,0,0,0,0,0,0
+Kendukar Challenger,Antigua and Barbuda,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Shavorn Philip,Antigua and Barbuda,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Daniel Bowry,Antigua and Barbuda,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Mervyn Hazelwood,Antigua and Barbuda,CONCACAF,DEF,2,5,0,0,0,0,0,0
+D'Andre Bishop,Antigua and Barbuda,CONCACAF,MID,4,4,0,0,0,0,0,0
+Novelle Francis,Antigua and Barbuda,CONCACAF,MID,4,4,0,0,0,0,0,0
+Tevaughn Harriette,Antigua and Barbuda,CONCACAF,MID,6,10,0,0,0,0,0,0
+Quinton Griffith,Antigua and Barbuda,CONCACAF,MID,6,10,0,0,0,0,0,0
+Javorn Stevens,Antigua and Barbuda,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Junior Benjamin,Antigua and Barbuda,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Nicholas Hagen,Guatemala,CONCACAF,GK,0,0,0,0,0,0,0,0
+Gerado Arias,Guatemala,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Moises Hernandez,Guatemala,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Wilson Pineda,Guatemala,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carlos Gallardo,Guatemala,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Jorge Aparicio,Guatemala,CONCACAF,MID,4,4,0,0,0,0,0,0
+Rodrigo Savaria,Guatemala,CONCACAF,MID,4,4,0,0,0,0,0,0
+Alejandro Galindo,Guatemala,CONCACAF,MID,6,10,0,0,0,0,0,0
+Marvin Ceballos,Guatemala,CONCACAF,MID,6,10,0,0,0,0,0,0
+Jairo Areola,Guatemala,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Darwin Lom,Guatemala,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Julani Archibald,St. Kitts and Nevis,CONCACAF,GK,0,0,0,0,0,0,0,0
+Thrizen Leader,St. Kitts and Nevis,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Gerard Williams,St. Kitts and Nevis,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Atiba Harris,St. Kitts and Nevis,CONCACAF,DEF,4,5,0,0,0,0,0,0
+Justin Springer,St. Kitts and Nevis,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Raheem Somersall,St. Kitts and Nevis,CONCACAF,MID,4,4,0,0,0,0,0,0
+Yohannes Mitchum,St. Kitts and Nevis,CONCACAF,MID,4,4,0,0,0,0,0,0
+Theo Warton,St. Kitts and Nevis,CONCACAF,MID,6,10,0,0,0,0,0,0
+G'Vaunne Amory,St. Kitts and Nevis,CONCACAF,MID,6,10,0,0,0,0,0,0
+Rowan Liburd,St. Kitts and Nevis,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Tishan Hanley,St. Kitts and Nevis,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Orbendo Huiswold,Suriname,CONCACAF,GK,0,0,0,0,0,0,0,0
+Miquel Darson,Suriname,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Albert Nibte,Suriname,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Anduelo Amoeferie,Suriname,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Sersinho Eduards,Suriname,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Abraham Graves,Suriname,CONCACAF,MID,4,4,0,0,0,0,0,0
+Roscello Vlijter,Suriname,CONCACAF,MID,4,4,0,0,0,0,0,0
+Ivenzo Cornelius,Suriname,CONCACAF,MID,10,10,0,0,0,0,0,0
+Roxey Fer,Suriname,CONCACAF,MID,6,10,0,0,0,0,0,0
+Gleofilo Vlijter,Suriname,CONCACAF,ATK,15,8,0,0,0,0,0,0
+Dimitrie Apai,Suriname,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Denis Espinoza,Nicaragua,CONCACAF,GK,1,0,0,0,0,0,0,0
+Erick Telles,Nicaragua,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Cristian Gutierrez,Nicaragua,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Manuel Rosas,Nicaragua,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Josue Quiano,Nicaragua,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kevin Serapio,Nicaragua,CONCACAF,MID,4,4,0,0,0,0,0,0
+Marlon Lopez,Nicaragua,CONCACAF,MID,4,4,0,0,0,0,0,0
+Brandon Ayerdis,Nicaragua,CONCACAF,MID,6,10,0,0,0,0,0,0
+Luis Galeno,Nicaragua,CONCACAF,MID,6,10,0,0,0,0,0,0
+Juan Barrera,Nicaragua,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Carlos Chavarria,Nicaragua,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Miguel Lloyd,Dominican Republic,CONCACAF,GK,0,0,0,0,0,0,0,0
+Ernesto Trinidad,Dominican Republic,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Edarlyn Reyes,Dominican Republic,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Carlos Julio Martinez,Dominican Republic,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Ismael Diaz,Dominican Republic,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Gerard Lavergne,Dominican Republic,CONCACAF,MID,4,4,0,0,0,0,0,0
+Wilman Modesta,Dominican Republic,CONCACAF,MID,4,4,0,0,0,0,0,0
+Carlos Heredia,Dominican Republic,CONCACAF,MID,6,10,0,0,0,0,0,0
+Ronaldo Vasquez,Dominican Republic,CONCACAF,MID,6,10,0,0,0,0,0,0
+Domingo Peralta,Dominican Republic,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Mariano,Dominican Republic,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Jason Belfon,Grenada,CONCACAF,GK,0,0,0,0,0,0,0,0
+Aaron Pierre,Grenada,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Irvine Smith,Grenada,CONCACAF,DEF,1,2,0,0,0,0,0,0
+A.J. Paterson,Grenada,CONCACAF,DEF,5,5,0,0,0,0,0,0
+Kimron Marshall,Grenada,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kwazim Theodore,Grenada,CONCACAF,MID,4,4,0,0,0,0,0,0
+Steffon Abraham,Grenada,CONCACAF,MID,4,4,0,0,0,0,0,0
+Shavon John-Brown,Grenada,CONCACAF,MID,6,10,0,0,0,0,0,0
+Leon Braveboy,Grenada,CONCACAF,MID,4,10,0,0,0,0,0,0
+Jamal Charles,Grenada,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Saydrel Lewis,Grenada,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Kishmar Primus,Barbados,CONCACAF,GK,0,0,0,0,0,0,0,0
+Ricardo Morris (Bar),Barbados,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Rashad Smith,Barbados,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Zico Phillips,Barbados,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carl Hinkson,Barbados,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Mario Williams,Barbados,CONCACAF,MID,4,4,0,0,0,0,0,0
+Rashad Jules,Barbados,CONCACAF,MID,4,4,0,0,0,0,0,0
+Hadan Holligan,Barbados,CONCACAF,MID,6,10,0,0,0,0,0,0
+Hallam Hope,Barbados,CONCACAF,ATK,10,10,0,0,0,0,0,0
+Jonathan Forte,Barbados,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Armando Lashley,Barbados,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Akel Clarke,Guyana,CONCACAF,GK,0,0,0,0,0,0,0,0
+Sam Cox,Guyana,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Liam Gordon,Guyana,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Kevin Layne,Guyana,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Matthew Briggs,Guyana,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Daniel Wilson,Guyana,CONCACAF,MID,4,4,0,0,0,0,0,0
+Clive Nobrega,Guyana,CONCACAF,MID,6,4,0,0,0,0,0,0
+Neil Danns,Guyana,CONCACAF,MID,10,10,0,0,0,0,0,0
+Pernell Schultz,Guyana,CONCACAF,MID,6,10,0,0,0,0,0,0
+Sheldon Holder,Guyana,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Keanu Marsh-Brown,Guyana,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Dwayne Sandy,St. Vincent and the Grenadines,CONCACAF,GK,0,0,0,0,0,0,0,0
+Reginald Richardson,St. Vincent and the Grenadines,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Kevin Francis,St. Vincent and the Grenadines,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Jahvin Sutherland,St. Vincent and the Grenadines,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Akeem Williams,St. Vincent and the Grenadines,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Dorren Hamlet,St. Vincent and the Grenadines,CONCACAF,MID,4,4,0,0,0,0,0,0
+Diel Spring,St. Vincent and the Grenadines,CONCACAF,MID,4,4,0,0,0,0,0,0
+Nazir McBurnette,St. Vincent and the Grenadines,CONCACAF,MID,6,10,0,0,0,0,0,0
+Azinho Solomon,St. Vincent and the Grenadines,CONCACAF,MID,6,10,0,0,0,0,0,0
+Cornelius Stewart,St. Vincent and the Grenadines,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Oalex Anderson,St. Vincent and the Grenadines,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Dale Eve,Bermuda,CONCACAF,GK,0,0,0,0,0,0,0,0
+Jaylon Bather,Bermuda,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Donte Brangman,Bermuda,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Dante Leverock,Bermuda,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Calon Minors,Bermuda,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Osagi Bascome,Bermuda,CONCACAF,MID,4,4,0,0,0,0,0,0
+Willie Clemons,Bermuda,CONCACAF,MID,4,4,0,0,0,0,0,0
+Reggie Lambe,Bermuda,CONCACAF,MID,6,10,0,0,0,0,0,0
+Zeiko Lewis,Bermuda,CONCACAF,MID,6,10,0,0,0,0,0,0
+Tre' Ming,Bermuda,CONCACAF,MID,4,8,0,0,0,0,0,0
+Nakhi Wells,Bermuda,CONCACAF,ATK,15,8,0,0,0,0,0,0
+Woodrow West,Belize,CONCACAF,GK,0,0,0,0,0,0,0,0
+Evral Trapp,Belize,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Tyrone Pandy,Belize,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Elroy Smith,Belize,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Ian Gaynair,Belize,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Andres Makin,Belize,CONCACAF,MID,4,4,0,0,0,0,0,0
+Daniel Jimenez,Belize,CONCACAF,MID,4,4,0,0,0,0,0,0
+Krisean Lopez,Belize,CONCACAF,MID,6,10,0,0,0,0,0,0
+Ean Lewis,Belize,CONCACAF,MID,6,10,0,0,0,0,0,0
+Deon McCaulay,Belize,CONCACAF,ATK,15,8,0,0,0,0,0,0
+Michael Salazar,Belize,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Vino Barclett,St. Lucia,CONCACAF,GK,0,0,0,0,0,0,0,0
+Melvin Doxilly,St. Lucia,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Otev Lawrence,St. Lucia,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Eden Charles,St. Lucia,CONCACAF,DEF,4,5,0,0,0,0,0,0
+Kurt Frederick,St. Lucia,CONCACAF,DEF,4,5,0,0,0,0,0,0
+Gregson President,St. Lucia,CONCACAF,MID,4,4,0,0,0,0,0,0
+Zaine Pierre,St. Lucia,CONCACAF,MID,4,4,0,0,0,0,0,0
+Malik St. Prix,St. Lucia,CONCACAF,MID,6,10,0,0,0,0,0,0
+Pernal Williams,St. Lucia,CONCACAF,MID,6,10,0,0,0,0,0,0
+Aaron Richards,St. Lucia,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Jevick MacFarlane,St. Lucia,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Cody Laurendi,Puerto Rico,CONCACAF,GK,0,0,0,0,0,0,0,0
+Callum Stretch,Puerto Rico,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Giovanni Padron,Puerto Rico,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Giovanni Calderon,Puerto Rico,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Rodolfo Sulia,Puerto Rico,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Brandon Servania,Puerto Rico,CONCACAF,MID,4,4,0,0,0,0,0,0
+Darren Rios,Puerto Rico,CONCACAF,MID,4,4,0,0,0,0,0,0
+Juan O'Neill,Puerto Rico,CONCACAF,MID,6,10,0,0,0,0,0,0
+Devin Vega,Puerto Rico,CONCACAF,MID,6,10,0,0,0,0,0,0
+Sidney Rivera,Puerto Rico,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Alec Diaz,Puerto Rico,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Sandy Sanchez,Cuba,CONCACAF,GK,1,0,0,0,0,0,0,0
+Yosel Piedra,Cuba,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Erick Rizo,Cuba,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Yasmany Lopez,Cuba,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Leonis Martinez,Cuba,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Daniel Luis Saez,Cuba,CONCACAF,MID,4,4,0,0,0,0,0,0
+Aricheel Hernandez,Cuba,CONCACAF,MID,4,4,0,0,0,0,0,0
+Andy Baquero,Cuba,CONCACAF,MID,6,10,0,0,0,0,0,0
+Yordan Santa Cruz,Cuba,CONCACAF,MID,6,10,0,0,0,0,0,0
+Maikel Reyes,Cuba,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Luis Paradela,Cuba,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Corrin Brooks-Meade,Montserrat,CONCACAF,GK,0,0,0,0,0,0,0,0
+Michael Wiliams,Montserrat,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Craig Braham-Barrett,Montserrat,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Nathan Pond,Montserrat,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Joey Taylor,Montserrat,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Dean Mason,Montserrat,CONCACAF,MID,4,4,0,0,0,0,0,0
+Brandon Comley,Montserrat,CONCACAF,MID,4,4,0,0,0,0,0,0
+James Comley,Montserrat,CONCACAF,MID,6,10,0,0,0,0,0,0
+Solomon Henry,Montserrat,CONCACAF,MID,6,10,0,0,0,0,0,0
+Bradley Woods-Garness,Montserrat,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Spencer Weir-Daley,Montserrat,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Glenson Prince,Dominica,CONCACAF,GK,0,0,0,0,0,0,0,0
+Euclid Bertrand,Dominica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Kassim Peltier,Dominica,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Malcolm Joseph,Dominica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Erksim Williams,Dominica,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Sidney Lockhart,Dominica,CONCACAF,MID,4,4,0,0,0,0,0,0
+Briel Thomas,Dominica,CONCACAF,MID,4,4,0,0,0,0,0,0
+Travist Joseph,Dominica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Chad Betrand,Dominica,CONCACAF,MID,6,10,0,0,0,0,0,0
+Julian Wade,Dominica,CONCACAF,ATK,15,8,0,0,0,0,0,0
+Javid George,Dominica,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Albertini Holness,Cayman Islands,CONCACAF,GK,0,0,0,0,0,0,0,0
+Karl Solomon,Cayman Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Joshewa Frederick-Charlery,Cayman Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Benjamin Cupid,Cayman Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Ackeem Hyde,Cayman Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Matthew Suberan,Cayman Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jermaine Wilson,Cayman Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Michael Martin,Cayman Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Jonah Ebanks,Cayman Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Mark Ebanks,Cayman Islands,CONCACAF,ATK,15,8,0,0,0,0,0,0
+Theron Woods,Cayman Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Dwayne Whylly,Bahamas,CONCACAF,GK,0,0,0,0,0,0,0,0
+Troy Pinder,Bahamas,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ambry Moss,Bahamas,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Evelt Julmis,Bahamas,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Evens Julmis,Bahamas,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Isiah Collie,Bahamas,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jean Francois,Bahamas,CONCACAF,MID,4,4,0,0,0,0,0,0
+Happy Hall,Bahamas,CONCACAF,MID,6,10,0,0,0,0,0,0
+Cameron Hepple,Bahamas,CONCACAF,MID,6,10,0,0,0,0,0,0
+Lesly St. Fluer,Bahamas,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Terry Delancy,Bahamas,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Eric Abdul,Aruba,CONCACAF,GK,0,0,0,0,0,0,0,0
+Nickenson Paul,Aruba,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Marlon Pereira,Aruba,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Noah Harms,Aruba,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Mark Jacobs,Aruba,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Erik Santos de Gouveia,Aruba,CONCACAF,MID,4,4,0,0,0,0,0,0
+Gregor Breinburg,Aruba,CONCACAF,MID,4,4,0,0,0,0,0,0
+Annaur Kock,Aruba,CONCACAF,MID,6,10,0,0,0,0,0,0
+Glenbert Croes,Aruba,CONCACAF,MID,6,10,0,0,0,0,0,0
+Joshua John,Aruba,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Josh Gross,Aruba,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Pendieno Brooks,Turks and Caicos Islands,CONCACAF,GK,0,0,0,0,0,0,0,0
+Wildens Delva,Turks and Caicos Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ledson Jerome,Turks and Caicos Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Jepthe Francois,Turks and Caicos Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Wildin Calixte,Turks and Caicos Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Jeff Beljour,Turks and Caicos Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jose Elcius,Turks and Caicos Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Marco Fenelus,Turks and Caicos Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Stevens Derilien,Turks and Caicos Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Lenford Singh,Turks and Caicos Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Fred Dorvil,Turks and Caicos Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Erik Mozzo,US Virgin Islands,CONCACAF,GK,0,0,0,0,0,0,0,0
+Kassall Greene,US Virgin Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Dusty Good,US Virgin Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Raejae Joseph,US Virgin Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carlos Labrada,US Virgin Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Tnoy Andrew,US Virgin Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+MacDonald Taylor Jr,US Virgin Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jett Blaschka,US Virgin Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Avier Christian,US Virgin Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+J.C. Mack,US Virgin Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Aaron Dennis,US Virgin Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Phillip Jules,British Virgin Islands,CONCACAF,GK,0,0,0,0,0,0,0,0
+Joshua Bertie,British Virgin Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Liam Blok,British Virgin Islands,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Ikyjah Williams,British Virgin Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Jerry Wiltshire,British Virgin Islands,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carlos Septus,British Virgin Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Kristian Javier,British Virgin Islands,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jamie Wilson,British Virgin Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+T'Sharne Gallimore,British Virgin Islands,CONCACAF,MID,6,10,0,0,0,0,0,0
+Tyler Forbes,British Virgin Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Kevin Fisher,British Virgin Islands,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Ryan Liddie,Anguilla,CONCACAF,GK,0,0,0,0,0,0,0,0
+Germain Hughes,Anguilla,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Leo Richardson,Anguilla,CONCACAF,DEF,1,2,0,0,0,0,0,0
+Luke Paris,Anguilla,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Kion Lee,Anguilla,CONCACAF,DEF,2,5,0,0,0,0,0,0
+Carlique Gumbs,Anguilla,CONCACAF,MID,4,4,0,0,0,0,0,0
+Jermal Richardson,Anguilla,CONCACAF,MID,4,4,0,0,0,0,0,0
+Calvin Morgan,Anguilla,CONCACAF,MID,6,10,0,0,0,0,0,0
+Ruvin Richardson,Anguilla,CONCACAF,MID,6,10,0,0,0,0,0,0
+Glenville Rogers,Anguilla,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Kyle Lake-Bryan,Anguilla,CONCACAF,ATK,10,8,0,0,0,0,0,0
+Ederson,Brazil,CONMEBOL,GK,1,0,0,0,0,0,0,0
+Danilo,Brazil,CONMEBOL,DEF,5,2,0,0,0,0,0,0
+Marquinhos,Brazil,CONMEBOL,DEF,6,2,0,0,0,0,0,0
+Thiago Silva,Brazil,CONMEBOL,DEF,6,5,0,0,0,0,0,0
+Alex Telles,Brazil,CONMEBOL,DEF,5,5,0,0,0,0,0,0
+Fabinho,Brazil,CONMEBOL,MID,4,4,0,0,0,0,0,0
+Phillipe Coutinho,Brazil,CONMEBOL,MID,13,12,0,0,0,0,0,0
+Arthur,Brazil,CONMEBOL,MID,7,10,0,0,0,0,0,0
+Gabriel Jesus,Brazil,CONMEBOL,ATK,15,10,0,0,0,0,0,0
+Neymar,Brazil,CONMEBOL,ATK,20,15,0,0,0,0,0,0
+Vinicuis Junior,Brazil,CONMEBOL,ATK,10,8,0,0,0,0,0,0
+Augustin Marchesin,Argentina,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Nicolas Tagliafico,Argentina,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Gonzalo Montiel,Argentina,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Lisando Martinez,Argentina,CONMEBOL,DEF,3,5,0,0,0,0,0,0
+Leandro Paredes,Argentina,CONMEBOL,MID,5,5,0,0,0,0,0,0
+Nicolas Otamendi,Argentina,CONMEBOL,DEF,3,4,0,0,0,0,0,0
+Angel Di Maria,Argentina,CONMEBOL,ATK,10,15,0,0,0,0,0,0
+Exequiel Palacios,Argentina,CONMEBOL,MID,5,10,0,0,0,0,0,0
+Lautaro Martinez,Argentina,CONMEBOL,ATK,10,10,0,0,0,0,0,0
+Lionel Messi,Argentina,CONMEBOL,ATK,20,20,0,0,0,0,0,0
+Sergio Aguero,Argentina,CONMEBOL,ATK,15,8,0,0,0,0,0,0
+Fernando Muslera,Uruguay,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Jose Gimenez,Uruguay,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Diego Godin,Uruguay,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Matias Vina,Uruguay,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Damian Suarez,Uruguay,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Rodrigo Bentacur,Uruguay,CONMEBOL,MID,3,4,0,0,0,0,0,0
+Lucas Torreira,Uruguay,CONMEBOL,MID,5,4,0,0,0,0,0,0
+Federico Valverde,Uruguay,CONMEBOL,MID,6,10,0,0,0,0,0,0
+Maxi Gomez,Uruguay,CONMEBOL,ATK,8,10,0,0,0,0,0,0
+Luis Suarez,Uruguay,CONMEBOL,ATK,20,8,0,0,0,0,0,0
+Edinson Cavani,Uruguay,CONMEBOL,ATK,15,8,0,0,0,0,0,0
+David Ospina,Colombia,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Jeison Murillo,Colombia,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Yerry Mina,Colombia,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Frank Fabra,Colombia,CONMEBOL,DEF,3,5,0,0,0,0,0,0
+Santiago Arias,Colombia,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Wilmar Barrios,Colombia,CONMEBOL,MID,5,4,0,0,0,0,0,0
+James Rodriguez,Colombia,CONMEBOL,MID,10,4,0,0,0,0,0,0
+Mateus Uribe,Colombia,CONMEBOL,MID,5,10,0,0,0,0,0,0
+Juan Quintero,Colombia,CONMEBOL,MID,8,10,0,0,0,0,0,0
+Juan Cuadrado,Colombia,CONMEBOL,MID,8,8,0,0,0,0,0,0
+Luis Muriel,Colombia,CONMEBOL,ATK,10,8,0,0,0,0,0,0
+Claudio Bravo,Chile,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Nicolas Diaz,Chile,CONMEBOL,DEF,1,2,0,0,0,0,0,0
+Guillermo Maripan,Chile,CONMEBOL,DEF,1,2,0,0,0,0,0,0
+Mauricio Isla,Chile,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Paulo Diaz,Chile,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Charles Aranguiz,Chile,CONMEBOL,MID,6,4,0,0,0,0,0,0
+Alexis Sanchez,Chile,CONMEBOL,ATK,10,4,0,0,0,0,0,0
+Arturo Vidal,Chile,CONMEBOL,MID,6,10,0,0,0,0,0,0
+Jean Meneses,Chile,CONMEBOL,ATK,8,10,0,0,0,0,0,0
+Cesar Pinares,Chile,CONMEBOL,MID,6,8,0,0,0,0,0,0
+Felipe Mora,Chile,CONMEBOL,ATK,8,8,0,0,0,0,0,0
+Pedro Gallese,Peru,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Luis Abram,Peru,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Aldo Corzo,Peru,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Anderson Santamaria,Peru,CONMEBOL,DEF,3,5,0,0,0,0,0,0
+Miguel Araujo,Peru,CONMEBOL,DEF,2,5,0,0,0,0,0,0
+Miguel Trauco,Peru,CONMEBOL,DEF,3,4,0,0,0,0,0,0
+Andy Polo,Peru,CONMEBOL,ATK,8,4,0,0,0,0,0,0
+Yoshimar Yotun,Peru,CONMEBOL,MID,6,10,0,0,0,0,0,0
+Edison Flores,Peru,CONMEBOL,ATK,10,10,0,0,0,0,0,0
+Christian Cueva,Peru,CONMEBOL,MID,7,8,0,0,0,0,0,0
+Raul Ruidiaz,Peru,CONMEBOL,ATK,8,8,0,0,0,0,0,0
+Wuilker Farinez,Venezuela,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Wilker Angel,Venezuela,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Yordon Osorio,Venezuela,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Jhon Chancellor,Venezuela,CONMEBOL,DEF,4,5,0,0,0,0,0,0
+Junior Moreno,Venezuela,CONMEBOL,MID,5,5,0,0,0,0,0,0
+Bernaldo Manzano,Venezuela,CONMEBOL,MID,6,4,0,0,0,0,0,0
+Darwin Machis,Venezuela,CONMEBOL,ATK,11,4,0,0,0,0,0,0
+Tomas Rincon,Venezuela,CONMEBOL,MID,8,10,0,0,0,0,0,0
+Fernando Aristeguieta,Venezuela,CONMEBOL,ATK,9,10,0,0,0,0,0,0
+Yeferson Soteldo,Venezuela,CONMEBOL,MID,10,8,0,0,0,0,0,0
+Juan Pablo Anor,Venezuela,CONMEBOL,MID,7,8,0,0,0,0,0,0
+Antony Silva,Paraguay,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Robert Rojas,Paraguay,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Omer Alderete,Paraguay,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Fabian Balbuena,Paraguay,CONMEBOL,DEF,4,5,0,0,0,0,0,0
+Gaston Gimenez,Paraguay,CONMEBOL,MID,5,5,0,0,0,0,0,0
+Junior Alonso,Paraguay,CONMEBOL,DEF,6,4,0,0,0,0,0,0
+Raul Bobadilla,Paraguay,CONMEBOL,ATK,9,4,0,0,0,0,0,0
+Richard Sanchez,Paraguay,CONMEBOL,MID,7,10,0,0,0,0,0,0
+Antonio Sanabria,Paraguay,CONMEBOL,ATK,10,10,0,0,0,0,0,0
+Miguel Almiron,Paraguay,CONMEBOL,MID,8,8,0,0,0,0,0,0
+Angel Romero,Paraguay,CONMEBOL,ATK,11,8,0,0,0,0,0,0
+Alexander Dominguez,Ecuador,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Mario Pineida,Ecuador,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Xavier Arreaga,Ecuador,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Beder Caicedo,Ecuador,CONMEBOL,DEF,4,5,0,0,0,0,0,0
+Robert Arboleda,Ecuador,CONMEBOL,DEF,5,5,0,0,0,0,0,0
+Renato Ibarra,Ecuador,CONMEBOL,MID,6,4,0,0,0,0,0,0
+Carlos Gruezo,Ecuador,CONMEBOL,MID,7,4,0,0,0,0,0,0
+Jhegson Mendez,Ecuador,CONMEBOL,MID,8,10,0,0,0,0,0,0
+Gonzalo Plata,Ecuador,CONMEBOL,MID,9,10,0,0,0,0,0,0
+Angel Mena,Ecuador,CONMEBOL,MID,10,8,0,0,0,0,0,0
+Michael Estrada,Ecuador,CONMEBOL,ATK,11,8,0,0,0,0,0,0
+Carlos Lampe,Bolivia,CONMEBOL,GK,0,0,0,0,0,0,0,0
+Ronny Montero,Bolivia,CONMEBOL,DEF,2,2,0,0,0,0,0,0
+Diego Bejarano,Bolivia,CONMEBOL,DEF,3,2,0,0,0,0,0,0
+Jose Sagredo,Bolivia,CONMEBOL,DEF,4,5,0,0,0,0,0,0
+Adrian Jusino,Bolivia,CONMEBOL,DEF,5,5,0,0,0,0,0,0
+Diego Wayar,Bolivia,CONMEBOL,MID,6,4,0,0,0,0,0,0
+Juan Carlos Arce,Bolivia,CONMEBOL,ATK,10,4,0,0,0,0,0,0
+Alejandro Chumacero,Bolivia,CONMEBOL,MID,7,10,0,0,0,0,0,0
+Marcelo Moreno,Bolivia,CONMEBOL,ATK,11,10,0,0,0,0,0,0
+Moises Villarreol,Bolivia,CONMEBOL,MID,8,8,0,0,0,0,0,0
+Victor Abrego,Bolivia,CONMEBOL,ATK,9,8,0,0,0,0,0,0
+Stefan Marinovic,New Zealand,OFC,GK,0,0,0,0,0,0,0,0
+Michael Boxall,New Zealand,OFC,DEF,1,2,0,0,0,0,0,0
+Bill Tuiloma,New Zealand,OFC,DEF,1,2,0,0,0,0,0,0
+Winston Reid,New Zealand,OFC,DEF,2,5,0,0,0,0,0,0
+Tommy Smith,New Zealand,OFC,DEF,2,5,0,0,0,0,0,0
+Alex Ruffer,New Zealand,OFC,MID,4,4,0,0,0,0,0,0
+Ryan Thomas,New Zealand,OFC,MID,6,4,0,0,0,0,0,0
+Marco Rojas,New Zealand,OFC,MID,6,10,0,0,0,0,0,0
+Michael McGlinchey,New Zealand,OFC,MID,6,10,0,0,0,0,0,0
+Andre De Jong,New Zealand,OFC,ATK,10,8,0,0,0,0,0,0
+Chris Wood,New Zealand,OFC,ATK,20,8,0,0,0,0,0,0
+Desmond Tutu,Solomon Islands,OFC,GK,0,0,0,0,0,0,0,0
+Hadisi Aengari,Solomon Islands,OFC,DEF,1,2,0,0,0,0,0,0
+Boni Pride,Solomon Islands,OFC,DEF,1,2,0,0,0,0,0,0
+Richard Hiromana,Solomon Islands,OFC,DEF,2,5,0,0,0,0,0,0
+Emmanuel Poila,Solomon Islands,OFC,DEF,2,5,0,0,0,0,0,0
+Jerry Donga,Solomon Islands,OFC,MID,4,4,0,0,0,0,0,0
+Atkin Kaua,Solomon Islands,OFC,MID,4,4,0,0,0,0,0,0
+Micah Lea'alafa,Solomon Islands,OFC,MID,6,10,0,0,0,0,0,0
+Gagame Feni,Solomon Islands,OFC,MID,6,10,0,0,0,0,0,0
+Raphael Leai'i,Solomon Islands,OFC,ATK,25,8,0,0,0,0,0,0
+Adrian Mara,Solomon Islands,OFC,ATK,10,8,0,0,0,0,0,0
+Rocky Nyikeine,New Caledonia,OFC,GK,0,0,0,0,0,0,0,0
+Joseph Tchako,New Caledonia,OFC,DEF,1,2,0,0,0,0,0,0
+Emile Bearune,New Caledonia,OFC,DEF,1,2,0,0,0,0,0,0
+Jacques Wamytan,New Caledonia,OFC,DEF,2,5,0,0,0,0,0,0
+Jorys Mene,New Caledonia,OFC,DEF,2,5,0,0,0,0,0,0
+Cedric Sansot,New Caledonia,OFC,MID,4,4,0,0,0,0,0,0
+Didier Simane,New Caledonia,OFC,MID,4,4,0,0,0,0,0,0
+Geordy Gony,New Caledonia,OFC,MID,6,10,0,0,0,0,0,0
+Cesar Zeoula,New Caledonia,OFC,MID,6,10,0,0,0,0,0,0
+Betrand Kai,New Caledonia,OFC,ATK,10,8,0,0,0,0,0,0
+Jean-Philippe Saiko,New Caledonia,OFC,ATK,10,8,0,0,0,0,0,0
+Teave Teamotuaitau,Tahiti,OFC,GK,0,0,0,0,0,0,0,0
+Marama Amau,Tahiti,OFC,DEF,1,2,0,0,0,0,0,0
+Matatia Paama,Tahiti,OFC,DEF,1,2,0,0,0,0,0,0
+Jean-Claude Paraue,Tahiti,OFC,DEF,2,5,0,0,0,0,0,0
+Farearii Tuteina,Tahiti,OFC,DEF,2,5,0,0,0,0,0,0
+Kevin Barbe,Tahiti,OFC,MID,4,4,0,0,0,0,0,0
+Rooarii Roo,Tahiti,OFC,MID,4,4,0,0,0,0,0,0
+Stanley Atani,Tahiti,OFC,MID,6,10,0,0,0,0,0,0
+Tamatoa Tetauira,Tahiti,OFC,MID,6,10,0,0,0,0,0,0
+Manarii Porlier,Tahiti,OFC,ATK,10,8,0,0,0,0,0,0
+Teanoui Tehau,Tahiti,OFC,ATK,10,8,0,0,0,0,0,0
+Simione Tamanisau,Fiji,OFC,GK,0,0,0,0,0,0,0,0
+Kavaia Rawaqa,Fiji,OFC,DEF,1,2,0,0,0,0,0,0
+Laisenia Naioko,Fiji,OFC,DEF,1,2,0,0,0,0,0,0
+Kishan Sami,Fiji,OFC,DEF,2,5,0,0,0,0,0,0
+Remueru Tekiate,Fiji,OFC,DEF,2,5,0,0,0,0,0,0
+Patrick Joseph,Fiji,OFC,MID,4,4,0,0,0,0,0,0
+Ame Votoniu,Fiji,OFC,MID,4,4,0,0,0,0,0,0
+Dave Radrigai,Fiji,OFC,MID,6,10,0,0,0,0,0,0
+Christopher Wasasala,Fiji,OFC,MID,6,10,0,0,0,0,0,0
+Roy Krishna,Fiji,OFC,ATK,20,8,0,0,0,0,0,0
+Tito Vodowaqa,Fiji,OFC,ATK,10,8,0,0,0,0,0,0
+Chikau Mansala,Vanuatu,OFC,GK,0,0,0,0,0,0,0,0
+Jason Thomas,Vanuatu,OFC,DEF,1,2,0,0,0,0,0,0
+Joseph Iaruel,Vanuatu,OFC,DEF,1,2,0,0,0,0,0,0
+Selwyn Vatu,Vanuatu,OFC,DEF,2,5,0,0,0,0,0,0
+Brian Kaltack,Vanuatu,OFC,DEF,2,5,0,0,0,0,0,0
+John Alick,Vanuatu,OFC,MID,4,4,0,0,0,0,0,0
+Bong Kalo,Vanuatu,OFC,MID,4,4,0,0,0,0,0,0
+Mitch Cooper,Vanuatu,OFC,MID,6,10,0,0,0,0,0,0
+Elkington Molivakrua,Vanuatu,OFC,MID,6,10,0,0,0,0,0,0
+Tony Kaltack,Vanuatu,OFC,ATK,15,8,0,0,0,0,0,0
+Kensi Tangis,Vanuatu,OFC,ATK,10,8,0,0,0,0,0,0
+Ronald Warisan,Papua New Guinea,OFC,GK,0,0,0,0,0,0,0,0
+Felix Komolong,Papua New Guinea,OFC,DEF,1,2,0,0,0,0,0,0
+Alwin Komolong,Papua New Guinea,OFC,DEF,1,2,0,0,0,0,0,0
+Koriak Upaiga,Papua New Guinea,OFC,DEF,2,5,0,0,0,0,0,0
+Daniel Joe,Papua New Guinea,OFC,DEF,2,5,0,0,0,0,0,0
+Jacob Sabua,Papua New Guinea,OFC,MID,4,4,0,0,0,0,0,0
+Patrick Aisa,Papua New Guinea,OFC,MID,4,4,0,0,0,0,0,0
+Emmanuel Simon,Papua New Guinea,OFC,MID,6,10,0,0,0,0,0,0
+Michael Foster,Papua New Guinea,OFC,MID,6,10,0,0,0,0,0,0
+Raymond Gunemba,Papua New Guinea,OFC,ATK,10,8,0,0,0,0,0,0
+Nigel Dabinyaba,Papua New Guinea,OFC,ATK,10,8,0,0,0,0,0,0
+Nicky Salapu,American Samoa,OFC,GK,0,0,0,0,0,0,0,0
+Jayiah Saelua,American Samoa,OFC,DEF,1,2,0,0,0,0,0,0
+Uasila'a Heleta,American Samoa,OFC,DEF,1,2,0,0,0,0,0,0
+Ryan Samueli,American Samoa,OFC,DEF,2,5,0,0,0,0,0,0
+Ueli Tualaulelei,American Samoa,OFC,DEF,2,5,0,0,0,0,0,0
+Kuresa Taga'i,American Samoa,OFC,MID,4,4,0,0,0,0,0,0
+Austin Kaleopa,American Samoa,OFC,MID,4,4,0,0,0,0,0,0
+Milo Tatia,American Samoa,OFC,MID,6,10,0,0,0,0,0,0
+Chris Faamoana,American Samoa,OFC,MID,6,10,0,0,0,0,0,0
+Walter Pati,American Samoa,OFC,ATK,10,8,0,0,0,0,0,0
+MJ Faoa-Danielson,American Samoa,OFC,ATK,10,8,0,0,0,0,0,0
+Faalavelave Matagi,Samoa,OFC,GK,0,0,0,0,0,0,0,0
+Andrew Setefano,Samoa,OFC,DEF,1,2,0,0,0,0,0,0
+Lawrie Letutusa,Samoa,OFC,DEF,1,2,0,0,0,0,0,0
+Faitalia Hamilton-Pama,Samoa,OFC,DEF,2,5,0,0,0,0,0,0
+Sean Atherton,Samoa,OFC,DEF,2,5,0,0,0,0,0,0
+Mike Saofaiga,Samoa,OFC,MID,4,4,0,0,0,0,0,0
+Keone Kapisi,Samoa,OFC,MID,4,4,0,0,0,0,0,0
+Willie Sauiluma,Samoa,OFC,MID,6,10,0,0,0,0,0,0
+George Konusi,Samoa,OFC,MID,6,10,0,0,0,0,0,0
+Andrew Mobberley,Samoa,OFC,ATK,10,8,0,0,0,0,0,0
+Vito Laloata,Samoa,OFC,ATK,10,8,0,0,0,0,0,0
+Mahe Malafu,Tonga,OFC,GK,0,0,0,0,0,0,0,0
+Siuloa Fahina,Tonga,OFC,DEF,1,2,0,0,0,0,0,0
+Semisi Otukolo,Tonga,OFC,DEF,1,2,0,0,0,0,0,0
+Timote Fakasi'I'eiki,Tonga,OFC,DEF,2,5,0,0,0,0,0,0
+Sione Uhatahi,Tonga,OFC,DEF,2,5,0,0,0,0,0,0
+Kamaliele Papani,Tonga,OFC,MID,4,4,0,0,0,0,0,0
+Vai Lutu,Tonga,OFC,MID,4,4,0,0,0,0,0,0
+Petueli Tokotaha,Tonga,OFC,MID,6,10,0,0,0,0,0,0
+Tuia Falepapalangi,Tonga,OFC,MID,6,10,0,0,0,0,0,0
+Hemaloto Polovili,Tonga,OFC,ATK,10,8,0,0,0,0,0,0
+Lafaele Moala,Tonga,OFC,ATK,10,8,0,0,0,0,0,0
+Tahiri Elikana,Cook Islands,OFC,GK,0,0,0,0,0,0,0,0
+Tyrell Baringer-Tahiri,Cook Islands,OFC,DEF,1,2,0,0,0,0,0,0
+Nathan Tisam,Cook Islands,OFC,DEF,1,2,0,0,0,0,0,0
+Paavo Mustonen,Cook Islands,OFC,DEF,2,5,0,0,0,0,0,0
+Joseph Mitimariki,Cook Islands,OFC,DEF,2,5,0,0,0,0,0,0
+Gichin Fuhiniu,Cook Islands,OFC,MID,4,4,0,0,0,0,0,0
+Grover Harmon,Cook Islands,OFC,MID,4,4,0,0,0,0,0,0
+Taylor Saghbai,Cook Islands,OFC,MID,6,10,0,0,0,0,0,0
+Jake Stuart,Cook Islands,OFC,MID,6,10,0,0,0,0,0,0
+Campbell Best,Cook Islands,OFC,ATK,10,8,0,0,0,0,0,0
+Harlem Simiona,Cook Islands,OFC,ATK,10,8,0,0,0,0,0,0
+Thibaut Courtois,Belgium,UEFA,GK,0,0,0,0,0,0,0,0
+Jason Denayer,Belgium,UEFA,DEF,2,2,0,0,0,0,0,0
+Toby Alderweireld,Belgium,UEFA,DEF,2,2,0,0,0,0,0,0
+Jan Vertonghen,Belgium,UEFA,DEF,2,5,0,0,0,0,0,0
+Thomas Meunier,Belgium,UEFA,DEF,4,5,0,0,0,0,0,0
+Timothy Castagne,Belgium,UEFA,DEF,4,7,0,0,0,0,0,0
+Axel Witsel,Belgium,UEFA,MID,4,4,0,0,0,0,0,0
+Kevin De Bruyne,Belgium,UEFA,MID,10,20,0,0,0,0,0,0
+Eden Hazard,Belgium,UEFA,ATK,12,15,0,0,0,0,0,0
+Dries Mertens,Belgium,UEFA,ATK,10,12,0,0,0,0,0,0
+Romelu Lukaku,Belgium,UEFA,ATK,12,6,0,0,0,0,0,0
+Hugo Lloris,France,UEFA,GK,0,0,0,0,0,0,0,0
+Lucas Digne,France,UEFA,DEF,2,8,0,0,0,0,0,0
+Raphael Varane,France,UEFA,DEF,1,2,0,0,0,0,0,0
+Lucas Hernandez,France,UEFA,DEF,2,5,0,0,0,0,0,0
+Benjamin Pavard,France,UEFA,DEF,4,5,0,0,0,0,0,0
+Ngolo Kante,France,UEFA,MID,3,4,0,0,0,0,0,0
+Corentin Tolisso,France,UEFA,MID,4,4,0,0,0,0,0,0
+Paul Pogba,France,UEFA,MID,6,10,0,0,0,0,0,0
+Kingsley Coman,France,UEFA,ATK,8,10,0,0,0,0,0,0
+Antoine Griezmann,France,UEFA,ATK,10,12,0,0,0,0,0,0
+Kylian Mbappe,France,UEFA,ATK,15,8,0,0,0,0,0,0
+Nick Pope,England,UEFA,GK,0,0,0,0,0,0,0,0
+Ben Chilwell,England,UEFA,DEF,4,7,0,0,0,0,0,0
+Eric Dier,England,UEFA,DEF,1,2,0,0,0,0,0,0
+Harry Maguire,England,UEFA,DEF,2,1,0,0,0,0,0,0
+Kyle Walker,England,UEFA,DEF,2,3,0,0,0,0,0,0
+Jordan Henderson,England,UEFA,DEF,4,4,0,0,0,0,0,0
+Declan Rice,England,UEFA,MID,3,4,0,0,0,0,0,0
+Jadon Sancho,England,UEFA,MID,8,15,0,0,0,0,0,0
+Raheem Sterling,England,UEFA,ATK,8,12,0,0,0,0,0,0
+Harry Kane,England,UEFA,ATK,12,8,0,0,0,0,0,0
+Marcus Rashford,England,UEFA,ATK,10,8,0,0,0,0,0,0
+Dominik Livakovic,Croatia,UEFA,GK,0,0,0,0,0,0,0,0
+Duje Caleta-Car,Croatia,UEFA,DEF,1,2,0,0,0,0,0,0
+Dejan Lovren,Croatia,UEFA,DEF,1,2,0,0,0,0,0,0
+Domagoj Vida,Croatia,UEFA,DEF,2,5,0,0,0,0,0,0
+Sime Vrsalijko,Croatia,UEFA,DEF,2,5,0,0,0,0,0,0
+Mario Kovacic,Croatia,UEFA,MID,4,4,0,0,0,0,0,0
+Mario Pasalic,Croatia,UEFA,MID,4,4,0,0,0,0,0,0
+Luka Modric,Croatia,UEFA,MID,6,15,0,0,0,0,0,0
+Ivan Perisic,Croatia,UEFA,MID,8,12,0,0,0,0,0,0
+Andre Kramaric,Croatia,UEFA,ATK,10,6,0,0,0,0,0,0
+Ante Rebic,Croatia,UEFA,ATK,10,6,0,0,0,0,0,0
+Rui Patricio,Portugal,UEFA,GK,0,0,0,0,0,0,0,0
+Nelson Semedo,Portugal,UEFA,DEF,3,5,0,0,0,0,0,0
+Ruben Dias,Portugal,UEFA,DEF,1,2,0,0,0,0,0,0
+Pepe,Portugal,UEFA,DEF,2,2,0,0,0,0,0,0
+Raphhael Guerreiro,Portugal,UEFA,DEF,5,7,0,0,0,0,0,0
+Joao Moutinho,Portugal,UEFA,MID,4,10,0,0,0,0,0,0
+William Carvalho,Portugal,UEFA,MID,2,4,0,0,0,0,0,0
+Bernardo Silva,Portugal,UEFA,MID,7,12,0,0,0,0,0,0
+Joao Felix,Portugal,UEFA,MID,8,12,0,0,0,0,0,0
+Diogo Jota,Portugal,UEFA,MID,10,10,0,0,0,0,0,0
+Cristiano Ronaldo,Portugal,UEFA,ATK,20,6,0,0,0,0,0,0
+Yann Sommer,Switzerland,UEFA,GK,0,0,0,0,0,0,0,0
+Manuel Akanki,Switzerland,UEFA,DEF,1,2,0,0,0,0,0,0
+Nico Elvedi,Switzerland,UEFA,DEF,1,2,0,0,0,0,0,0
+Fabian Schar,Switzerland,UEFA,DEF,2,5,0,0,0,0,0,0
+Ricardo Rodriguez,Switzerland,UEFA,DEF,2,5,0,0,0,0,0,0
+Granit Xhaka,Switzerland,UEFA,MID,5,4,0,0,0,0,0,0
+Remo Freuler,Switzerland,UEFA,MID,4,4,0,0,0,0,0,0
+Xherdan Shaqiri,Switzerland,UEFA,MID,8,10,0,0,0,0,0,0
+Admir Mehmedi,Switzerland,UEFA,MID,6,10,0,0,0,0,0,0
+Breel Embolo,Switzerland,UEFA,ATK,10,8,0,0,0,0,0,0
+Haris Seferovic,Switzerland,UEFA,ATK,10,8,0,0,0,0,0,0
+David De Gea,Spain,UEFA,GK,0,0,0,0,0,0,0,0
+Inigo Martinez,Spain,UEFA,DEF,1,2,0,0,0,0,0,0
+Sergio Ramos,Spain,UEFA,DEF,7,2,0,0,0,0,0,0
+Dani Carvajal,Spain,UEFA,DEF,2,5,0,0,0,0,0,0
+Jose Luis Gaya,Spain,UEFA,DEF,2,7,0,0,0,0,0,0
+Rodri,Spain,UEFA,MID,3,4,0,0,0,0,0,0
+Koke,Spain,UEFA,MID,3,7,0,0,0,0,0,0
+Dani Olmo,Spain,UEFA,MID,8,10,0,0,0,0,0,0
+Mika Oyarzabal,Spain,UEFA,ATK,8,10,0,0,0,0,0,0
+Ansu Fati,Spain,UEFA,ATK,8,12,0,0,0,0,0,0
+Alvaro Morata,Spain,UEFA,ATK,10,8,0,0,0,0,0,0
+Kasper Schmeichel,Denmark,UEFA,GK,0,0,0,0,0,0,0,0
+Andreas Christensen,Denmark,UEFA,DEF,1,2,0,0,0,0,0,0
+Simon Kjaer,Denmark,UEFA,DEF,1,2,0,0,0,0,0,0
+Joakim Maehle,Denmark,UEFA,DEF,2,5,0,0,0,0,0,0
+Rasmus Kristensen,Denmark,UEFA,DEF,2,5,0,0,0,0,0,0
+Thomas Delaney,Denmark,UEFA,MID,4,4,0,0,0,0,0,0
+Pierre-Emile Hojbjerg,Denmark,UEFA,MID,4,4,0,0,0,0,0,0
+Christian Eriksen,Denmark,UEFA,MID,8,10,0,0,0,0,0,0
+Pione Sisto,Denmark,UEFA,ATK,7,10,0,0,0,0,0,0
+Martin Braithwaite,Denmark,UEFA,ATK,10,8,0,0,0,0,0,0
+Yussuf Poulsen,Denmark,UEFA,ATK,10,8,0,0,0,0,0,0
+Manuel Neuer,Germany,UEFA,GK,0,0,0,0,0,0,0,0
+Lukas Klostermann,Germany,UEFA,DEF,1,5,0,0,0,0,0,0
+Nico Schultz,Germany,UEFA,DEF,2,4,0,0,0,0,0,0
+Antonio Rudiger,Germany,UEFA,DEF,1,2,0,0,0,0,0,0
+Niklas Sule,Germany,UEFA,DEF,1,2,0,0,0,0,0,0
+Joshua Kimmich,Germany,UEFA,MID,4,9,0,0,0,0,0,0
+Leon Goretzka,Germany,UEFA,MID,4,8,0,0,0,0,0,0
+Ilkay Gundogan,Germany,UEFA,MID,7,7,0,0,0,0,0,0
+Leroy Sane,Germany,UEFA,ATK,10,10,0,0,0,0,0,0
+Serge Gnabry,Germany,UEFA,ATK,10,10,0,0,0,0,0,0
+Timo Werner,Germany,UEFA,ATK,10,8,0,0,0,0,0,0
+Robin Olsen,Sweden,UEFA,GK,0,0,0,0,0,0,0,0
+Victor Lindelof,Sweden,UEFA,DEF,2,2,0,0,0,0,0,0
+Pontus Jansson,Sweden,UEFA,DEF,1,2,0,0,0,0,0,0
+Ludwig Augustinsson,Sweden,UEFA,DEF,2,5,0,0,0,0,0,0
+Mikael Lustig,Sweden,UEFA,DEF,3,5,0,0,0,0,0,0
+Viktor Claesson,Sweden,UEFA,MID,4,4,0,0,0,0,0,0
+Sebastian Larsson,Sweden,UEFA,MID,4,4,0,0,0,0,0,0
+Emil Forsberg,Sweden,UEFA,MID,6,10,0,0,0,0,0,0
+Dejan Kulusevski,Sweden,UEFA,MID,8,10,0,0,0,0,0,0
+Alexander Isak,Sweden,UEFA,ATK,10,8,0,0,0,0,0,0
+Zlatan Ibrahimovic,Sweden,UEFA,ATK,15,8,0,0,0,0,0,0
+Jasper Cillessen,Netherlands,UEFA,GK,0,0,0,0,0,0,0,0
+Stefan De Vrij,Netherlands,UEFA,DEF,1,2,0,0,0,0,0,0
+Virgil Van Dijk,Netherlands,UEFA,DEF,3,2,0,0,0,0,0,0
+Daley Blind,Netherlands,UEFA,DEF,2,5,0,0,0,0,0,0
+Mathias de Ligt,Netherlands,UEFA,DEF,2,5,0,0,0,0,0,0
+Kevin Strootman,Netherlands,UEFA,MID,4,6,0,0,0,0,0,0
+Marten De Roon,Netherlands,UEFA,MID,4,7,0,0,0,0,0,0
+Georginio Wijnaldum,Netherlands,UEFA,MID,6,10,0,0,0,0,0,0
+Steven Bergwijn,Netherlands,UEFA,MID,6,10,0,0,0,0,0,0
+Luuk De Jong,Netherlands,UEFA,ATK,7,8,0,0,0,0,0,0
+Memphis Depay,Netherlands,UEFA,ATK,10,8,0,0,0,0,0,0
+Gianluigi Donnaruma,Italy,UEFA,GK,0,0,0,0,0,0,0,0
+Dominic Criscito,Italy,UEFA,DEF,2,5,0,0,0,0,0,0
+Leonardo Bonucci,Italy,UEFA,DEF,2,2,0,0,0,0,0,0
+Giorgio Chiellini,Italy,UEFA,DEF,1,2,0,0,0,0,0,0
+Alessandro Florenzi,Italy,UEFA,DEF,2,6,0,0,0,0,0,0
+Jorginho,Italy,UEFA,MID,4,10,0,0,0,0,0,0
+Marco Veratti,Italy,UEFA,MID,4,8,0,0,0,0,0,0
+Nicolo Zaniolo,Italy,UEFA,MID,7,10,0,0,0,0,0,0
+Sebastian Giovinco,Italy,UEFA,ATK,10,10,0,0,0,0,0,0
+Stephan El Shaarrawy,Italy,UEFA,ATK,10,8,0,0,0,0,0,0
+Federico Chiesa,Italy,UEFA,ATK,12,10,0,0,0,0,0,0
+Wayne Hennessey,Wales,UEFA,GK,0,0,0,0,0,0,0,0
+Joe Rodon,Wales,UEFA,DEF,1,2,0,0,0,0,0,0
+Ethan Ampadu,Wales,UEFA,DEF,1,2,0,0,0,0,0,0
+Connor Roberts,Wales,UEFA,DEF,2,5,0,0,0,0,0,0
+Ben Davies,Wales,UEFA,DEF,2,5,0,0,0,0,0,0
+Joe Morrell,Wales,UEFA,MID,4,4,0,0,0,0,0,0
+David Brooks,Wales,UEFA,MID,6,4,0,0,0,0,0,0
+Daniel James,Wales,UEFA,MID,6,10,0,0,0,0,0,0
+Aaron Ramsay,Wales,UEFA,MID,8,10,0,0,0,0,0,0
+Hal Robson-Kanu,Wales,UEFA,ATK,8,8,0,0,0,0,0,0
+Gareth Bale,Wales,UEFA,ATK,20,8,0,0,0,0,0,0
+Lukas Fabianski,Poland,UEFA,GK,0,0,0,0,0,0,0,0
+Jan Bednarek,Poland,UEFA,DEF,1,2,0,0,0,0,0,0
+Robert Gummy,Poland,UEFA,DEF,1,2,0,0,0,0,0,0
+Kamil Glik,Poland,UEFA,DEF,2,5,0,0,0,0,0,0
+Maciej Rybus,Poland,UEFA,DEF,2,5,0,0,0,0,0,0
+Grzegorz Krychowiak,Poland,UEFA,MID,4,4,0,0,0,0,0,0
+Mateusz Klich,Poland,UEFA,MID,4,4,0,0,0,0,0,0
+Pior Zielinski,Poland,UEFA,MID,6,10,0,0,0,0,0,0
+Kamil Grosicki,Poland,UEFA,MID,6,10,0,0,0,0,0,0
+Krzystof Piatek,Poland,UEFA,ATK,10,8,0,0,0,0,0,0
+Robert Lewandowski,Poland,UEFA,ATK,25,8,0,0,0,0,0,0
+Ciprian Tatarusanu,Romania,UEFA,GK,0,0,0,0,0,0,0,0
+Alin Tosca,Romania,UEFA,DEF,1,2,0,0,0,0,0,0
+Vlad Chiriches,Romania,UEFA,DEF,1,2,0,0,0,0,0,0
+Ionut Nedelcearu,Romania,UEFA,DEF,2,5,0,0,0,0,0,0
+Cristian Manea,Romania,UEFA,DEF,2,5,0,0,0,0,0,0
+Razvan Marin,Romania,UEFA,MID,4,4,0,0,0,0,0,0
+Ciprian Deac,Romania,UEFA,MID,4,4,0,0,0,0,0,0
+Ianis Hagi,Romania,UEFA,MID,6,10,0,0,0,0,0,0
+Alexandru Maxim,Romania,UEFA,MID,6,10,0,0,0,0,0,0
+George Puscas,Romania,UEFA,ATK,10,8,0,0,0,0,0,0
+Cladiu Keseru,Romania,UEFA,ATK,10,8,0,0,0,0,0,0
+Andrey Lunin,Ukraine,UEFA,GK,0,0,0,0,0,0,0,0
+Mykola Matviyenko,Ukraine,UEFA,DEF,1,2,0,0,0,0,0,0
+Serhiy Krvstov,Ukraine,UEFA,DEF,1,2,0,0,0,0,0,0
+Oleksandr Karavayev,Ukraine,UEFA,DEF,2,5,0,0,0,0,0,0
+Vitaly Mykolenko,Ukraine,UEFA,DEF,2,5,0,0,0,0,0,0
+Taras Stepanenko,Ukraine,UEFA,MID,4,4,0,0,0,0,0,0
+Oleksandr Zinchenko,Ukraine,UEFA,MID,4,4,0,0,0,0,0,0
+Marlos,Ukraine,UEFA,MID,6,10,0,0,0,0,0,0
+Andriy Yarmolenko,Ukraine,UEFA,MID,10,10,0,0,0,0,0,0
+Eugene Konoplyanka,Ukraine,UEFA,MID,8,8,0,0,0,0,0,0
+Roman Yaremchuk,Ukraine,UEFA,ATK,10,8,0,0,0,0,0,0
+Predard Rajkovic,Serbia,UEFA,GK,0,0,0,0,0,0,0,0
+Niklola Maksimovic,Serbia,UEFA,DEF,1,2,0,0,0,0,0,0
+Nikola Milenkovic,Serbia,UEFA,DEF,1,2,0,0,0,0,0,0
+Aleksandar Kolvarov,Serbia,UEFA,DEF,4,5,0,0,0,0,0,0
+Milos Veljkovic,Serbia,UEFA,DEF,2,5,0,0,0,0,0,0
+Sergej Milinkovic-Savic,Serbia,UEFA,MID,4,4,0,0,0,0,0,0
+Nemanja Gudelj,Serbia,UEFA,MID,4,4,0,0,0,0,0,0
+Filip Kostic,Serbia,UEFA,MID,6,10,0,0,0,0,0,0
+Dusan Tadic,Serbia,UEFA,MID,6,10,0,0,0,0,0,0
+Aleksandar Mitrovic,Serbia,UEFA,ATK,10,8,0,0,0,0,0,0
+Luka Jovic,Serbia,UEFA,ATK,10,8,0,0,0,0,0,0
+Darren Randolph,Republic of Ireland,UEFA,GK,0,0,0,0,0,0,0,0
+Seamus Coleman,Republic of Ireland,UEFA,DEF,1,2,0,0,0,0,0,0
+Shane Duffy,Republic of Ireland,UEFA,DEF,1,2,0,0,0,0,0,0
+Matt Doherty,Republic of Ireland,UEFA,DEF,2,5,0,0,0,0,0,0
+Ciaran Clark,Republic of Ireland,UEFA,DEF,2,5,0,0,0,0,0,0
+Jeff Hendrick,Republic of Ireland,UEFA,MID,4,4,0,0,0,0,0,0
+James McCartghy,Republic of Ireland,UEFA,MID,4,4,0,0,0,0,0,0
+Robbie Brady,Republic of Ireland,UEFA,MID,6,10,0,0,0,0,0,0
+James McClean,Republic of Ireland,UEFA,MID,6,10,0,0,0,0,0,0
+Shane Long,Republic of Ireland,UEFA,ATK,10,8,0,0,0,0,0,0
+Callum Robinson,Republic of Ireland,UEFA,ATK,10,8,0,0,0,0,0,0
+Dusan Kuciak,Slovakia,UEFA,GK,0,0,0,0,0,0,0,0
+Martin Skrtel,Slovakia,UEFA,DEF,1,2,0,0,0,0,0,0
+Milan Skriniar,Slovakia,UEFA,DEF,1,2,0,0,0,0,0,0
+Peter Pekarik,Slovakia,UEFA,DEF,2,5,0,0,0,0,0,0
+Denis Vavro,Slovakia,UEFA,DEF,2,5,0,0,0,0,0,0
+Vladimir Weiss,Slovakia,UEFA,MID,4,4,0,0,0,0,0,0
+Juraj Kucka,Slovakia,UEFA,MID,4,4,0,0,0,0,0,0
+Marek Hamsik,Slovakia,UEFA,MID,6,10,0,0,0,0,0,0
+Robert Mak,Slovakia,UEFA,MID,6,10,0,0,0,0,0,0
+Robert Bozenik,Slovakia,UEFA,ATK,10,8,0,0,0,0,0,0
+Michal Duris,Slovakia,UEFA,ATK,10,8,0,0,0,0,0,0
+Michael McGovern,Northern Ireland,UEFA,GK,0,0,0,0,0,0,0,0
+Stuart Dallas,Northern Ireland,UEFA,DEF,4,2,0,0,0,0,0,0
+Craig Cathcart,Northern Ireland,UEFA,DEF,1,2,0,0,0,0,0,0
+Jonny Evans,Northern Ireland,UEFA,DEF,2,5,0,0,0,0,0,0
+Shane Ferguson,Northern Ireland,UEFA,DEF,2,5,0,0,0,0,0,0
+Steven Davis,Northern Ireland,UEFA,MID,4,4,0,0,0,0,0,0
+Niall McGinn,Northern Ireland,UEFA,MID,4,4,0,0,0,0,0,0
+Corry Evans,Northern Ireland,UEFA,MID,6,10,0,0,0,0,0,0
+Maddy McNair,Northern Ireland,UEFA,MID,6,10,0,0,0,0,0,0
+Liam Boyce,Northern Ireland,UEFA,ATK,10,8,0,0,0,0,0,0
+Kyle Lafferty,Northern Ireland,UEFA,ATK,10,8,0,0,0,0,0,0
+Heinz Lindner,Austria,UEFA,GK,0,0,0,0,0,0,0,0
+Aleksander Dragovic,Austria,UEFA,DEF,1,2,0,0,0,0,0,0
+Martin Hinteregger,Austria,UEFA,DEF,1,2,0,0,0,0,0,0
+David Alaba,Austria,UEFA,DEF,5,5,0,0,0,0,0,0
+Stefan Laimer,Austria,UEFA,DEF,2,5,0,0,0,0,0,0
+Julian Baumgartlinger,Austria,UEFA,MID,4,4,0,0,0,0,0,0
+Stefan Ilsanker,Austria,UEFA,MID,4,4,0,0,0,0,0,0
+Konrad Laimer,Austria,UEFA,MID,6,10,0,0,0,0,0,0
+Valentinto Lazaro,Austria,UEFA,MID,6,10,0,0,0,0,0,0
+Marko Arnautovic,Austria,UEFA,ATK,10,8,0,0,0,0,0,0
+Marcel Sabitzer,Austria,UEFA,ATK,8,8,0,0,0,0,0,0
+Asmir Begovic,Bosnia and Herzegovina,UEFA,GK,0,0,0,0,0,0,0,0
+Sead Kolasinac,Bosnia and Herzegovina,UEFA,DEF,1,2,0,0,0,0,0,0
+Ermin Bicakcic,Bosnia and Herzegovina,UEFA,DEF,1,2,0,0,0,0,0,0
+Eldar Sivic,Bosnia and Herzegovina,UEFA,DEF,2,5,0,0,0,0,0,0
+Toni Sunjic,Bosnia and Herzegovina,UEFA,DEF,2,5,0,0,0,0,0,0
+Muhamed Besic,Bosnia and Herzegovina,UEFA,MID,4,4,0,0,0,0,0,0
+Haris Duljevic,Bosnia and Herzegovina,UEFA,MID,4,4,0,0,0,0,0,0
+Izet Hajrovic,Bosnia and Herzegovina,UEFA,MID,6,10,0,0,0,0,0,0
+Armin Hodzic,Bosnia and Herzegovina,UEFA,ATK,8,10,0,0,0,0,0,0
+Milan Duric,Bosnia and Herzegovina,UEFA,ATK,8,8,0,0,0,0,0,0
+Edin Dzeko,Bosnia and Herzegovina,UEFA,ATK,20,8,0,0,0,0,0,0
+Mert Gunok,Turkey,UEFA,GK,0,0,0,0,0,0,0,0
+Caner Erkin,Turkey,UEFA,DEF,1,2,0,0,0,0,0,0
+Merih Demiral,Turkey,UEFA,DEF,1,2,0,0,0,0,0,0
+Kaan Ayhan,Turkey,UEFA,DEF,2,5,0,0,0,0,0,0
+Omer Bayram,Turkey,UEFA,DEF,2,5,0,0,0,0,0,0
+Okay Yokuslu,Turkey,UEFA,MID,4,4,0,0,0,0,0,0
+Yusuf Yazici,Turkey,UEFA,MID,4,4,0,0,0,0,0,0
+Hakan Calhanoglu,Turkey,UEFA,MID,8,10,0,0,0,0,0,0
+Cengiz Under,Turkey,UEFA,MID,8,10,0,0,0,0,0,0
+Burka Yilmaz,Turkey,UEFA,ATK,10,8,0,0,0,0,0,0
+Cenk Tosun,Turkey,UEFA,ATK,10,8,0,0,0,0,0,0
+Hannes Por Halldorsson,Iceland,UEFA,GK,0,0,0,0,0,0,0,0
+Ari Freyr Skulason,Iceland,UEFA,DEF,1,2,0,0,0,0,0,0
+Ragnar Sigurdsson,Iceland,UEFA,DEF,1,2,0,0,0,0,0,0
+Birkirt Mar Saevarsson,Iceland,UEFA,DEF,2,5,0,0,0,0,0,0
+Kari Arnason,Iceland,UEFA,DEF,2,5,0,0,0,0,0,0
+Runar Mar Sigurjonsson,Iceland,UEFA,MID,4,4,0,0,0,0,0,0
+Aron Gunnarsson,Iceland,UEFA,MID,4,4,0,0,0,0,0,0
+Johann Berg Gudmundsson,Iceland,UEFA,MID,6,10,0,0,0,0,0,0
+Gyfli Sigurdsson,Iceland,UEFA,MID,10,10,0,0,0,0,0,0
+Alfred Finnbogason,Iceland,UEFA,ATK,10,8,0,0,0,0,0,0
+Kolbeinne Sigporsson,Iceland,UEFA,ATK,10,8,0,0,0,0,0,0
+Odysseas Vlachodimos,Greece,UEFA,GK,0,0,0,0,0,0,0,0
+Dimitris Giannoulis,Greece,UEFA,DEF,1,2,0,0,0,0,0,0
+Dimitris Siovas,Greece,UEFA,DEF,1,2,0,0,0,0,0,0
+Kostas Manolas,Greece,UEFA,DEF,2,5,0,0,0,0,0,0
+Giorgos Tzavellas,Greece,UEFA,DEF,2,5,0,0,0,0,0,0
+Petros Mantolas,Greece,UEFA,MID,4,4,0,0,0,0,0,0
+Dimitris Kourbelis,Greece,UEFA,MID,4,4,0,0,0,0,0,0
+Zeca,Greece,UEFA,MID,6,10,0,0,0,0,0,0
+Kostas Fortounis,Greece,UEFA,MID,6,10,0,0,0,0,0,0
+Tasos Bakasetas,Greece,UEFA,ATK,10,8,0,0,0,0,0,0
+Dimitris Limnios,Greece,UEFA,ATK,10,8,0,0,0,0,0,0
+Craig Gordon,Scotland,UEFA,GK,0,0,0,0,0,0,0,0
+Scott McKenna,Scotland,UEFA,DEF,1,2,0,0,0,0,0,0
+Grant Hanley,Scotland,UEFA,DEF,1,2,0,0,0,0,0,0
+Kieran Tierney,Scotland,UEFA,DEF,2,5,0,0,0,0,0,0
+Andrew Robertson,Scotland,UEFA,DEF,2,5,0,0,0,0,0,0
+Callum McGregor,Scotland,UEFA,MID,4,4,0,0,0,0,0,0
+Scott McTominay,Scotland,UEFA,MID,4,4,0,0,0,0,0,0
+John McGinn,Scotland,UEFA,MID,6,10,0,0,0,0,0,0
+Stuart Armstrong,Scotland,UEFA,MID,6,10,0,0,0,0,0,0
+Leigh Griffiths,Scotland,UEFA,ATK,10,8,0,0,0,0,0,0
+Callum Paterson,Scotland,UEFA,ATK,10,8,0,0,0,0,0,0
+Guilherme,Russia,UEFA,GK,0,0,0,0,0,0,0,0
+Fyodor Kudryashov,Russia,UEFA,DEF,1,2,0,0,0,0,0,0
+Georgi Dzhikiya,Russia,UEFA,DEF,1,2,0,0,0,0,0,0
+Mario Fernandes,Russia,UEFA,DEF,2,5,0,0,0,0,0,0
+Yuri Zhirkov,Russia,UEFA,DEF,2,5,0,0,0,0,0,0
+Roman Zobnin,Russia,UEFA,MID,4,4,0,0,0,0,0,0
+Aleksandr Yerokin,Russia,UEFA,MID,4,4,0,0,0,0,0,0
+Anton Miranchuk,Russia,UEFA,MID,6,10,0,0,0,0,0,0
+Denis Cheryshev,Russia,UEFA,MID,6,10,0,0,0,0,0,0
+Artem Dzyuba,Russia,UEFA,ATK,10,8,0,0,0,0,0,0
+Fyodor Smolov,Russia,UEFA,ATK,10,8,0,0,0,0,0,0
+Tomas Vaclik,Czechia,UEFA,GK,0,0,0,0,0,0,0,0
+Tomas Kalas,Czechia,UEFA,DEF,1,2,0,0,0,0,0,0
+Filip Novak,Czechia,UEFA,DEF,1,2,0,0,0,0,0,0
+Jakub Brabec,Czechia,UEFA,DEF,2,5,0,0,0,0,0,0
+Roman Hubnik,Czechia,UEFA,DEF,2,5,0,0,0,0,0,0
+Jan Kopic,Czechia,UEFA,MID,4,4,0,0,0,0,0,0
+Jakub Jankto,Czechia,UEFA,MID,4,4,0,0,0,0,0,0
+Vladimir Darida,Czechia,UEFA,MID,6,10,0,0,0,0,0,0
+Tomas Soucek,Czechia,UEFA,MID,6,10,0,0,0,0,0,0
+Michael Krmencik,Czechia,UEFA,ATK,10,8,0,0,0,0,0,0
+Matej Vydra,Czechia,UEFA,ATK,10,8,0,0,0,0,0,0
+Rune Jarstein,Norway,UEFA,GK,0,0,0,0,0,0,0,0
+Kristoffer Ajer,Norway,UEFA,DEF,1,2,0,0,0,0,0,0
+Omar Elabdellaoui,Norway,UEFA,DEF,1,2,0,0,0,0,0,0
+Martin Linnes,Norway,UEFA,DEF,2,5,0,0,0,0,0,0
+Birger Meling,Norway,UEFA,DEF,2,5,0,0,0,0,0,0
+Markus Henriksen,Norway,UEFA,MID,4,4,0,0,0,0,0,0
+Mats Moller Daehli,Norway,UEFA,MID,4,4,0,0,0,0,0,0
+Stefan Johansen,Norway,UEFA,MID,6,10,0,0,0,0,0,0
+Mohamed Elyounoussi,Norway,UEFA,MID,6,10,0,0,0,0,0,0
+Joshua King,Norway,UEFA,ATK,10,8,0,0,0,0,0,0
+Erling Haaland,Norway,UEFA,ATK,20,8,0,0,0,0,0,0
+Nikolay Vihalov,Bulgaria,UEFA,GK,0,0,0,0,0,0,0,0
+Georgi Terziev,Bulgaria,UEFA,DEF,1,2,0,0,0,0,0,0
+Anton Nedyalkov,Bulgaria,UEFA,DEF,1,2,0,0,0,0,0,0
+Peter Zanev,Bulgaria,UEFA,DEF,2,5,0,0,0,0,0,0
+Vasil Bozhikov,Bulgaria,UEFA,DEF,2,5,0,0,0,0,0,0
+Georgi Milanov,Bulgaria,UEFA,MID,4,4,0,0,0,0,0,0
+Kristiyan Malinov,Bulgaria,UEFA,MID,4,4,0,0,0,0,0,0
+Georgi Kostadinov,Bulgaria,UEFA,MID,6,10,0,0,0,0,0,0
+Aleksander Tonev,Bulgaria,UEFA,MID,6,10,0,0,0,0,0,0
+Kiril Despodov,Bulgaria,UEFA,ATK,10,8,0,0,0,0,0,0
+Spas Delelv,Bulgaria,UEFA,ATK,10,8,0,0,0,0,0,0
+Peter Gulasci,Hungary,UEFA,GK,0,0,0,0,0,0,0,0
+Attila Fiola,Hungary,UEFA,DEF,1,2,0,0,0,0,0,0
+Gergo Lovrencsics,Hungary,UEFA,DEF,1,2,0,0,0,0,0,0
+Willi Orban,Hungary,UEFA,DEF,2,5,0,0,0,0,0,0
+Adam Lang,Hungary,UEFA,DEF,2,5,0,0,0,0,0,0
+Adam Nagy,Hungary,UEFA,MID,4,4,0,0,0,0,0,0
+Mate Patkai,Hungary,UEFA,MID,4,4,0,0,0,0,0,0
+Dominik Szoboszlai,Hungary,UEFA,MID,12,10,0,0,0,0,0,0
+Roland Sallai,Hungary,UEFA,MID,6,10,0,0,0,0,0,0
+Adam Szalai,Hungary,UEFA,ATK,10,8,0,0,0,0,0,0
+Nemanja Nikolic,Hungary,UEFA,ATK,10,8,0,0,0,0,0,0
+Daniel Petkovic,Montenegro,UEFA,GK,0,0,0,0,0,0,0,0
+Adam Marusic,Montenegro,UEFA,DEF,1,2,0,0,0,0,0,0
+Marko Simic,Montenegro,UEFA,DEF,1,2,0,0,0,0,0,0
+Zarko Tomasevic,Montenegro,UEFA,DEF,2,5,0,0,0,0,0,0
+Stefan Savic,Montenegro,UEFA,DEF,2,5,0,0,0,0,0,0
+Nikola Vukcevic,Montenegro,UEFA,MID,4,4,0,0,0,0,0,0
+Vladimir Jovovic,Montenegro,UEFA,MID,4,4,0,0,0,0,0,0
+Aleksander Boljevic,Montenegro,UEFA,MID,6,10,0,0,0,0,0,0
+Fatos Beciraj,Montenegro,UEFA,ATK,10,10,0,0,0,0,0,0
+Stefan Musoga,Montenegro,UEFA,ATK,10,8,0,0,0,0,0,0
+Stevan Jovetic,Montenegro,UEFA,ATK,20,8,0,0,0,0,0,0
+Lukas Hradecky,Finland,UEFA,GK,0,0,0,0,0,0,0,0
+Jukka Raitala,Finland,UEFA,DEF,1,2,0,0,0,0,0,0
+Jere Uronen,Finland,UEFA,DEF,1,2,0,0,0,0,0,0
+Paulus Arajuuri,Finland,UEFA,DEF,2,5,0,0,0,0,0,0
+Joona Toivio,Finland,UEFA,DEF,2,5,0,0,0,0,0,0
+Rasmus Schuller,Finland,UEFA,MID,4,4,0,0,0,0,0,0
+Pyry Soiri,Finland,UEFA,MID,4,4,0,0,0,0,0,0
+Robin Lod,Finland,UEFA,MID,6,10,0,0,0,0,0,0
+Fredrik Jensen,Finland,UEFA,MID,6,10,0,0,0,0,0,0
+Joel Pohjanpalo,Finland,UEFA,ATK,10,8,0,0,0,0,0,0
+Teemu Pukki,Finland,UEFA,ATK,15,8,0,0,0,0,0,0
+Etrit Berisha,Albania,UEFA,GK,0,0,0,0,0,0,0,0
+Freddie Veseli,Albania,UEFA,DEF,1,2,0,0,0,0,0,0
+Berat Gijmshiti,Albania,UEFA,DEF,1,2,0,0,0,0,0,0
+Elseid Hysaj,Albania,UEFA,DEF,2,5,0,0,0,0,0,0
+Ardian Ismajli,Albania,UEFA,DEF,2,5,0,0,0,0,0,0
+Ledian Memushaj,Albania,UEFA,MID,4,4,0,0,0,0,0,0
+Amir Abrashi,Albania,UEFA,MID,4,4,0,0,0,0,0,0
+Ermir Lenjani,Albania,UEFA,MID,6,10,0,0,0,0,0,0
+Odise Roshi,Albania,UEFA,MID,6,10,0,0,0,0,0,0
+Armando Sadiku,Albania,UEFA,ATK,10,8,0,0,0,0,0,0
+Sokol Cikalleshi,Albania,UEFA,ATK,10,8,0,0,0,0,0,0
+Jan Oblak,Slovenia,UEFA,GK,0,0,0,0,0,0,0,0
+Miha Mevlja,Slovenia,UEFA,DEF,1,2,0,0,0,0,0,0
+Petar Stojanovic,Slovenia,UEFA,DEF,1,2,0,0,0,0,0,0
+Nejc Skubic,Slovenia,UEFA,DEF,2,5,0,0,0,0,0,0
+Jure Balkovec,Slovenia,UEFA,DEF,2,5,0,0,0,0,0,0
+Jasmin Kurtic,Slovenia,UEFA,MID,4,4,0,0,0,0,0,0
+Benjamin Verbic,Slovenia,UEFA,MID,4,4,0,0,0,0,0,0
+Rajko Rep,Slovenia,UEFA,MID,6,10,0,0,0,0,0,0
+Josip Ilicic,Slovenia,UEFA,MID,12,10,0,0,0,0,0,0
+Tim Matavz,Slovenia,UEFA,ATK,10,8,0,0,0,0,0,0
+Andraz Sporar,Slovenia,UEFA,ATK,10,8,0,0,0,0,0,0
+Stole Dimitrievski,North Macedonia,UEFA,GK,0,0,0,0,0,0,0,0
+Stefan Ristovski,North Macedonia,UEFA,DEF,1,2,0,0,0,0,0,0
+Visar Musliu,North Macedonia,UEFA,DEF,1,2,0,0,0,0,0,0
+Kire Ristevski,North Macedonia,UEFA,DEF,2,5,0,0,0,0,0,0
+Gjoko Zajkov,North Macedonia,UEFA,DEF,2,5,0,0,0,0,0,0
+Stefan Spirovski,North Macedonia,UEFA,MID,4,4,0,0,0,0,0,0
+Boban Nikolov,North Macedonia,UEFA,MID,4,4,0,0,0,0,0,0
+Enis Bardhi,North Macedonia,UEFA,MID,6,10,0,0,0,0,0,0
+Ezgjan Alioski,North Macedonia,UEFA,MID,6,10,0,0,0,0,0,0
+Aleksandar Trajkovski,North Macedonia,UEFA,ATK,10,8,0,0,0,0,0,0
+Goran Pandev,North Macedonia,UEFA,ATK,10,8,0,0,0,0,0,0
+Alyaksandr Hutar,Belarus,UEFA,GK,0,0,0,0,0,0,0,0
+Alyaksandr Martynovich,Belarus,UEFA,DEF,1,2,0,0,0,0,0,0
+Syarhey Palitsevich,Belarus,UEFA,DEF,1,2,0,0,0,0,0,0
+Maksim Bardachow,Belarus,UEFA,DEF,2,5,0,0,0,0,0,0
+Ivan Mayewski,Belarus,UEFA,DEF,2,5,0,0,0,0,0,0
+Syarhey Kislyak,Belarus,UEFA,MID,4,4,0,0,0,0,0,0
+Pavel Nyakhaychuk,Belarus,UEFA,MID,4,4,0,0,0,0,0,0
+Stanislaw Drahun,Belarus,UEFA,MID,6,10,0,0,0,0,0,0
+Ihar Stasevhich,Belarus,UEFA,MID,6,10,0,0,0,0,0,0
+Mikhail Gordeichuk,Belarus,UEFA,ATK,10,8,0,0,0,0,0,0
+Anton Saroka,Belarus,UEFA,ATK,10,8,0,0,0,0,0,0
+Ofir Marciano,Israel,UEFA,GK,0,0,0,0,0,0,0,0
+Eitan Tibi,Israel,UEFA,DEF,1,2,0,0,0,0,0,0
+Eli Dasa,Israel,UEFA,DEF,1,2,0,0,0,0,0,0
+Sheran Yeini,Israel,UEFA,DEF,2,5,0,0,0,0,0,0
+Taleb Tawatha ,Israel,UEFA,DEF,2,5,0,0,0,0,0,0
+Eyal Golasa,Israel,UEFA,MID,4,4,0,0,0,0,0,0
+Dor Peretz,Israel,UEFA,MID,4,4,0,0,0,0,0,0
+Nir Bitton,Israel,UEFA,MID,6,10,0,0,0,0,0,0
+Bibras Natkho,Israel,UEFA,MID,6,10,0,0,0,0,0,0
+Mu'nas Dabbur,Israel,UEFA,ATK,10,8,0,0,0,0,0,0
+Eran Zahavi,Israel,UEFA,ATK,10,8,0,0,0,0,0,0
+Anthony Moris,Luxembourg,UEFA,GK,0,0,0,0,0,0,0,0
+Dirk Carlson,Luxembourg,UEFA,DEF,1,2,0,0,0,0,0,0
+Chris Philipps,Luxembourg,UEFA,DEF,1,2,0,0,0,0,0,0
+Enes Mahmutovic,Luxembourg,UEFA,DEF,2,5,0,0,0,0,0,0
+Lars Krogh Gerson,Luxembourg,UEFA,DEF,2,5,0,0,0,0,0,0
+Christopher Martins,Luxembourg,UEFA,DEF,4,4,0,0,0,0,0,0
+Daniel Sinani,Luxembourg,UEFA,MID,4,4,0,0,0,0,0,0
+Vincent Thill,Luxembourg,UEFA,MID,6,10,0,0,0,0,0,0
+Stefano Bensi,Luxembourg,UEFA,ATK,10,10,0,0,0,0,0,0
+Maurice Deville,Luxembourg,UEFA,ATK,10,8,0,0,0,0,0,0
+Daniel da Mota,Luxembourg,UEFA,ATK,20,8,0,0,0,0,0,0
+Anastasios Kissas,Cyprus,UEFA,GK,0,0,0,0,0,0,0,0
+Konstantinos Laifis,Cyprus,UEFA,DEF,1,2,0,0,0,0,0,0
+Nicholas Ioannou,Cyprus,UEFA,DEF,1,2,0,0,0,0,0,0
+Charis Shelis,Cyprus,UEFA,DEF,2,5,0,0,0,0,0,0
+Andreas Makris,Cyprus,UEFA,DEF,2,5,0,0,0,0,0,0
+Grigoris Kastanos,Cyprus,UEFA,MID,4,4,0,0,0,0,0,0
+Kostakis Artymatas,Cyprus,UEFA,MID,4,4,0,0,0,0,0,0
+Andreas Avraam,Cyprus,UEFA,MID,6,10,0,0,0,0,0,0
+Demetris Christofi,Cyprus,UEFA,ATK,10,10,0,0,0,0,0,0
+Pieros Sotiriou,Cyprus,UEFA,ATK,10,8,0,0,0,0,0,0
+Panagiotis Zachariou,Cyprus,UEFA,ATK,10,8,0,0,0,0,0,0
+Giorgi Loria,Georgia,UEFA,GK,0,0,0,0,0,0,0,0
+Otar Kakabadze,Georgia,UEFA,DEF,1,2,0,0,0,0,0,0
+Davit Khocholava,Georgia,UEFA,DEF,1,2,0,0,0,0,0,0
+Guram Kashia,Georgia,UEFA,DEF,2,5,0,0,0,0,0,0
+Giorgi Navalovski,Georgia,UEFA,DEF,2,5,0,0,0,0,0,0
+Murtaz Daushvili,Georgia,UEFA,MID,4,4,0,0,0,0,0,0
+Jaba Kankava,Georgia,UEFA,MID,4,4,0,0,0,0,0,0
+Valeri Qazaishvili,Georgia,UEFA,MID,6,10,0,0,0,0,0,0
+Giorgi Chakvtadze,Georgia,UEFA,MID,6,10,0,0,0,0,0,0
+Nika Kacharava,Georgia,UEFA,ATK,10,8,0,0,0,0,0,0
+Tornike Okriashvili,Georgia,UEFA,ATK,10,8,0,0,0,0,0,0
+Artur Kotenko,Estonia,UEFA,GK,0,0,0,0,0,0,0,0
+Taijo Teniste,Estonia,UEFA,DEF,1,2,0,0,0,0,0,0
+Karol Mets,Estonia,UEFA,DEF,1,2,0,0,0,0,0,0
+Joonas Tamm,Estonia,UEFA,DEF,2,5,0,0,0,0,0,0
+Artur Pikk,Estonia,UEFA,DEF,2,5,0,0,0,0,0,0
+Ilja Antonov,Estonia,UEFA,MID,4,4,0,0,0,0,0,0
+Siim Luts,Estonia,UEFA,MID,4,4,0,0,0,0,0,0
+Mattias Kait,Estonia,UEFA,MID,6,10,0,0,0,0,0,0
+Kostantin Vassiljev,Estonia,UEFA,MID,6,10,0,0,0,0,0,0
+Henri Anier,Estonia,UEFA,ATK,10,8,0,0,0,0,0,0
+Sergei Zenjov,Estonia,UEFA,ATK,10,8,0,0,0,0,0,0
+Gunnar Nielsen,Faroe Islands,UEFA,GK,0,0,0,0,0,0,0,0
+Viljormur Davidesen,Faroe Islands,UEFA,DEF,1,2,0,0,0,0,0,0
+Rogvi Baldvinsson,Faroe Islands,UEFA,DEF,1,2,0,0,0,0,0,0
+Odmar Faero ,Faroe Islands,UEFA,DEF,2,5,0,0,0,0,0,0
+Heini Vatnsdal,Faroe Islands,UEFA,DEF,2,5,0,0,0,0,0,0
+Gilli Rolantsson Sorensen,Faroe Islands,UEFA,MID,4,4,0,0,0,0,0,0
+Solvi Vatnhamar,Faroe Islands,UEFA,MID,4,4,0,0,0,0,0,0
+Hallur Hansson,Faroe Islands,UEFA,MID,6,10,0,0,0,0,0,0
+Brandur Hendriksson Olsen,Faroe Islands,UEFA,MID,6,10,0,0,0,0,0,0
+Klaemint Olsen,Faroe Islands,UEFA,ATK,10,8,0,0,0,0,0,0
+Joan Simun Edmundsson,Faroe Islands,UEFA,ATK,10,8,0,0,0,0,0,0
+Arsen Beglaryan,Armenia,UEFA,GK,0,0,0,0,0,0,0,0
+Varazdat Haroyan,Armenia,UEFA,DEF,1,2,0,0,0,0,0,0
+Taron Voskanyan,Armenia,UEFA,DEF,1,2,0,0,0,0,0,0
+Hovhannes Hambardzumyan,Armenia,UEFA,DEF,2,5,0,0,0,0,0,0
+Hayk Ishkhanyan,Armenia,UEFA,DEF,2,5,0,0,0,0,0,0
+Artak Grigoryan,Armenia,UEFA,MID,4,4,0,0,0,0,0,0
+Kamo Hovhannisayan,Armenia,UEFA,MID,4,4,0,0,0,0,0,0
+Gevord Ghazaryan,Armenia,UEFA,MID,6,10,0,0,0,0,0,0
+Henrikh Mkhitaryan,Armenia,UEFA,MID,15,10,0,0,0,0,0,0
+Sagis Adamyan,Armenia,UEFA,ATK,10,8,0,0,0,0,0,0
+Aleksandre Karapetian,Armenia,UEFA,ATK,10,8,0,0,0,0,0,0
+Emil Balayev,Azerbaijan,UEFA,GK,0,0,0,0,0,0,0,0
+Anton Krivotsyuk,Azerbaijan,UEFA,DEF,1,2,0,0,0,0,0,0
+Badavi Huseynov,Azerbaijan,UEFA,DEF,1,2,0,0,0,0,0,0
+Tamkin Khalilzade,Azerbaijan,UEFA,DEF,2,5,0,0,0,0,0,0
+Maksim Medvedev,Azerbaijan,UEFA,DEF,4,5,0,0,0,0,0,0
+Gary Garayev,Azerbaijan,UEFA,MID,4,4,0,0,0,0,0,0
+Namik Alaskarov,Azerbaijan,UEFA,MID,4,4,0,0,0,0,0,0
+Emin Mahmudov,Azerbaijan,UEFA,MID,6,10,0,0,0,0,0,0
+Araz Abdullayev,Azerbaijan,UEFA,MID,6,10,0,0,0,0,0,0
+Mahir Emreli,Azerbaijan,UEFA,ATK,10,8,0,0,0,0,0,0
+Ramil Sheydayev,Azerbaijan,UEFA,ATK,10,8,0,0,0,0,0,0
+Stas Pokatilov,Kazakhstan,UEFA,GK,0,0,0,0,0,0,0,0
+Serhiy Malyi,Kazakhstan,UEFA,DEF,1,2,0,0,0,0,0,0
+Dmitri Shomko,Kazakhstan,UEFA,DEF,1,2,0,0,0,0,0,0
+Gafurzhan Suyumbayev,Kazakhstan,UEFA,DEF,2,5,0,0,0,0,0,0
+Yuriy Logvinenko,Kazakhstan,UEFA,DEF,2,5,0,0,0,0,0,0
+Abzal Beisebekov,Kazakhstan,UEFA,MID,4,4,0,0,0,0,0,0
+Askhat Tagybergen,Kazakhstan,UEFA,MID,4,4,0,0,0,0,0,0
+Islambek Kuat,Kazakhstan,UEFA,MID,6,10,0,0,0,0,0,0
+Bauyrzhan Islamkhan,Kazakhstan,UEFA,MID,6,10,0,0,0,0,0,0
+Sergei Khizhnichenko,Kazakhstan,UEFA,ATK,8,8,0,0,0,0,0,0
+Aleksey Shchotkin,Kazakhstan,UEFA,ATK,6,8,0,0,0,0,0,0
+Samir Ujkani,Kosovo,UEFA,GK,0,0,0,0,0,0,0,0
+Fidan Aliti,Kosovo,UEFA,DEF,1,2,0,0,0,0,0,0
+Leart Paqarada,Kosovo,UEFA,DEF,1,2,0,0,0,0,0,0
+Amir Rrahmani,Kosovo,UEFA,DEF,2,5,0,0,0,0,0,0
+Fidan Aliti,Kosovo,UEFA,DEF,2,5,0,0,0,0,0,0
+Bersant Celina,Kosovo,UEFA,MID,4,4,0,0,0,0,0,0
+Valon Berisha,Kosovo,UEFA,MID,4,4,0,0,0,0,0,0
+Arber Zeneli,Kosovo,UEFA,MID,6,10,0,0,0,0,0,0
+Milot Raschica,Kosovo,UEFA,MID,6,10,0,0,0,0,0,0
+Vedat Muriqi,Kosovo,UEFA,ATK,10,8,0,0,0,0,0,0
+Atdhe Nuhiu,Kosovo,UEFA,ATK,6,8,0,0,0,0,0,0
+Emilijus Zubas,Lithuania,UEFA,GK,0,0,0,0,0,0,0,0
+Linas Klimavicius,Lithuania,UEFA,DEF,1,2,0,0,0,0,0,0
+Egidijus Vaitkunas,Lithuania,UEFA,DEF,1,2,0,0,0,0,0,0
+Saulius Mikoliunas,Lithuania,UEFA,DEF,2,5,0,0,0,0,0,0
+Rolandas Baravykas,Lithuania,UEFA,DEF,2,5,0,0,0,0,0,0
+Modestas Vorobjovas,Lithuania,UEFA,MID,4,4,0,0,0,0,0,0
+Ovidijus Verbickas,Lithuania,UEFA,MID,4,4,0,0,0,0,0,0
+Arvydas Novikovas,Lithuania,UEFA,MID,6,10,0,0,0,0,0,0
+Donatas Kazlauskas,Lithuania,UEFA,MID,6,10,0,0,0,0,0,0
+Fedor Cernych,Lithuania,UEFA,ATK,10,8,0,0,0,0,0,0
+Karolis Laukzemis,Lithuania,UEFA,ATK,8,8,0,0,0,0,0,0
+Pavels Steinbors,Latvia,UEFA,GK,0,0,0,0,0,0,0,0
+Kaspars Dubra,Latvia,UEFA,DEF,1,2,0,0,0,0,0,0
+Marcis Oss,Latvia,UEFA,DEF,1,2,0,0,0,0,0,0
+Igors Tarasovs,Latvia,UEFA,DEF,2,5,0,0,0,0,0,0
+Glebs Kluskins,Latvia,UEFA,DEF,2,5,0,0,0,0,0,0
+Ritvars Rugins,Latvia,UEFA,MID,4,4,0,0,0,0,0,0
+Vladimirs Kamess,Latvia,UEFA,MID,4,4,0,0,0,0,0,0
+Arturs Zjuzins,Latvia,UEFA,MID,6,10,0,0,0,0,0,0
+Janis Ikaunieks,Latvia,UEFA,MID,6,10,0,0,0,0,0,0
+Davis Ikaunieks,Latvia,UEFA,ATK,10,8,0,0,0,0,0,0
+Vladislavs Gukovskis,Latvia,UEFA,ATK,10,8,0,0,0,0,0,0
+Josep Gomes,Andorra,UEFA,GK,0,0,0,0,0,0,0,0
+Moises San Nicolas,Andorra,UEFA,DEF,1,2,0,0,0,0,0,0
+Marc Garcia,Andorra,UEFA,DEF,1,2,0,0,0,0,0,0
+Max Llovera,Andorra,UEFA,DEF,2,5,0,0,0,0,0,0
+Emili Garcia,Andorra,UEFA,DEF,2,5,0,0,0,0,0,0
+Marcio Viera,Andorra,UEFA,MID,4,4,0,0,0,0,0,0
+Sergi Moreno,Andorra,UEFA,MID,4,4,0,0,0,0,0,0
+Marc Pujol,Andorra,UEFA,MID,6,10,0,0,0,0,0,0
+Cristian Martinez,Andorra,UEFA,MID,6,10,0,0,0,0,0,0
+Marc Vales,Andorra,UEFA,ATK,10,8,0,0,0,0,0,0
+Jordi Alaez,Andorra,UEFA,ATK,10,8,0,0,0,0,0,0
+Stanislav Namasco,Moldova,UEFA,GK,0,0,0,0,0,0,0,0
+Petru Racu,Moldova,UEFA,DEF,1,2,0,0,0,0,0,0
+Veaceslav Posmac,Moldova,UEFA,DEF,1,2,0,0,0,0,0,0
+Igor Armas,Moldova,UEFA,DEF,2,5,0,0,0,0,0,0
+Alexandru Epureanu,Moldova,UEFA,DEF,2,5,0,0,0,0,0,0
+Andrei Cojocari,Moldova,UEFA,MID,4,4,0,0,0,0,0,0
+Catalin Carp,Moldova,UEFA,MID,4,4,0,0,0,0,0,0
+Alexandr Suvorov,Moldova,UEFA,MID,6,10,0,0,0,0,0,0
+Artur Ionita,Moldova,UEFA,MID,6,10,0,0,0,0,0,0
+Vitalie Damascan,Moldova,UEFA,ATK,10,8,0,0,0,0,0,0
+ion Nicolaescu,Moldova,UEFA,ATK,10,8,0,0,0,0,0,0
+Zach Muscat,Malta,UEFA,GK,0,0,0,0,0,0,0,0
+Jonathan Caruana,Malta,UEFA,DEF,1,2,0,0,0,0,0,0
+Steve Borg,Malta,UEFA,DEF,1,2,0,0,0,0,0,0
+Andrei Agius,Malta,UEFA,DEF,2,5,0,0,0,0,0,0
+Steve Pisani,Malta,UEFA,DEF,2,5,0,0,0,0,0,0
+Bjorn Kristensen,Malta,UEFA,MID,4,4,0,0,0,0,0,0
+Rowen Muscat,Malta,UEFA,MID,4,4,0,0,0,0,0,0
+Juan Carlos Corblana,Malta,UEFA,MID,6,10,0,0,0,0,0,0
+Paul Fenech,Malta,UEFA,MID,6,10,0,0,0,0,0,0
+Kyrian Nwoko,Malta,UEFA,ATK,10,8,0,0,0,0,0,0
+Michael Mifsud,Malta,UEFA,ATK,10,8,0,0,0,0,0,0
+Benjamin Buchel,Liechtenstein,UEFA,GK,0,0,0,0,0,0,0,0
+Daniel Kaufmann,Liechtenstein,UEFA,DEF,1,2,0,0,0,0,0,0
+Maximilian Goppel,Liechtenstein,UEFA,DEF,1,2,0,0,0,0,0,0
+Sandro Wolfinger,Liechtenstein,UEFA,DEF,2,5,0,0,0,0,0,0
+Seyhan Yildiz,Liechtenstein,UEFA,DEF,2,5,0,0,0,0,0,0
+Aron Sele,Liechtenstein,UEFA,MID,4,4,0,0,0,0,0,0
+Simon Kuhne,Liechtenstein,UEFA,MID,4,4,0,0,0,0,0,0
+Martin Buchel,Liechtenstein,UEFA,MID,6,10,0,0,0,0,0,0
+Nicolas Hasler,Liechtenstein,UEFA,MID,6,10,0,0,0,0,0,0
+Dennis Salanovic,Liechtenstein,UEFA,ATK,10,8,0,0,0,0,0,0
+Philippe Erne,Liechtenstein,UEFA,ATK,10,8,0,0,0,0,0,0
+Kyle Goldwin,Gibraltar,UEFA,GK,0,0,0,0,0,0,0,0
+Jack Sergeant,Gibraltar,UEFA,DEF,1,2,0,0,0,0,0,0
+Jayce Olivero,Gibraltar,UEFA,DEF,1,2,0,0,0,0,0,0
+Jean-Carlos Garcia,Gibraltar,UEFA,DEF,2,5,0,0,0,0,0,0
+Roy Chipolina,Gibraltar,UEFA,DEF,2,5,0,0,0,0,0,0
+Anthony Hernandz,Gibraltar,UEFA,MID,4,4,0,0,0,0,0,0
+Alain Pons,Gibraltar,UEFA,MID,4,4,0,0,0,0,0,0
+Kyle Casciaro,Gibraltar,UEFA,MID,6,10,0,0,0,0,0,0
+Liam Walker,Gibraltar,UEFA,MID,6,10,0,0,0,0,0,0
+Lee Casciaro,Gibraltar,UEFA,ATK,10,8,0,0,0,0,0,0
+Tjay De Barr,Gibraltar,UEFA,ATK,10,8,0,0,0,0,0,0
+Elia Benedettini,San Marino,UEFA,GK,0,0,0,0,0,0,0,0
+Manuel Battistini,San Marino,UEFA,DEF,1,2,0,0,0,0,0,0
+Davide Simoncini,San Marino,UEFA,DEF,1,2,0,0,0,0,0,0
+Mirko Palazzi,San Marino,UEFA,DEF,2,5,0,0,0,0,0,0
+Cristian Brolli,San Marino,UEFA,DEF,2,5,0,0,0,0,0,0
+Alessandro Golinucci,San Marino,UEFA,MID,4,4,0,0,0,0,0,0
+Enrico Golinucci,San Marino,UEFA,MID,4,4,0,0,0,0,0,0
+Michele Cervellini,San Marino,UEFA,MID,6,10,0,0,0,0,0,0
+Adolfo Hirsch,San Marino,UEFA,ATK,10,8,0,0,0,0,0,0
+Filippo Berardi,San Marino,UEFA,ATK,10,8,0,0,0,0,0,0
+Matteo Vitaioli,San Marino,UEFA,ATK,10,8,0,0,0,0,0,0

@@ -3,9 +3,7 @@ import random
 import json
 import os
 
-#TODO: Put these files and functions in
-from functions.worldcup_functions import worldcup_draw
-
+from functions.finals_functions import world_cup_draw
 
 # Main group-stage function containing the sub-functions
 def group_stage(data, teams, legs, settings, WC, group_number, group_size):
@@ -18,7 +16,7 @@ def group_stage(data, teams, legs, settings, WC, group_number, group_size):
         groups = group_draw(group_number, group_size, teams)
 
     else:
-        groups = worldcup_draw(data, teams, settings)
+        groups = world_cup_draw(teams, settings, 12, 4)
 
     names = ['Group A', 'Group B', 'Group C', 'Group D', 'Group E', 'Group F', 'Group G', 'Group H', 'Group I', 'Group J', 'Group K', 'Group L']
 
@@ -40,7 +38,6 @@ def group_stage(data, teams, legs, settings, WC, group_number, group_size):
 
             # Convert the dictionary to a JSON string and write it to the file
             f.write(json.dumps(json_dict) + '\n')
-
 
     return groups
 

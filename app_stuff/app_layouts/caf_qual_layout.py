@@ -1,6 +1,6 @@
 from dash import dcc, html, Input, Output, callback, dash_table, no_update
 import dash_bootstrap_components as dbc
-
+import json
 
 def get_caf_qual_layout(groups, matches, filtered_groups, filtered_matches):
 
@@ -17,7 +17,7 @@ def get_caf_qual_layout(groups, matches, filtered_groups, filtered_matches):
                     dbc.Row([
                         dbc.Col([
                             html.P("\n"),
-                            html.P(key),
+                            html.P(f"key: {key}"),
                             dash_table.DataTable(groups[key].to_dict('records'),
                                                  [{"name": i, "id": i} for i in groups[key].columns],
                                                  sort_action='native', sort_mode='multi')
@@ -38,8 +38,13 @@ def get_caf_qual_layout(groups, matches, filtered_groups, filtered_matches):
                             html.P("\n"),
                             html.P(key),
                             dash_table.DataTable(matches[key].to_dict('records'),
-                                                 [{"name": i, "id": i} for i in matches[key].columns],
-                                                 sort_action='native', sort_mode='multi')
+                                                 [{"name": i, "id": i} for i in matches[key].columns[1:]],
+                                                 sort_action='native', sort_mode='multi'),
+
+                            html.P(f"{matches[key].to_dict('records')}"),
+                            print(matches[key]),
+                            print(matches[key].to_dict('records')),
+                            html.P(f"Score: {matches[key].iat[0, 1]} {matches[key].iat[0, 2]}:{matches[key].iat[1, 2]} {matches[key].iat[1, 1]}")
                         ]) for key in filtered_round2[i:i + 3]
                     ]) for i in range(0, len(filtered_round2), 3)
 
